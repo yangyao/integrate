@@ -1,0 +1,66 @@
+{
+  "billing_address_id": 0,
+  "created_at": "string",
+  "customer_id": 0,
+  "email_sent": 0,
+  "entity_id": 0,
+  "increment_id": "string",
+  "order_id": 0,
+  "packages": [
+    {
+      "extension_attributes": {}
+    }
+  ],
+  "shipment_status": 0,
+  "shipping_address_id": 0,
+  "shipping_label": "string",
+  "store_id": 0,
+  "total_qty": 0,
+  "total_weight": 0,
+  "updated_at": "string",
+  "items": [
+    {
+      "additional_data": "string",
+      "description": "string",
+      "entity_id": 0,
+      "name": "string",
+      "parent_id": 0,
+      "price": 0,
+      "product_id": 0,
+      "row_total": 0,
+      "sku": "string",
+      "weight": 0,
+      "extension_attributes": {},
+      "order_item_id": 0,
+      "qty": 0
+    }
+  ],
+  "tracks": [
+    {
+      "order_id": 0,
+      "created_at": "string",
+      "entity_id": 0,
+      "parent_id": 0,
+      "updated_at": "string",
+      "weight": 0,
+      "qty": 0,
+      "description": "string",
+      "extension_attributes": {},
+      "track_number": "string",
+      "title": "string",
+      "carrier_code": "string"
+    }
+  ],
+  "comments": [
+    {
+      "is_customer_notified": 0,
+      "parent_id": 0,
+      "extension_attributes": {},
+      "comment": "string",
+      "is_visible_on_front": 0,
+      "created_at": "string",
+      "entity_id": 0
+    }
+  ],
+  "extension_attributes": {}
+}

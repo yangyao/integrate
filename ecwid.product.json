@@ -1,0 +1,682 @@
+{
+    "total": 5,
+    "count": 2,
+    "offset": 0,
+    "limit": 2,
+    "items": [
+        {
+          "id": 37208339,
+          "sku": "00099",
+          "thumbnailUrl": "http://app.ecwid.com/default-store/00011-232-sq.jpg",
+          "quantity": 11,
+          "unlimited": false,
+          "inStock": true,
+          "name": "Orange",
+          "nameTranslated": {
+            "en": "Orange"
+          },
+          "price": 10,
+          "defaultDisplayedPrice": 10,
+          "defaultDisplayedPriceFormatted": "$10.00",
+          "tax": {
+            "defaultLocationIncludedTaxRate": 0,
+              "enabledManualTaxes": [
+                1117939047
+              ]
+          },
+          "wholesalePrices": [
+            {
+              "quantity": 2,
+              "price": 9
+            },
+            {
+              "quantity": 4,
+              "price": 8
+            }
+          ],
+          "compareToPrice": 23,
+          "compareToPriceFormatted": "$23.00",
+          "compareToPriceDiscount": 13,
+          "compareToPriceDiscountFormatted": "$13",
+          "compareToPriceDiscountPercent": 56,
+          "compareToPriceDiscountPercentFormatted": "56%",          
+          "isShippingRequired": true,
+          "weight": 0,
+          "url": "https://mdemo.ecwid.com/Orange-p37208339",
+          "created": "2015-10-05 07:26:14 +0000",
+          "updated": "2016-02-03 10:01:02 +0000",
+          "createTimestamp": 1444029974,
+          "updateTimestamp": 1454493662,
+          "productClassId": 0,
+          "enabled": true,
+          "options": [],
+          "warningLimit": 0,
+          "fixedShippingRateOnly": true,
+          "fixedShippingRate": 0,
+          "shipping": {
+            "type": "SELECTED_METHODS",
+            "methodMarkup": 0,
+            "flatRate": 0,
+            "disabledMethods": [
+              "1396442138-1534946367952"
+            ],
+            "enabledMethods": []
+          },
+          "defaultCombinationId": 0,
+          "description": "<p>It's a tasty fruit!</p>",
+          "descriptionTranslated": {
+            "en": "<p>It's a tasty fruit!</p>"
+          },
+          "media": {
+            "images": [
+                {
+                    "id": "0",
+                    "isMain": true,
+                    "orderBy": 0,
+                    "image160pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930223.jpg",
+                    "image400pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930220.jpg",
+                    "image800pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930226.jpg",
+                    "image1500pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930217.jpg",
+                    "imageOriginalUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930216.jpg"
+                },
+                {
+                    "id": "1",
+                    "isMain": false,
+                    "orderBy": 1,
+                    "image160pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891776.jpg",
+                    "image400pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891779.jpg",
+                    "image800pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891778.jpg",
+                    "image1500pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891777.jpg",
+                    "imageOriginalUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891775.jpg"
+                }
+            ]
+          },
+          "categoryIds": [
+            19563207,
+            19976005,
+            19976006
+          ],
+          "categories": [
+            {
+              "id": 19976006,
+              "enabled": true
+            },
+            {
+              "id": 19976005,
+              "enabled": true
+            },
+            {
+              "id": 19563207,
+              "enabled": false
+            }
+          ],
+          "seoTitle": "Orange",
+          "seoDescription": "It's a tasty orange for you and your family!",
+          "defaultCategoryId": 19976006,
+          "favorites": {
+            "count": 0,
+            "displayedCount": "0"
+          },
+          "attributes": [
+            {
+              "id": 8258226,
+              "name": "Width",
+              "value": "61.47 mm",
+              "type": "CUSTOM",
+              "show": "DESCR"
+            },
+            {
+              "id": 8258231,
+              "name": "Height",
+              "value": "117.09 mm",
+              "type": "CUSTOM",
+              "show": "DESCR"
+            },
+            {
+              "id": 8258249,
+              "name": "Depth",
+              "value": "15.49 mm",
+              "type": "CUSTOM",
+              "show": "DESCR"
+            },
+            {
+              "id": 8258255,
+              "name": "Net weight",
+              "value": "153.2 g",
+              "type": "CUSTOM",
+              "show": "DESCR"
+            }
+          ],
+          "files": [],
+          "relatedProducts": {
+            "productIds": [],
+            "relatedCategory": {
+              "enabled": false,
+              "categoryId": 0,
+              "productCount": 1
+            }
+          },
+          "combinations": [],
+          "dimensions": {
+            "length": 0,
+            "width": 0,
+            "height": 0
+          },
+          "showOnFrontpage": 1,
+          "isSampleProduct": false
+        },
+        {
+            "id": 37208340,
+            "sku": "00007",
+            "thumbnailUrl": "http://app.ecwid.com/default-store/00007-230-sq.jpg",
+            "quantity": 67,
+            "inStock": true,
+            "name": "Radish",
+            "nameTranslated": {
+              "en": "Radish"
+            },
+            "price": 1.15,
+            "defaultDisplayedPrice": 1.15,
+            "defaultDisplayedPriceFormatted": "$1.15",
+            "tax": {
+              "defaultLocationIncludedTaxRate": 5,
+                "enabledManualTaxes": [
+                  1117939042
+                ]
+            },  
+            "wholesalePrices": [
+                {
+                    "quantity": 10,
+                    "price": 1.05
+                }
+            ],
+            "compareToPrice": 1.34,
+            "compareToPriceFormatted": "$1.34",
+            "compareToPriceDiscount": 0.19,
+            "compareToPriceDiscountFormatted": "$0.19",
+            "compareToPriceDiscountPercent": 14,
+            "compareToPriceDiscountPercentFormatted": "14%",
+            "isShippingRequired": true,
+            "weight": 0.31,
+            "url": "https://mdemo.ecwid.com/Radish-p37208340",
+            "created": "2009-07-23 17:22:37 +0000",
+            "updated": "2014-07-30 10:32:37 +0000",
+            "createTimestamp": 1248340746,
+            "updateTimestamp": 1428313104,
+            "productClassId": 0,
+            "enabled": false,
+            "options": [
+                {
+                    "type": "RADIO",
+                    "name": "Size",
+                    "nameTranslated": {
+                      "en": "Size"
+                    },
+                    "choices": [
+                        {
+                            "text": "Small",
+                            "textTranslated": {
+                              "Small"
+                            },
+                            "priceModifier": 0,
+                            "priceModifierType": "ABSOLUTE"
+                        },
+                        {
+                            "text": "Large",
+                            "textTranslated": {
+                              "en": "Large"
+                            },
+                            "priceModifier": 0.5,
+                            "priceModifierType": "ABSOLUTE"
+                        }
+                    ],
+                    "defaultChoice": 0,
+                    "required": false
+                },
+                {
+                    "type": "SELECT",
+                    "name": "Color",
+                    "nameTranslated": {
+                      "en": "Color"
+                    },
+                    "choices": [
+                        {
+                            "text": "Red",
+                            "textTranslated": {
+                              "en": "Red"
+                            },
+                            "priceModifier": 0,
+                            "priceModifierType": "ABSOLUTE"
+                        },
+                        {
+                            "text": "White",
+                            "textTranslated": {
+                              "en": "White"
+                            },
+                            "priceModifier": 0,
+                            "priceModifierType": "ABSOLUTE"
+                        }
+                    ],
+                    "defaultChoice": 0,
+                    "required": false
+                }
+            ],
+            "warningLimit": 0,
+            "fixedShippingRateOnly": false,
+            "fixedShippingRate": 0,
+            "shipping": {
+              "type": "FLAT_RATE",
+              "methodMarkup": 0,
+              "flatRate": 12,
+              "disabledMethods": [],
+              "enabledMethods": []
+            },
+            "defaultCombinationId": 7084076,
+            "description": "<h5>Radish</h5>\n<p>The radish (Raphanus sativus) is an edible root vegetable of the Brassicaceae family that was domesticated in Europe in pre-Roman times. They are grown and consumed throughout the world. Radishes have numerous varieties, varying in size, color and duration of required cultivation time. There are some radishes that are grown for their seeds; oilseed radishes are grown, as the name implies, for oil production.</p>\n<p> </p>\n<div style=\"padding: 24px 24px 24px 21px; display: block; background-color: #ececec;\">From <a style=\"color: #1e7ec8; text-decoration: underline;\" title=\"Wikipedia\" href=\"http://en.wikipedia.org\">Wikipedia</a>, the free encyclopedia</div>",
+            "descriptionTranslated": {
+              "en": "<h5>Radish</h5>\n<p>The radish (Raphanus sativus) is an edible root vegetable of the Brassicaceae family that was domesticated in Europe in pre-Roman times. They are grown and consumed throughout the world. Radishes have numerous varieties, varying in size, color and duration of required cultivation time. There are some radishes that are grown for their seeds; oilseed radishes are grown, as the name implies, for oil production.</p>\n<p> </p>\n<div style=\"padding: 24px 24px 24px 21px; display: block; background-color: #ececec;\">From <a style=\"color: #1e7ec8; text-decoration: underline;\" title=\"Wikipedia\" href=\"http://en.wikipedia.org\">Wikipedia</a>, the free encyclopedia</div>"
+            },
+            "media": {
+              "images": [
+                  {
+                      "id": "0",
+                      "isMain": true,
+                      "orderBy": 0,
+                      "image160pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930223.jpg",
+                      "image400pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930220.jpg",
+                      "image800pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930226.jpg",
+                      "image1500pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930217.jpg",
+                      "imageOriginalUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930216.jpg"
+                  }
+              ]
+            },
+            "categoryIds": [
+                9691095
+            ],
+            "categories": [
+              {
+                "id": 9691095,
+                "enabled": true
+              }
+            ],
+            "seoTitle": "Radish",
+            "seoDescription": "It's an awesome radish just for you!",
+            "defaultCategoryId": 9691095,
+            "attributes": [
+                {
+                    "id": 5029057,
+                    "name": "Brand",
+                    "value": "SuperVegetables",
+                    "type": "BRAND",
+                    "show": "DESCR"
+                },
+                {
+                    "id": 5029059,
+                    "name": "Hidden Attribute",
+                    "value": "Secret Value",
+                    "type": "CUSTOM",
+                    "show": "NOTSHOW"
+                },
+                {
+                  "id": 9998010,
+                  "name": "UPC",
+                  "value": "04359435435940000",
+                  "show": "DESCR",
+                  "type": "UPC"
+                }
+            ],
+            "files": [
+                {
+                    "id": 7215101,
+                    "name": "pic_200_200.jpg",
+                    "description": "",
+                    "size": 54492,
+                    "adminUrl": "https://app.ecwid.com/api/v3/4870020/products/37208340/files/7215101"
+                },
+                {
+                    "id": 7215102,
+                    "name": "14293004.zip",
+                    "description": "Files archive",
+                    "size": 18955,
+                    "adminUrl": "https://app.ecwid.com/api/v3/4870020/products/37208340/files/7215102"
+                }
+            ],
+            "relatedProducts": {
+                "productIds": [
+                    37208340
+                ],
+                "relatedCategory": {
+                    "enabled": true,
+                    "categoryId": 9691095,
+                    "productCount": 1
+                }
+            },
+            "combinations": [
+                {
+                    "id": 7084071,
+                    "combinationNumber": 6,
+                    "options": [
+                        {
+                            "name": "Color",
+                            "nameTranslated": {
+                              "en": "Color"
+                            },
+                            "value": "White",
+                            "valueTranslated": {
+                              "en": "White"
+                            }
+                        },
+                        {
+                            "name": "Size",
+                            "nameTranslated": {
+                              "en": "Size"
+                            },
+                            "value": "Large",
+                            "valueTranslated": {
+                              "en": "Large"
+                            }
+                        }
+                    ],
+                    "sku": "000076",
+                    "quantity": 1,
+                    "unlimited": false,
+                    "price": 1,
+                    "compareToPrice": 2,
+                    "weight": 0.41,
+                    "warningLimit": 1,
+                    "attributes": [
+                      {
+                        "id": 9998010,
+                        "name": "UPC",
+                        "value": "0435943543594395",
+                        "show": "DESCR",
+                        "type": "UPC"
+                      }
+                    ]
+                },
+                {
+                    "id": 7084072,
+                    "combinationNumber": 5,
+                    "options": [
+                        {
+                            "name": "Color",
+                            "nameTranslated": {
+                              "en": "Color"
+                            },
+                            "value": "Red",
+                            "valueTranslated": {
+                              "en": "Red"
+                            }
+                        },
+                        {
+                            "name": "Size",
+                            "nameTranslated": {
+                              "en": "Size"
+                            },
+                            "value": "Large",
+                            "valueTranslated": {
+                              "en": "Large"
+                            }
+                        }
+                    ],
+                    "sku": "000075",
+                    "quantity": 0,
+                    "unlimited": false,
+                    "price": 1.12,
+                    "weight": 0.41,
+                    "warningLimit": 0
+                },
+                {
+                    "id": 7084075,
+                    "combinationNumber": 2,
+                    "options": [
+                        {
+                            "name": "Size",
+                            "nameTranslated": {
+                              "en": "Size"
+                            },
+                            "value": "Small",
+                            "valueTranslated": {
+                              "en": "Small"
+                            }
+                        },
+                        {
+                            "name": "Color",
+                            "nameTranslated": {
+                              "en": "Color"
+                            },
+                            "value": "White",
+                            "valueTranslated": {
+                              "en": "White"
+                            }
+                        }
+                    ],
+                    "sku": "000072",
+                    "quantity": 67,
+                    "unlimited": true,
+                    "price": 1.11,
+                    "compareToPrice": 2.22,
+                    "warningLimit": 0
+                },
+                {
+                    "id": 7084076,
+                    "combinationNumber": 1,
+                    "options": [
+                        {
+                            "name": "Size",
+                            "nameTranslated": {
+                              "en": "Size"
+                            },
+                            "value": "Small",
+                            "valueTranslated": {
+                              "en": "Small"
+                            }
+                        },
+                        {
+                            "name": "Color",
+                            "nameTranslated": {
+                              "en": "Color"
+                            },
+                            "value": "Red",
+                            "valueTranslated": {
+                              "en": "Red"
+                            }
+                        }
+                    ],
+                    "sku": "000071",
+                    "quantity": 61,
+                    "smallThumbnailUrl": "https://app.ecwid.com/images/1003/397690841.jpg",
+                    "hdThumbnailUrl": "https://app.ecwid.com/images/1003/397690842.jpg",
+                    "thumbnailUrl": "https://app.ecwid.com/images/1003/397690811.jpg",
+                    "imageUrl": "https://app.ecwid.com/images/1003/397690844.jpg",
+                    "originalImageUrl": "https://app.ecwid.com/images/1003/397690845jpg",
+                    "price": 1.6,
+                    "unlimited": false,
+                    "warningLimit": 0
+                }
+            ],
+          "dimensions": {
+            "length": 14,
+            "width": 6,
+            "height": 3
+          },
+          "isSampleProduct": false          
+        }
+    ]
+}
+Public token request example
+
+GET /api/v3/4870020/products?limit=2&keyword=fruit&token=public_123abcdaASasdASjndasAnsdu HTTP/1.1
+Host: app.ecwid.com
+Content-Type: application/json;charset=utf-8
+Cache-Control: no-cache
+Response example (JSON)
+
+{
+    "total": 5,
+    "count": 2,
+    "offset": 0,
+    "limit": 2,
+    "items": [
+        {
+          "id": 37208339,
+          "sku": "00099",
+          "thumbnailUrl": "http://app.ecwid.com/default-store/00011-232-sq.jpg",
+          "quantity": 11,
+          "unlimited": false,
+          "inStock": true,
+          "name": "Orange",
+          "nameTranslated": {
+            "en": "Orange"
+          },
+          "price": 10,
+          "defaultDisplayedPrice": 10,
+          "defaultDisplayedPriceFormatted": "$10.00",
+          "tax": {
+            "defaultLocationIncludedTaxRate": 5,
+              "enabledManualTaxes": [
+                1117939042
+              ]
+          },
+          "wholesalePrices": [
+            {
+              "quantity": 2,
+              "price": 9
+            },
+            {
+              "quantity": 4,
+              "price": 8
+            }
+          ],
+          "compareToPrice": 23,
+          "compareToPriceFormatted": "$23.00",
+          "compareToPriceDiscount": 13,
+          "compareToPriceDiscountFormatted": "$13",
+          "compareToPriceDiscountPercent": 56,
+          "compareToPriceDiscountPercentFormatted": "56%",          
+          "isShippingRequired": true,
+          "weight": 0,
+          "url": "https://mdemo.ecwid.com/Orange-p37208339",
+          "created": "2015-10-05 07:26:14 +0000",
+          "updated": "2016-02-03 10:01:02 +0000",
+          "createTimestamp": 1444029974,
+          "updateTimestamp": 1454493662,
+          "productClassId": 0,
+          "enabled": true,
+          "options": [],
+          "warningLimit": 0,
+          "fixedShippingRateOnly": true,
+          "fixedShippingRate": 0,
+          "shipping": {
+            "type": "SELECTED_METHODS",
+            "methodMarkup": 0,
+            "flatRate": 0,
+            "disabledMethods": [
+                "1396442138-1534946367952"
+            ],
+            "enabledMethods": []
+          },
+          "defaultCombinationId": 0,
+          "description": "<p>It's a tasty fruit!</p>",
+          "descriptionTranslated": {
+            "en": "<p>It's a tasty fruit!</p>"
+          },
+          "media": {
+            "images": [
+                {
+                    "id": "0",
+                    "isMain": true,
+                    "orderBy": 0,
+                    "image160pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930223.jpg",
+                    "image400pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930220.jpg",
+                    "image800pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930226.jpg",
+                    "image1500pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930217.jpg",
+                    "imageOriginalUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/783930216.jpg"
+                },
+                {
+                    "id": "1",
+                    "isMain": false,
+                    "orderBy": 1,
+                    "image160pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891776.jpg",
+                    "image400pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891779.jpg",
+                    "image800pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891778.jpg",
+                    "image1500pxUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891777.jpg",
+                    "imageOriginalUrl": "https://dqzrr9k4bjpzk.cloudfront.net/images/5035009/963891775.jpg"
+                }
+            ]
+          },
+          "categoryIds": [
+            19563207,
+            19976005,
+            19976006
+          ],
+          "categories": [
+            {
+              "id": 19976006,
+              "enabled": true
+            },
+            {
+              "id": 19976005,
+              "enabled": true
+            },
+            {
+              "id": 19563207,
+              "enabled": false
+            }
+          ],
+          "seoTitle": "Orange",
+          "seoDescription": "It's a tasty orange for you and your family!",
+          "defaultCategoryId": 0,
+          "favorites": {
+            "count": 0,
+            "displayedCount": "0"
+          },
+          "attributes": [
+            {
+              "id": 8258226,
+              "name": "Width",
+              "value": "61.47 mm",
+              "type": "CUSTOM",
+              "show": "DESCR"
+            },
+            {
+              "id": 8258231,
+              "name": "Height",
+              "value": "117.09 mm",
+              "type": "CUSTOM",
+              "show": "DESCR"
+            },
+            {
+              "id": 8258249,
+              "name": "Depth",
+              "value": "15.49 mm",
+              "type": "CUSTOM",
+              "show": "DESCR"
+            },
+            {
+              "id": 8258255,
+              "name": "Net weight",
+              "value": "153.2 g",
+              "type": "CUSTOM",
+              "show": "DESCR"
+            }
+          ],
+          "files": [],
+          "relatedProducts": {
+            "productIds": [],
+            "relatedCategory": {
+              "enabled": false,
+              "categoryId": 0,
+              "productCount": 1
+            }
+          },
+          "combinations": [],
+          "dimensions": {},
+          "isSampleProduct": false          
+        },
+        {
+            "id": 37208339,
+            "enabled": false
+        }
+    ]
+}

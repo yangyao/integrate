@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "data": {
+      "id": "5b74f4958776db0e00b6f5ed",
+      "connection_id": "57eb6a716f469ea2194c6e11",
+      "user_id": "57eb6a716f469ea2194c6e11",
+      "slug": "shopify",
+      "product_id": 123,
+      "price" : {
+        "currency_code" : "",
+        "amount" : "",
+        "display_amount" : ""
+      },
+      "sku": "MACBOOKPRO13",
+      "name": "MacBook Pro 13",
+      "qty": 12,
+      "images" : "",
+      "status" : "",
+      "desscription" : "",
+      "stock_qty" : "",
+      "category" : "",
+      "desscription" : "",
+      "origin_created_at" : "",
+      "origin_updated_at" : "",      
+      "created_at": "2018-08-16T03:50:47+00:00",
+      "updated_at": "2018-08-16T03:50:47+00:00",
+    }
+}

@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "code": 200,
+    "message": "OK"
+  },
+  "data": {
+    "id": "uuid",
+    "connection":{
+      "id":"",
+      "slug":"slug"
+    },
+    "user_id": "uuid",
+    "shipment_status":"",
+    "ship_date":"",
+    // 这里的数据应该是从物流carrier那边获得的
+    "carrier_service":{
+      "id":"",
+      "shipper_account":{
+        "id":"",
+        "carrier_code":"",
+        "title":"",
+        "credentials":"",
+        "address":""
+      }, // account 是 ID ？
+      "service_type":"",
+      "earliest_delivered_at":"",
+      "latest_delivered_at":"",
+      "label_format":"",
+      "shipping_price":"",
+      "base_price":"",
+      "fuel_price":"",
+      "remote_price":"",
+      "tax_price":"",
+      "billing_weight":""
+    }, 
+    // 我们调研的5个系统中没有
+    "is_return_shipment": "",
+    "is_document":"",// 不确定该字段
+    // PO 的设计中没有 items 而是parcels，一个shipment会有多个包裹，每个包裹多个item
+    "parcels" : [{
+      "title":"",
+      "box_type":"",
+      "weight":"",
+      // 这个也许可以从产品的属性中获得，如果物流商有是更好的
+      "dimension":{
+        "width":"",
+        "height":"",
+        "depth":"",
+        "unit":""
+      },
+      // 这里是配送的商品
+      "items":[{
+        // 这里对应我们的product_id 
+        "order_item_id":"",
+        "sku":"",
+        "title":"",
+        "quantity":"",
+        "unit_price":"",
+        "unit_weight":"",
+        "hs_code":"",
+        "origin_country_code":""
+      }],
+      "tracking":{
+        "id":"",
+        // link to tracking 
+      }
+    }],// 不确定
+    "shipper_address":"",//  不确定
+    "receiver_address" : "",// 等同于shipping_address
+    // 物流服务的一些杂项，包括运费险等。
+    "service_options":{
+      "shipping_billing":"",
+      "insurance_amount":"",
+      "is_saturday_delivery":"",
+      "is_signature":"",
+      "is_carrier_collection":"",
+      "earliest_carrier_collection_at":"",
+      "lastest_carrier_collection_at":"",
+      "is_exact_time_delivery":"",
+      "cod_amount":"",
+      "lithium_battery":"",
+      "hazard_item":""
+    }, 
+    "customer":{
+      "customer_id":123,
+      "first_name":"",
+      "middle_name":"",
+      "last_name":"",
+      "email":"",
+      "phone":""
+    },
+    "user_id" : "", // 这个和customer_id似乎是重复的
+    "invoice":{
+      "type":"",
+      "date":"",
+      "number":121,
+      "number_of_copies":1232
+    },
+    "files":[], // 这个不确定，含义是什么
+    "label_size" : "", // 部分商城有
+    "label_format":"",// 部分商城有
+    "label_references":"", // 也许label是一个单独的object
+    "customer_attributes":"",//等同于customer_fields
+    "master_tracking":"", // 不明白含义
+    "shipment_metrics":{
+      "id":"",// 这个是啥
+      "shipment_id":"",// 这个已经有了啊
+      "shipment_placed_at":"",// 等同于创建时间
+      "shipment_consigned_at":"",// 这个是啥
+      "shipment_printed_at":"",// 这个是啥
+      "shipment_ready_to_manifest_at":"",// 这个是啥
+      "shipment_manifested_at":"",// 这个是啥
+      "shipment_cancelled_at":"",// 取消的时间
+      "shipment_placed_to_consigned_time":"",// 这个是啥
+    },
+    "shipment_promised_time":{
+      "id":1,
+      "shipment_id":"",
+      "earliest_delivered_at":"",
+      "latest_delivered_at":""
+    },
+    "shipping_address" : {
+      "first_name": "Jane", 
+      "middle_name": "", 
+      "last_name": "Doe",
+      "address_id" : "",
+      "company" : "",
+      "street_1" : "",
+      "street_2" : "",
+      "street_3" : "",
+      "city" : "Austin",
+      "state" : "Texas",
+      "postal_code" : "",
+      "type" : "",
+      "raw_location" : "",
+      "coordinates" : {
+        "longitude" : "",
+        "latitude" : ""
+      },
+      "items" : {
+        "item_id": "",
+        "sku": "",
+        "name": ""
+      },
+      "tracks" : [
+        {
+          "item_id": "",
+          "track_number": "",
+          "courier": {   
+            "slug" : "",    
+            "name" : "",
+            "origin_name" : "",
+            "alias" : ""
+          }
+        }
+      ],
+      "created_at" : "",
+      "updated_at" : "",
+      "billing_address" : {
+        "first_name": "Jane",  // 新增
+        "middle_name": "", // 新增
+        "last_name": "Doe", // 新增
+        "address_id": "",
+        "company": "",
+        "street_1": "",
+        "street_2": "",
+        "street_3": "",
+        "city": "",
+        "state": "",
+        "postal_code": "",
+        "country": "",
+        "type": "",
+        "raw_location": "",
+        "coordinates": {
+          "longitude": "",
+          "latitude": ""
+        }
+      },
+      "status" : ""
+    }
+
+  }
+}

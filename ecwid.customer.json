@@ -1,0 +1,84 @@
+{
+    "total": 3,
+    "count": 3,
+    "limit": 100,
+    "offset": 0,
+    "items": [
+        {
+            "id": 24623050,
+            "name": "Jane Roe",
+            "email": "jr@example.com",
+            "registered": "2016-01-27 14:06:28 +0000",
+            "updated": "2016-01-27 14:06:28 +0000",
+            "totalOrderCount": 0,
+            "customerGroupId": 0,
+            "customerGroupName": "General",
+            "billingPerson": {
+                "name": "Jane Roe"
+            },
+            "shippingAddresses": [],
+            "taxExempt": false,
+            "taxIdValid": true,
+            "acceptMarketing": true
+        },
+        {
+            "id": 14444116,
+            "name": "John Darling [Sample]",
+            "email": "demo4@ecwid.com",
+            "registered": "2009-07-23 04:59:49 +0000",
+            "updated": "2009-07-23 04:59:49 +0000",
+            "totalOrderCount": 0,
+            "customerGroupId": 2595001,
+            "customerGroupName": "Platinum 228",
+            "billingPerson": {
+                "name": "John Darling [Sample]",
+                "street": "12840 Pennridge Dr",
+                "city": "Bridgeton",
+                "countryCode": "US",
+                "countryName": "United States",
+                "postalCode": "63044",
+                "stateOrProvinceCode": "MO",
+                "stateOrProvinceName": "Missouri",
+                "phone": "314-209-0075"
+            },
+            "shippingAddresses": [],
+            "taxExempt": false,
+            "taxIdValid": true,
+            "acceptMarketing": false
+        },
+        {
+            "id": 24623047,
+            "name": "John Doe",
+            "email": "john@example.com",
+            "registered": "2016-01-27 14:06:23 +0000",
+            "updated": "2016-01-27 14:06:23 +0000",
+            "totalOrderCount": 0,
+            "customerGroupId": 0,
+            "customerGroupName": "General",
+            "billingPerson": {
+                "name": "John Doe"
+            },
+            "shippingAddresses": [],
+            "taxExempt": false,
+            "taxIdValid": true,
+            "acceptMarketing": true
+        },
+        {
+            "id": 24623053,
+            "name": "John Doe",
+            "email": "john@cool.com",
+            "registered": "2016-01-27 14:09:36 +0000",
+            "updated": "2016-01-27 14:09:36 +0000",
+            "totalOrderCount": 0,
+            "customerGroupId": 0,
+            "customerGroupName": "General",
+            "billingPerson": {
+                "name": "John Doe"
+            },
+            "shippingAddresses": [],
+            "taxExempt": false,
+            "taxIdValid": true,
+            "acceptMarketing": false
+        },
+    ]
+}

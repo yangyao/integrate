@@ -1,0 +1,95 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "data": {
+        "id": "06f0da01-0a4b-4811-b6fd-0774eb828096",
+        "connection_id": "5b74f4958776db0e00b6f5ed",
+        "user_id": "06f0da01-0a4b-4811-b6fd-0774eb828097",
+        "slug": "shopify",
+        "order_id": 123,
+        "order_number" : "NX001K",
+        "order_title" : "#NX001K",
+        "currency_code" : "USD",
+        "total_paid":12.34,
+        "total_product_count":3,
+        "toal_qty_ordered":12,
+        "billing_address":{
+          "address_id":123,
+          "company":"Tencent Ltd.",
+          "street_1":"",
+          "street_2":"",
+          "street_3":"",
+          "city":"",
+          "state":"",
+          "postal_code":"",
+          "country":"",
+          "type":"",
+          "raw_location":"",
+          "coordinates":{
+            "longitude":112.1239,
+            "latitude":-56.6788
+          }
+        },
+        "shipping_address":{
+          "address_id":123,
+          "company":"Tencent Ltd.",
+          "street_1":"",
+          "street_2":"",
+          "street_3":"",
+          "city":"",
+          "state":"",
+          "postal_code":"",
+          "country":"",
+          "type":"",
+          "raw_location":"",
+          "coordinates":{
+            "longitude":112.1239,
+            "latitude":-56.6788
+          }
+        },
+        "payment":{
+          "method":"paypal",
+          "origin_method":"PayPal Lct",
+          "currency_code":"USD",
+          "amount":"12.3",
+          "shipping_amount":"0.12"
+        },
+        "status":"shipping",
+        "items": [
+            {
+                "product_id": 123,
+                "sku": "IPHONEXS",
+                "name": "Iphone XS",
+                "qty":12.2,
+                "price":12.2,
+                "created_at": "2018-08-16T03:50:47+00:00",
+                "updated_at": "2018-08-16T03:50:47+00:00",
+            },
+            {
+                "product_id": 123,
+                "sku": "MACBOOKPRO13",
+                "name": "MacBook Pro 13",
+                "qty":12.2,
+                "price":12.3,
+                "created_at": "2018-08-16T03:50:47+00:00",
+                "updated_at": "2018-08-16T03:50:47+00:00",
+            }
+        ],
+        "customer":{
+          "customer_id":123,
+          "first_name":"",
+          "middle_name":"",
+          "last_name":"",
+          "email":"",
+          "phone":""
+        },
+        "customer_fields":{
+          "weather":"sunshine"
+        },
+        "origin_created_at": "2018-08-16T03:50:47+00:00",
+        "origin_updated_at": "2018-08-16T03:50:47+00:00",
+        "created_at": "2018-08-16T03:50:47+00:00",
+        "updated_at": "2018-08-16T03:50:47+00:00"
+  }
+}     

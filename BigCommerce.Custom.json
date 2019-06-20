@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "_authentication": {},
+  "company": "BigCommerce",
+  "first_name": "Jane",
+  "last_name": "Doe",
+  "email": "janedoe@email.com",
+  "phone": 1234567890,
+  "date_created": "Thu, 11 Jan 2018 20:57:52 +0000",
+  "date_modified": "Tue, 10 Apr 2018 18:59:05 +0000",
+  "store_credit": 0,
+  "registration_ip_address": "12.345.678.910",
+  "customer_group_id": 2,
+  "notes": "",
+  "tax_exempt_category": "",
+  "accepts_marketing": true,
+  "addresses": {
+    "url": "https://api.bigcommerce.com/stores/{store_hash}/v2/customers/5/addresses",
+    "resource": "/customers/5/addresses"
+  },
+  "form_fields": [
+    {
+      "name": "",
+      "value": ""
+    }
+  ],
+  "reset_pass_on_login": false
+}

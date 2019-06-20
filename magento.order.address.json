@@ -1,0 +1,31 @@
+{
+  "address_type": "string",
+  "city": "string",
+  "company": "string",
+  "country_id": "string",
+  "customer_address_id": 0,
+  "customer_id": 0,
+  "email": "string",
+  "entity_id": 0,
+  "fax": "string",
+  "firstname": "string",
+  "lastname": "string",
+  "middlename": "string",
+  "parent_id": 0,
+  "postcode": "string",
+  "prefix": "string",
+  "region": "string",
+  "region_code": "string",
+  "region_id": 0,
+  "street": [
+    "string"
+  ],
+  "suffix": "string",
+  "telephone": "string",
+  "vat_id": "string",
+  "vat_is_valid": 0,
+  "vat_request_date": "string",
+  "vat_request_id": "string",
+  "vat_request_success": 0,
+  "extension_attributes": {}
+}

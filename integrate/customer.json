@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "code": 200,
+    "message": "OK"
+  },
+  "data": {
+    "id": "57fc6ad9abb5db9a1c06ea27",
+    "connection_id": "57eb6a726f469ea2194c6e19",
+    "user_id": "57eb6a716f469ea2194c6e11",
+    "slug": "shopify",
+    "email": "user@gmail.com",
+    "phone": "+8613456789321",
+    "full_name":"",
+    "first_name": "Firstname",
+    "last_name": "Lastname",
+    "gender" : 1,  // 性别，只有magento2 有，需要？
+    "created_at": "2019-01-01T00:00:00Z",
+    "updated_at": "2019-01-01T00:00:00Z",
+    "origin_created_at": "2019-01-01T00:00:00Z", // 用户原始的创建时间    是否需要？
+    "origin_updated_at": "2019-01-01T00:00:00Z", // 用户原始的更新时间	   是否需要？
+    "address": [{
+  		// Refer to Order.billing_address
+    }]
+  }
+}
