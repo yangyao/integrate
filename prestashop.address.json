@@ -1,0 +1,27 @@
+{
+    "address": {
+        "id": 4,
+        "id_customer": "1",
+        "id_manufacturer": "0",
+        "id_supplier": "0",
+        "id_warehouse": "0",
+        "id_country": "21",
+        "id_state": "12",
+        "alias": "My address",
+        "company": "My Company",
+        "lastname": "DOE",
+        "firstname": "John",
+        "vat_number": "",
+        "address1": "16, Main street",
+        "address2": "2nd floor",
+        "postcode": "33133",
+        "city": "Miami",
+        "other": "",
+        "phone": "0102030405",
+        "phone_mobile": "",
+        "dni": "",
+        "deleted": "0",
+        "date_add": "2019-08-06 02:25:14",
+        "date_upd": "2019-08-06 02:25:14"
+    }
+}
