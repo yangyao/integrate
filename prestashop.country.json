@@ -1,0 +1,16 @@
+{
+    "country": {
+        "id": 21,
+        "id_zone": "2",
+        "id_currency": "0",
+        "call_prefix": "1",
+        "iso_code": "US",
+        "active": "1",
+        "contains_states": "1",
+        "need_identification_number": "0",
+        "need_zip_code": "1",
+        "zip_code_format": "NNNNN",
+        "display_tax_label": "0",
+        "name": "United States"
+    }
+}
