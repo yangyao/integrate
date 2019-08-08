@@ -1,0 +1,12 @@
+{
+    "delivery": {
+        "id": 4,
+        "id_carrier": "2",
+        "id_range_price": "1",
+        "id_range_weight": "0",
+        "id_zone": "2",
+        "id_shop": "",
+        "id_shop_group": "",
+        "price": "5.000000"
+    }
+}
