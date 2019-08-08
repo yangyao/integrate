@@ -1,0 +1,44 @@
+{
+    "customer": {
+        "id": 1,
+        "id_default_group": "3",
+        "id_lang": "1",
+        "newsletter_date_add": "2013-12-13 08:19:15",
+        "ip_registration_newsletter": "",
+        "last_passwd_gen": "2019-08-05 20:25:13",
+        "secure_key": "dcefd000f28a417c19f73e7403a3409b",
+        "deleted": "0",
+        "passwd": "ddbd9a912786fd6c700f4b2eccff1e80",
+        "lastname": "DOE",
+        "firstname": "John",
+        "email": "pub@prestashop.com",
+        "id_gender": "1",
+        "birthday": "1970-01-15",
+        "newsletter": "1",
+        "optin": "1",
+        "website": "",
+        "company": "",
+        "siret": "",
+        "ape": "",
+        "outstanding_allow_amount": "0.000000",
+        "show_public_prices": "0",
+        "id_risk": "0",
+        "max_payment_days": "0",
+        "active": "1",
+        "note": "",
+        "is_guest": "0",
+        "id_shop": "1",
+        "id_shop_group": "1",
+        "date_add": "2019-08-06 02:25:13",
+        "date_upd": "2019-08-06 02:25:13",
+        "reset_password_token": "",
+        "reset_password_validity": "0000-00-00 00:00:00",
+        "associations": {
+            "groups": [
+                {
+                    "id": "3"
+                }
+            ]
+        }
+    }
+}
