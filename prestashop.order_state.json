@@ -1,0 +1,20 @@
+{
+    "order_state": {
+        "id": 5,
+        "unremovable": "1",
+        "delivery": "1",
+        "hidden": "0",
+        "send_email": "0",
+        "module_name": "",
+        "invoice": "1",
+        "color": "#108510",
+        "logable": "1",
+        "shipped": "1",
+        "paid": "1",
+        "pdf_delivery": "0",
+        "pdf_invoice": "0",
+        "deleted": "0",
+        "name": "Delivered",
+        "template": ""
+    }
+}
