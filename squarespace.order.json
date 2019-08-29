@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "id": "5d67d62801ffc865cc2c620a",
+      "orderNumber": "1",
+      "createdOn": "2019-08-29T13:41:59.703Z",
+      "modifiedOn": "2019-08-29T13:42:00.841Z",
+      "testmode": true,
+      "customerEmail": "yt.ye@aftership.com",
+      "billingAddress": {
+        "firstName": "yt",
+        "lastName": "ye",
+        "address1": "Butcher Street",
+        "address2": null,
+        "city": "Kabol",
+        "state": "Kabul",
+        "countryCode": "AF",
+        "postalCode": "12312",
+        "phone": "+8618923232323"
+      },
+      "shippingAddress": {
+        "firstName": "yt",
+        "lastName": "ye",
+        "address1": "Butcher Street",
+        "address2": null,
+        "city": "Kabol",
+        "state": "Kabul",
+        "countryCode": "AF",
+        "postalCode": "12312",
+        "phone": "+8618923232323"
+      },
+      "fulfillmentStatus": "PENDING",
+      "lineItems": [
+        {
+          "id": "5d678f9d7f8b020001462dbb",
+          "variantId": "fc310c54-6be1-4edb-9a29-2308801e7302",
+          "sku": "SQ6553056",
+          "productId": "5d678e52cdd58a0001190af7",
+          "productName": "HUMMINGBIRD PRINTED T-SHIRT",
+          "quantity": 2,
+          "unitPricePaid": {
+            "currency": "HKD",
+            "value": "27.00"
+          },
+          "variantOptions": [],
+          "customizations": null,
+          "imageUrl": "https://static1.squarespace.com/static/5d44425b6727690001dd9bb1/5d678e26f2d5bd0001ebc7c6/5d678e9ca79b580001389297/1567067806390/hummingbird-printed-t-shirt.jpg?format=300w"
+        }
+      ],
+      "internalNotes": [],
+      "shippingLines": [
+        {
+          "method": "Free",
+          "amount": {
+            "currency": "HKD",
+            "value": "0.00"
+          }
+        }
+      ],
+      "discountLines": [],
+      "formSubmission": null,
+      "fulfillments": [],
+      "subtotal": {
+        "currency": "HKD",
+        "value": "54.00"
+      },
+      "shippingTotal": {
+        "currency": "HKD",
+        "value": "0.00"
+      },
+      "discountTotal": {
+        "currency": "HKD",
+        "value": "0.00"
+      },
+      "taxTotal": {
+        "currency": "HKD",
+        "value": "0.00"
+      },
+      "refundedTotal": {
+        "currency": "HKD",
+        "value": "0.00"
+      },
+      "grandTotal": {
+        "currency": "HKD",
+        "value": "54.00"
+      }
+    }
+  ],
+  "pagination": {
+    "nextPageUrl": null,
+    "nextPageCursor": null,
+    "hasNextPage": false
+  }
+}
