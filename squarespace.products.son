@@ -1,0 +1,155 @@
+{
+  "products": [
+    {
+      "id": "5d678e52cdd58a0001190af7",
+      "type": "PHYSICAL",
+      "url": "https://tuatara-lily-kw77.squarespace.com/products/eos2ftlf6zhe4pa4adsmd5ujbmja7r",
+      "urlSlug": "products/eos2ftlf6zhe4pa4adsmd5ujbmja7r",
+      "name": "HUMMINGBIRD PRINTED T-SHIRT",
+      "description": "<p class=\"\" style=\"white-space:pre-wrap;\">T-SHIRT</p>",
+      "images": [
+        {
+          "url": "https://static1.squarespace.com/static/5d44425b6727690001dd9bb1/5d678e26f2d5bd0001ebc7c6/5d678e9ca79b580001389297/1567067806390/hummingbird-printed-t-shirt.jpg",
+          "originalSize": {
+            "width": 800,
+            "height": 800
+          },
+          "availableFormats": [
+            "100w",
+            "300w",
+            "500w",
+            "750w"
+          ]
+        }
+      ],
+      "tags": [
+        "T-SHIRT"
+      ],
+      "isVisible": true,
+      "variants": [
+        {
+          "id": "fc310c54-6be1-4edb-9a29-2308801e7302",
+          "sku": "SQ6553056",
+          "pricing": {
+            "basePrice": {
+              "currency": "HKD",
+              "value": "27.00"
+            },
+            "salePrice": {
+              "currency": "HKD",
+              "value": "27.00"
+            },
+            "onSale": true
+          },
+          "stock": {
+            "quantity": 496,
+            "unlimited": false
+          },
+          "attributes": {},
+          "shippingDimensions": {
+            "weight": {
+              "unit": "POUND",
+              "value": 100.0
+            },
+            "size": {
+              "unit": "INCH",
+              "length": 5.0,
+              "width": 2.0,
+              "height": 1.0
+            }
+          },
+          "image": {
+            "url": "https://static1.squarespace.com/static/5d44425b6727690001dd9bb1/5d678e26f2d5bd0001ebc7c6/5d678e9ca79b580001389297/1567067806390/hummingbird-printed-t-shirt.jpg",
+            "originalSize": {
+              "width": 800,
+              "height": 800
+            },
+            "availableFormats": [
+              "100w",
+              "300w",
+              "500w",
+              "750w"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "5d689ede45dcf3000154abf4",
+      "type": "PHYSICAL",
+      "url": "https://tuatara-lily-kw77.squarespace.com/products/today-is-a-good-day-framed-poster",
+      "urlSlug": "products/today-is-a-good-day-framed-poster",
+      "name": "TODAY IS A GOOD DAY FRAMED POSTER",
+      "description": "",
+      "images": [
+        {
+          "url": "https://static1.squarespace.com/static/5d44425b6727690001dd9bb1/5d678e26f2d5bd0001ebc7c6/5d689ee625ef4c0001025d49/1567137511808/today-is-a-good-day-framed-poster.jpg",
+          "originalSize": {
+            "width": 800,
+            "height": 800
+          },
+          "availableFormats": [
+            "100w",
+            "300w",
+            "500w",
+            "750w"
+          ]
+        }
+      ],
+      "tags": [],
+      "isVisible": true,
+      "variants": [
+        {
+          "id": "7e853d6b-68bc-41d2-880c-832227f87d13",
+          "sku": "SQ0499041",
+          "pricing": {
+            "basePrice": {
+              "currency": "HKD",
+              "value": "12.00"
+            },
+            "salePrice": {
+              "currency": "HKD",
+              "value": "12.00"
+            },
+            "onSale": true
+          },
+          "stock": {
+            "quantity": 0,
+            "unlimited": false
+          },
+          "attributes": {},
+          "shippingDimensions": {
+            "weight": {
+              "unit": "POUND",
+              "value": 29.0
+            },
+            "size": {
+              "unit": "INCH",
+              "length": 10.0,
+              "width": 2.0,
+              "height": 1.0
+            }
+          },
+          "image": {
+            "url": "https://static1.squarespace.com/static/5d44425b6727690001dd9bb1/5d678e26f2d5bd0001ebc7c6/5d689ee625ef4c0001025d49/1567137511808/today-is-a-good-day-framed-poster.jpg",
+            "originalSize": {
+              "width": 800,
+              "height": 800
+            },
+            "availableFormats": [
+              "100w",
+              "300w",
+              "500w",
+              "750w"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "nextPageUrl": null,
+    "nextPageCursor": null,
+    "hasNextPage": false
+  }
+}
