@@ -1,3 +1,4 @@
 {
-  "X-Gitlab-Event": "Push Hook"
+  "X-Gitlab-Event": "Push Hook",
+  "X-Gitlab-Token":" Your webhook endpoint can check that to verify that the request is legitimate."
 }
