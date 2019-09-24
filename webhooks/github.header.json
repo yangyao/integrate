@@ -1,3 +1,5 @@
 {
-  "X-hub":"hhe"
+  "X-GitHub-Event":"issues",
+  "X-GitHub-Delivery":"GUID",
+  "X-Hub-Signature":"The HMAC hex digest of the response body. This header will be sent if the webhook is configured with a secrety"
 }
