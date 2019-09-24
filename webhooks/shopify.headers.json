@@ -1,0 +1,6 @@
+{
+  "X-Shopify-Topic": "orders/create",
+  "X-Shopify-Hmac-Sha256":"",
+  "X-Shopify-Shop-Domain":"prestashop-1.7.4.0-dev.aftershipdemo.com",
+  "X-Shopify-API-Version":"2019-04"
+}
