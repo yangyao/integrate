@@ -1,0 +1,3 @@
+{
+  "Stripe-Signature":"This allows you to verify that the events were sent by Stripe"
+}
