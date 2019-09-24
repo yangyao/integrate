@@ -1,0 +1,10 @@
+{
+ "store_id":11111,
+ "producer":"stores/abcde",
+ "scope":"store/order/statusUpdated",
+ "data":{
+         "type":"order",
+         "id":173331
+        },
+ "hash":"3f9ea420af83450d7ef9f78b08c8af25b2213637"
+ }
