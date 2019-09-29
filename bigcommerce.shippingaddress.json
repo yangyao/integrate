@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "order_id": 100,
+        "first_name": "hfgko",
+        "last_name": "wqghuiwh",
+        "company": "giohg",
+        "street_1": "grhio",
+        "street_2": "qjghgiop",
+        "city": "qwegh",
+        "zip": "45647",
+        "country": "Hong Kong",
+        "country_iso2": "HK",
+        "state": "",
+        "email": "demo@rc-fever.com",
+        "phone": "45634754",
+        "items_total": 1,
+        "items_shipped": 1,
+        "shipping_method": "Free Shipping",
+        "base_cost": "0.0000",
+        "cost_ex_tax": "0.0000",
+        "cost_inc_tax": "0.0000",
+        "cost_tax": "0.0000",
+        "cost_tax_class_id": 2,
+        "base_handling_cost": "0.0000",
+        "handling_cost_ex_tax": "0.0000",
+        "handling_cost_inc_tax": "0.0000",
+        "handling_cost_tax": "0.0000",
+        "handling_cost_tax_class_id": 2,
+        "shipping_zone_id": 2,
+        "shipping_zone_name": "free",
+        "shipping_quotes": {
+            "url": "https://api.bigcommerce.com/stores/evuhuh/v2/orders/100/shippingaddresses/1/shippingquotes",
+            "resource": "/orders/100/shippingaddresses/1/shippingquotes"
+        },
+        "form_fields": []
+    }
+]
