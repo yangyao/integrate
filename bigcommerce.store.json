@@ -1,0 +1,53 @@
+{
+    "id": "evuhuh",
+    "domain": "www.aabb.com",
+    "secure_url": "https://store-evuhuh.mybigcommerce.com",
+    "status": "live",
+    "name": "aftership8",
+    "first_name": "Stephen",
+    "last_name": "Maeder",
+    "address": "HK",
+    "country": "United States",
+    "country_code": "US",
+    "phone": "",
+    "admin_email": "founders@aftership.com",
+    "order_email": "apps@aftership.com",
+    "favicon_url": "https://cdn11.bigcommerce.com/s-evuhuh/product_images/default_favicon.ico",
+    "timezone": {
+        "name": "Europe/London",
+        "raw_offset": 0,
+        "dst_offset": 0,
+        "dst_correction": false,
+        "date_format": {
+            "display": "jS M Y",
+            "export": "jS M Y",
+            "extended_display": "jS M Y @ g:i A"
+        }
+    },
+    "language": "en",
+    "currency": "USD",
+    "currency_symbol": "$",
+    "decimal_separator": ".",
+    "thousands_separator": ",",
+    "decimal_places": 2,
+    "currency_symbol_location": "left",
+    "weight_units": "Tonnes",
+    "dimension_units": "Inches",
+    "dimension_decimal_places": 2,
+    "dimension_decimal_token": ".",
+    "dimension_thousands_token": ",",
+    "plan_name": "Partner Sandbox",
+    "plan_level": "Free",
+    "plan_is_trial": false,
+    "industry": "I'm not sure yet...",
+    "logo": [],
+    "is_price_entered_with_tax": false,
+    "active_comparison_modules": [],
+    "features": {
+        "stencil_enabled": true,
+        "sitewidehttps_enabled": false,
+        "facebook_catalog_id": "",
+        "checkout_type": "optimized",
+        "wishlists_enabled": true
+    }
+}
