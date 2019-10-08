@@ -1,0 +1,134 @@
+{
+    "id": 77,
+    "keyword_filter": null,
+    "name": "Feuta Faux Leather Dress",
+    "type": "physical",
+    "sku": "SLCTBS",
+    "description": "<p>&nbsp;Are you a rock star looking for leather dress or concert goer this black leather dress its for you, shop7am got your back.</p>\r\n<div class=\"head\"><a href=\"https://www.fashionnova.com/products/hit-list-leather-dress-black#\">&nbsp;</a>&nbsp; &nbsp; &nbsp; &nbsp;</div>\r\n<div class=\"group-body\">\r\n<ul>\r\n<li><strong>Dress Detail:</strong></li>\r\n<li>Available In Black&nbsp;</li>\r\n<li>Midi Faux Leather Dress</li>\r\n<li>Surplice Neckline&nbsp;&nbsp;</li>\r\n<li>97% Polyester 3% Spandex</li>\r\n</ul>\r\n</div>",
+    "search_keywords": "",
+    "availability_description": "",
+    "price": "29.0000",
+    "cost_price": "0.0000",
+    "retail_price": "0.0000",
+    "sale_price": "0.0000",
+    "calculated_price": "29.0000",
+    "sort_order": 0,
+    "is_visible": true,
+    "is_featured": true,
+    "related_products": "-1",
+    "inventory_level": 0,
+    "inventory_warning_level": 0,
+    "warranty": "",
+    "weight": "1.0000",
+    "width": "1.0000",
+    "height": "1.0000",
+    "depth": "1.0000",
+    "fixed_cost_shipping_price": "0.0000",
+    "is_free_shipping": false,
+    "inventory_tracking": "none",
+    "rating_total": 5,
+    "rating_count": 1,
+    "total_sold": 5,
+    "date_created": "Fri, 03 Jul 2015 17:57:10 +0000",
+    "brand_id": 44,
+    "view_count": 1895,
+    "page_title": "Feuta| Faux Leather Dress",
+    "meta_keywords": "Women's Leather Dress, Black Leather dresses",
+    "meta_description": "Are you a rock star looking for leather dress, or concert goer this dress its for you shop7am got your back",
+    "layout_file": "product.html",
+    "is_price_hidden": false,
+    "price_hidden_label": "",
+    "categories": [
+        18,
+        23
+    ],
+    "date_modified": "Fri, 23 Mar 2018 03:55:30 +0000",
+    "event_date_field_name": "",
+    "event_date_type": "none",
+    "event_date_start": null,
+    "event_date_end": null,
+    "myob_asset_account": "",
+    "myob_income_account": "",
+    "myob_expense_account": "",
+    "peachtree_gl_account": "",
+    "condition": "New",
+    "is_condition_shown": false,
+    "preorder_release_date": "",
+    "is_preorder_only": false,
+    "preorder_message": "",
+    "order_quantity_minimum": 0,
+    "order_quantity_maximum": 0,
+    "open_graph_type": "product",
+    "open_graph_title": "",
+    "open_graph_description": "",
+    "is_open_graph_thumbnail": true,
+    "upc": "",
+    "avalara_product_tax_code": "",
+    "date_last_imported": "",
+    "option_set_id": 32,
+    "tax_class_id": 0,
+    "option_set_display": "right",
+    "bin_picking_number": "",
+    "custom_url": "/feuta-faux-leather-dress/",
+    "primary_image": {
+        "id": 454,
+        "zoom_url": "https://cdn11.bigcommerce.com/s-lon0ujardo/products/77/images/454/Feuta-Faux-Leather__65711.1518925336.1280.1280.jpg?c=2",
+        "thumbnail_url": "https://cdn11.bigcommerce.com/s-lon0ujardo/products/77/images/454/Feuta-Faux-Leather__65711.1518925336.190.285.jpg?c=2",
+        "standard_url": "https://cdn11.bigcommerce.com/s-lon0ujardo/products/77/images/454/Feuta-Faux-Leather__65711.1518925336.500.750.jpg?c=2",
+        "tiny_url": "https://cdn11.bigcommerce.com/s-lon0ujardo/products/77/images/454/Feuta-Faux-Leather__65711.1518925336.60.90.jpg?c=2"
+    },
+    "availability": "available",
+    "brand": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/brands/44",
+        "resource": "/brands/44"
+    },
+    "downloads": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/downloads",
+        "resource": "/products/77/downloads"
+    },
+    "images": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/images",
+        "resource": "/products/77/images"
+    },
+    "discount_rules": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/discountrules",
+        "resource": "/products/77/discountrules"
+    },
+    "configurable_fields": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/configurablefields",
+        "resource": "/products/77/configurablefields"
+    },
+    "custom_fields": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/customfields",
+        "resource": "/products/77/customfields"
+    },
+    "videos": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/videos",
+        "resource": "/products/77/videos"
+    },
+    "skus": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/skus",
+        "resource": "/products/77/skus"
+    },
+    "rules": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/rules",
+        "resource": "/products/77/rules"
+    },
+    "option_set": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/optionsets/32",
+        "resource": "/optionsets/32"
+    },
+    "options": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/options",
+        "resource": "/products/77/options"
+    },
+    "tax_class": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/taxclasses/0",
+        "resource": "/taxclasses/0"
+    },
+    "reviews": {
+        "url": "https://api.bigcommerce.com/stores/lon0ujardo/v2/products/77/reviews",
+        "resource": "/products/77/reviews"
+    },
+    "metadata": []
+}
