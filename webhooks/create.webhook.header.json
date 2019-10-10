@@ -1,6 +1,6 @@
 {
-	"Accept": "application / json",
-	"Content - Type": "application / json",
-	"X - Auth - Client": "3 drpkqcrpo4ydw2mdrct82x7f080vlz",
-	"X - Auth - Token": "ahx5gqtuuhf80aalbzfc5ezgc2nsdjs"
+	"Accept": "application/json",
+	"Content-Type": "application/json",
+	"X-Auth-Client": "",
+	"X-Auth-Token": ""
 }
