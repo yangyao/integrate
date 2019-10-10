@@ -1,5 +1,0 @@
-{
-  "scope": "store/product/*",
-  "destination": "https://webhook.site/03c9bcd6-ac8c-44e9-af47-7a683c433347",
-  "is_active": true
-}
