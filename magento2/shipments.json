@@ -1,0 +1,59 @@
+{
+    "items": [
+        {
+            "billing_address_id": 20,
+            "created_at": "2019-08-23 09:14:16",
+            "entity_id": 9,
+            "increment_id": "000000009",
+            "order_id": 10,
+            "packages": [],
+            "shipping_address_id": 19,
+            "store_id": 1,
+            "total_qty": 1,
+            "updated_at": "2019-08-23 09:14:16",
+            "items": [
+                {
+                    "entity_id": 9,
+                    "name": "Erika Running Short",
+                    "parent_id": 9,
+                    "price": 45,
+                    "product_id": 2045,
+                    "sku": "WSH12-30-Purple",
+                    "weight": 1,
+                    "order_item_id": 14,
+                    "qty": 1
+                }
+            ],
+            "tracks": [
+                {
+                    "order_id": 10,
+                    "created_at": "2019-08-23 09:14:16",
+                    "entity_id": 11,
+                    "parent_id": 9,
+                    "updated_at": "2019-08-23 09:14:16",
+                    "weight": null,
+                    "qty": null,
+                    "description": null,
+                    "track_number": "2132171427",
+                    "title": "DHL",
+                    "carrier_code": "dhl"
+                }
+            ],
+            "comments": []
+        }
+    ],
+    "search_criteria": {
+        "filter_groups": [
+            {
+                "filters": [
+                    {
+                        "field": "order_id",
+                        "value": "10",
+                        "condition_type": "eq"
+                    }
+                ]
+            }
+        ]
+    },
+    "total_count": 1
+}
