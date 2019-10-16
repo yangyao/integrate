@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "code": "default",
+        "website_id": 1,
+        "locale": "en_US",
+        "base_currency_code": "USD",
+        "default_display_currency_code": "USD",
+        "timezone": "UTC",
+        "weight_unit": "lbs",
+        "base_url": "http://magento-2.2.8.aftershipdemo.com/",
+        "base_link_url": "http://magento-2.2.8.aftershipdemo.com/",
+        "base_static_url": "http://magento-2.2.8.aftershipdemo.com/pub/static/version1557476699/",
+        "base_media_url": "http://magento-2.2.8.aftershipdemo.com/pub/media/",
+        "secure_base_url": "https://magento-2.2.8.aftershipdemo.com/",
+        "secure_base_link_url": "https://magento-2.2.8.aftershipdemo.com/",
+        "secure_base_static_url": "https://magento-2.2.8.aftershipdemo.com/pub/static/version1557476699/",
+        "secure_base_media_url": "https://magento-2.2.8.aftershipdemo.com/pub/media/"
+    }
+]
