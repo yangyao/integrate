@@ -1,0 +1,138 @@
+{
+    "orders": [
+        {
+            "id": "2a153ce8-3606-4853-b338-5a0ff6b55374",
+            "number": 10002,
+            "dateCreated": "2019-10-21T08:46:11.022Z",
+            "buyerInfo": {
+                "id": "c796e9b6-2a38-4468-a18c-cd427ae161f2",
+                "type": "MEMBER",
+                "identityType": "MEMBER",
+                "firstName": "yt",
+                "lastName": "ye",
+                "phone": "+8618620842222",
+                "email": "yt.ye@aftership.com"
+            },
+            "currency": "HKD",
+            "weightUnit": "KG",
+            "totals": {
+                "subtotal": "300.0",
+                "shipping": "0.0",
+                "tax": "0.0",
+                "discount": "0.0",
+                "total": "300.0",
+                "weight": "1.0",
+                "quantity": 1
+            },
+            "billingInfo": {
+                "paymentMethod": "offline",
+                "paymentGatewayTransactionId": "7c30637c-9128-4ca5-9b89-7cbc831119dc",
+                "address": {
+                    "fullName": {
+                        "firstName": "yt",
+                        "lastName": "ye"
+                    },
+                    "country": "HK",
+                    "city": "shenzhen",
+                    "zipCode": "123211",
+                    "phone": "+8618620842222",
+                    "email": "yt.ye@aftership.com",
+                    "addressLine1": "shen"
+                },
+                "paidDate": "2019-10-21T08:49:18.955Z"
+            },
+            "shippingInfo": {
+                "deliveryOption": "免費運送",
+                "shipmentDetails": {
+                    "address": {
+                        "fullName": {
+                            "firstName": "yt",
+                            "lastName": "ye"
+                        },
+                        "country": "HK",
+                        "city": "shenzhen",
+                        "zipCode": "123211",
+                        "phone": "+8618620842222",
+                        "email": "yt.ye@aftership.com",
+                        "addressLine1": "shen"
+                    },
+                    "trackingInfo": {
+                        "trackingNumber": "12312321",
+                        "shippingProvider": "CANADA_POST",
+                        "trackingLink": "https://www.canadapost.ca/cpotools/apps/track/personal/findByTrackNumber?trackingNumber=12312321"
+                    },
+                    "discount": "0.0",
+                    "tax": "0.0"
+                }
+            },
+            "read": true,
+            "archived": false,
+            "paymentStatus": "PAID",
+            "fulfillmentStatus": "FULFILLED",
+            "lineItems": [
+                {
+                    "index": 1,
+                    "quantity": 1,
+                    "price": "300.0",
+                    "name": "咖啡杯",
+                    "translatedName": "咖啡杯",
+                    "productId": "0e9c88d3-8aee-988e-7a14-4222a889eae4",
+                    "totalPrice": "300.0",
+                    "lineItemType": "PHYSICAL",
+                    "options": [],
+                    "customTextFields": [],
+                    "weight": "1.0",
+                    "sku": "100",
+                    "variantId": "00000000-0000-0000-0000-000000000000",
+                    "discount": "0.0",
+                    "tax": "0.0",
+                    "taxIncludedInPrice": false
+                }
+            ],
+            "activities": [
+                {
+                    "type": "ORDER_PLACED",
+                    "timestamp": "2019-10-21T08:46:11.022Z"
+                },
+                {
+                    "type": "ORDER_PAID",
+                    "timestamp": "2019-10-21T08:49:18.955Z"
+                },
+                {
+                    "type": "TRACKING_NUMBER_ADDED",
+                    "timestamp": "2019-10-21T08:49:58.368Z"
+                },
+                {
+                    "type": "SHIPPING_CONFIRMATION_EMAIL_SENT",
+                    "timestamp": "2019-10-21T08:49:59.711Z"
+                }
+            ],
+            "fulfillments": [
+                {
+                    "id": "346dde9c-99e0-4fe8-91af-1741808b2706",
+                    "dateCreated": "2019-10-21T08:49:58.368Z",
+                    "lineItems": [
+                        {
+                            "index": 1,
+                            "quantity": 1
+                        }
+                    ],
+                    "trackingInfo": {
+                        "trackingNumber": "12312321",
+                        "shippingProvider": "canadaPost",
+                        "trackingLink": "https://www.canadapost.ca/cpotools/apps/track/personal/findByTrackNumber?trackingNumber=12312321"
+                    }
+                }
+            ],
+            "cartId": "56d3d3ae-303b-433a-b07e-387f96632f50",
+            "channelInfo": {
+                "type": "WEB"
+            }
+        }
+    ],
+    "metadata": {
+        "items": 100,
+        "offset": 0
+    },
+    "totalResults": 1
+}
