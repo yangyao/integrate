@@ -1,0 +1,129 @@
+{
+  "id": "evt_1FWdJ0IPCiieugnXIg2Ogui9",
+  "object": "event",
+  "api_version": "2018-09-24",
+  "created": 1571812010,
+  "data": {
+    "object": {
+      "id": "sub_FxTaGiYNVmuD8g",
+      "object": "subscription",
+      "application_fee_percent": null,
+      "billing": "charge_automatically",
+      "billing_cycle_anchor": 1571812006,
+      "billing_thresholds": null,
+      "cancel_at": 1571812006,
+      "cancel_at_period_end": true,
+      "canceled_at": 1570602408,
+      "collection_method": "charge_automatically",
+      "created": 1570602406,
+      "current_period_end": 1571812006,
+      "current_period_start": 1570602408,
+      "customer": "cus_FxTaup8BggU0ih",
+      "days_until_due": null,
+      "default_payment_method": null,
+      "default_source": null,
+      "default_tax_rates": [
+      ],
+      "discount": null,
+      "ended_at": 1571812006,
+      "items": {
+        "object": "list",
+        "data": [
+          {
+            "id": "si_FxTaumqRhvORlZ",
+            "object": "subscription_item",
+            "billing_thresholds": null,
+            "created": 1570602407,
+            "metadata": {
+            },
+            "plan": {
+              "id": "AS_TRIAL",
+              "object": "plan",
+              "active": true,
+              "aggregate_usage": null,
+              "amount": 0,
+              "amount_decimal": "0",
+              "billing_scheme": "per_unit",
+              "created": 1524648667,
+              "currency": "usd",
+              "interval": "day",
+              "interval_count": 14,
+              "livemode": false,
+              "metadata": {
+                "show": "false",
+                "extra_charge": "0",
+                "quota": "200",
+                "plan": "Trial",
+                "order": "-1"
+              },
+              "nickname": "AfterShip Free Trial",
+              "product": "prod_CkBwO345ZaioOg",
+              "tiers": null,
+              "tiers_mode": null,
+              "transform_usage": null,
+              "trial_period_days": 14,
+              "usage_type": "licensed"
+            },
+            "quantity": 1,
+            "subscription": "sub_FxTaGiYNVmuD8g",
+            "tax_rates": [
+            ]
+          }
+        ],
+        "has_more": false,
+        "total_count": 1,
+        "url": "/v1/subscription_items?subscription=sub_FxTaGiYNVmuD8g"
+      },
+      "latest_invoice": "in_1FRYdIIPCiieugnXaOWngHpU",
+      "livemode": false,
+      "metadata": {
+      },
+      "next_pending_invoice_item_invoice": null,
+      "pending_invoice_item_interval": null,
+      "pending_setup_intent": null,
+      "plan": {
+        "id": "AS_TRIAL",
+        "object": "plan",
+        "active": true,
+        "aggregate_usage": null,
+        "amount": 0,
+        "amount_decimal": "0",
+        "billing_scheme": "per_unit",
+        "created": 1524648667,
+        "currency": "usd",
+        "interval": "day",
+        "interval_count": 14,
+        "livemode": false,
+        "metadata": {
+          "show": "false",
+          "extra_charge": "0",
+          "quota": "200",
+          "plan": "Trial",
+          "order": "-1"
+        },
+        "nickname": "AfterShip Free Trial",
+        "product": "prod_CkBwO345ZaioOg",
+        "tiers": null,
+        "tiers_mode": null,
+        "transform_usage": null,
+        "trial_period_days": 14,
+        "usage_type": "licensed"
+      },
+      "quantity": 1,
+      "schedule": null,
+      "start": 1570602408,
+      "start_date": 1570602406,
+      "status": "canceled",
+      "tax_percent": null,
+      "trial_end": 1571812006,
+      "trial_start": 1570602408
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 4,
+  "request": {
+    "id": null,
+    "idempotency_key": null
+  },
+  "type": "customer.subscription.deleted"
+}
