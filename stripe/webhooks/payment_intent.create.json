@@ -1,0 +1,72 @@
+{
+  "id": "evt_1FWdUVIPCiieugnXsEkzQ7wa",
+  "object": "event",
+  "api_version": "2018-09-24",
+  "created": 1571812723,
+  "data": {
+    "object": {
+      "id": "pi_1FWdUTIPCiieugnXCqP9Hg4Z",
+      "object": "payment_intent",
+      "allowed_source_types": [
+        "card"
+      ],
+      "amount": 6999,
+      "amount_capturable": 0,
+      "amount_received": 0,
+      "application": null,
+      "application_fee_amount": null,
+      "canceled_at": null,
+      "cancellation_reason": null,
+      "capture_method": "automatic",
+      "charges": {
+        "object": "list",
+        "data": [
+        ],
+        "has_more": false,
+        "total_count": 0,
+        "url": "/v1/charges?payment_intent=pi_1FWdUTIPCiieugnXCqP9Hg4Z"
+      },
+      "client_secret": "pi_1FWdUTIPCiieugnXCqP9Hg4Z_secret_ygEsjg49lw7SnkTm8TzwvWmrO",
+      "confirmation_method": "automatic",
+      "created": 1571812721,
+      "currency": "usd",
+      "customer": "cus_ELn4JkBTxYZZ7e",
+      "description": "Invoice 2429964-0147",
+      "invoice": "in_1FWcVNIPCiieugnX9bKM2p1n",
+      "last_payment_error": null,
+      "livemode": false,
+      "metadata": {
+      },
+      "next_action": null,
+      "next_source_action": null,
+      "on_behalf_of": null,
+      "payment_method": null,
+      "payment_method_options": {
+        "card": {
+          "installments": null,
+          "request_three_d_secure": "automatic"
+        }
+      },
+      "payment_method_types": [
+        "card"
+      ],
+      "receipt_email": null,
+      "review": null,
+      "setup_future_usage": null,
+      "shipping": null,
+      "source": null,
+      "statement_descriptor": "RETURNS CENTER",
+      "statement_descriptor_suffix": null,
+      "status": "requires_source",
+      "transfer_data": null,
+      "transfer_group": null
+    }
+  },
+  "livemode": false,
+  "pending_webhooks": 4,
+  "request": {
+    "id": null,
+    "idempotency_key": null
+  },
+  "type": "payment_intent.created"
+}
