@@ -12,6 +12,7 @@
         "shipping_methods": "Free shipping",
         "weight_unit": "kg",
         "total_tax": "0",
+        "gmt_offset": -6,
         "payment_details": {
             "method_id": "cod",
             "method_title": "Cash on delivery",
@@ -50,6 +51,7 @@
         "note": "",
         "line_items": [
             {
+                "id": 35,
                 "subtotal": "80.00",
                 "total": "80.00",
                 "price": "80.00",
@@ -109,6 +111,7 @@
         "shipping_methods": "Free shipping",
         "weight_unit": "kg",
         "total_tax": "0",
+        "gmt_offset": -6,
         "payment_details": {
             "method_id": "cod",
             "method_title": "Cash on delivery",
@@ -147,6 +150,7 @@
         "note": "ffdfdf",
         "line_items": [
             {
+                "id": 37,
                 "subtotal": "80.00",
                 "total": "80.00",
                 "price": "80.00",
@@ -206,6 +210,7 @@
         "shipping_methods": "Free shipping",
         "weight_unit": "kg",
         "total_tax": "0",
+        "gmt_offset": -6,
         "payment_details": {
             "method_id": "cod",
             "method_title": "Cash on delivery",
@@ -244,6 +249,7 @@
         "note": "",
         "line_items": [
             {
+                "id": 31,
                 "subtotal": "160.00",
                 "total": "160.00",
                 "price": "80.00",
@@ -303,6 +309,7 @@
         "shipping_methods": "Free shipping",
         "weight_unit": "kg",
         "total_tax": "0",
+        "gmt_offset": -6,
         "payment_details": {
             "method_id": "cod",
             "method_title": "Cash on delivery",
@@ -341,6 +348,7 @@
         "note": "dffdf",
         "line_items": [
             {
+                "id": 40,
                 "subtotal": "80.00",
                 "total": "80.00",
                 "price": "80.00",
@@ -400,6 +408,7 @@
         "shipping_methods": "",
         "weight_unit": "kg",
         "total_tax": "0",
+        "gmt_offset": -6,
         "payment_details": {
             "method_id": "other",
             "method_title": "other",
@@ -438,6 +447,7 @@
         "note": "12312",
         "line_items": [
             {
+                "id": 39,
                 "subtotal": "80.00",
                 "total": "80.00",
                 "price": "80.00",
