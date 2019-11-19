@@ -1,0 +1,17 @@
+x-forwarded-for	34.92.58.160
+expect	100-continue
+content-length	2543
+connection	close
+x-wc-webhook-delivery-id	feae7dd3735050e1c4fff85a601641a6
+x-wc-webhook-id	1
+x-wc-webhook-signature	PU1Y1VQGQYovDv5cKEzEKwz8bHn9ImfNR9yoTl0w4Qs=
+x-wc-webhook-event	updated
+x-wc-webhook-resource	order
+x-wc-webhook-topic	order.updated
+x-wc-webhook-source	http://wordpress-5.2-dev.aftershipdemo.com/
+content-type	application/json
+referer	https://webhook.site/b5b7f1e2-f99e-44e8-8cd8-4b35fb8794ad
+accept-encoding	deflate, gzip
+accept	*/*
+user-agent	WooCommerce/3.6.2 Hookshot (WordPress/5.2)
+host	webhook.site
