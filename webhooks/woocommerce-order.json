@@ -1,0 +1,156 @@
+{
+  "id": 79,
+  "parent_id": 0,
+  "number": "79",
+  "order_key": "wc_order_nrzX27dNA4mx4",
+  "created_via": "checkout",
+  "version": "3.6.2",
+  "status": "processing",
+  "currency": "GBP",
+  "date_created": "2019-11-13T09:59:54",
+  "date_created_gmt": "2019-11-13T01:59:54",
+  "date_modified": "2019-11-18T10:21:33",
+  "date_modified_gmt": "2019-11-18T02:21:33",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "160.00",
+  "total_tax": "0.00",
+  "prices_include_tax": false,
+  "customer_id": 1,
+  "customer_ip_address": "103.137.150.43",
+  "customer_user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36",
+  "customer_note": "",
+  "billing": {
+    "first_name": "yute2",
+    "last_name": "ye2",
+    "company": "after",
+    "address_1": "address2",
+    "address_2": "1233",
+    "city": "District2",
+    "state": "",
+    "postcode": "12323",
+    "country": "AX",
+    "email": "yt.ye@aftership.com",
+    "phone": "+8618620842281"
+  },
+  "shipping": {
+    "first_name": "yute2",
+    "last_name": "ye2",
+    "company": "after",
+    "address_1": "address2",
+    "address_2": "1233",
+    "city": "District2",
+    "state": "",
+    "postcode": "12323",
+    "country": "AX"
+  },
+  "payment_method": "cod",
+  "payment_method_title": "Cash on delivery",
+  "transaction_id": "",
+  "date_paid": null,
+  "date_paid_gmt": null,
+  "date_completed": null,
+  "date_completed_gmt": null,
+  "cart_hash": "5b0eae456fe95551c71d658117108634",
+  "meta_data": [
+    {
+      "id": 1254,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 1261,
+      "key": "_aftership_tracking_provider",
+      "value": "dhl"
+    },
+    {
+      "id": 1262,
+      "key": "_aftership_tracking_provider_name",
+      "value": "DHL Express"
+    },
+    {
+      "id": 1263,
+      "key": "_aftership_tracking_required_fields",
+      "value": ""
+    },
+    {
+      "id": 1264,
+      "key": "_aftership_tracking_number",
+      "value": "19081652786"
+    },
+    {
+      "id": 1265,
+      "key": "_aftership_tracking_shipdate",
+      "value": ""
+    },
+    {
+      "id": 1266,
+      "key": "_aftership_tracking_postal",
+      "value": ""
+    },
+    {
+      "id": 1267,
+      "key": "_aftership_tracking_account",
+      "value": ""
+    },
+    {
+      "id": 1268,
+      "key": "_aftership_tracking_key",
+      "value": ""
+    },
+    {
+      "id": 1269,
+      "key": "_aftership_tracking_destination_country",
+      "value": ""
+    }
+  ],
+  "line_items": [
+    {
+      "id": 46,
+      "name": "test product",
+      "product_id": 14,
+      "variation_id": 0,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "160.00",
+      "subtotal_tax": "0.00",
+      "total": "160.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 362,
+          "key": "_reduced_stock",
+          "value": "2"
+        }
+      ],
+      "sku": "123123123",
+      "price": 80
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 47,
+      "method_title": "Free shipping",
+      "method_id": "free_shipping",
+      "instance_id": "2",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 361,
+          "key": "Items",
+          "value": "test product &times; 2"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": []
+}
