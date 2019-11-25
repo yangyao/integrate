@@ -1,0 +1,23 @@
+{
+    "custom_collections": [
+        {
+            "id": 95497060437,
+            "handle": "frontpage",
+            "title": "Customer Collection Test 001",
+            "updated_at": "2019-11-25T02:28:02-05:00",
+            "body_html": "Yet another customer collection<audio controls=\"controls\" style=\"display: none;\"></audio>",
+            "published_at": "2019-08-01T21:23:37-04:00",
+            "sort_order": "best-selling",
+            "template_suffix": "",
+            "published_scope": "web",
+            "admin_graphql_api_id": "gid://shopify/Collection/95497060437",
+            "image": {
+                "created_at": "2019-11-25T02:26:39-05:00",
+                "alt": null,
+                "width": 1200,
+                "height": 398,
+                "src": "https://cdn.shopify.com/s/files/1/0097/9274/9653/collections/1200px-Coca-Cola_logo.svg_3fdc3965-ec23-483f-92b6-511e16068d0d.png?v=1574666800"
+            }
+        }
+    ]
+}
