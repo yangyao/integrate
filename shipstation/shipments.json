@@ -1,0 +1,71 @@
+{
+    "shipments": [
+        {
+            "shipmentId": 107725938,
+            "orderId": 165852856,
+            "orderKey": "1916933085233859",
+            "userId": "96ba4548-a894-4d1f-a339-05d76859ae0a",
+            "customerEmail": "canterlanedressage@comcast.net",
+            "orderNumber": "1916933085233859",
+            "createDate": "2017-08-23T17:17:15.5730000",
+            "shipDate": "2017-08-24",
+            "shipmentCost": 12.02,
+            "insuranceCost": 0.0,
+            "trackingNumber": "787490597810",
+            "isReturnLabel": false,
+            "batchNumber": "100002",
+            "carrierCode": "fedex",
+            "serviceCode": "fedex_ground",
+            "packageCode": "package",
+            "confirmation": "delivery",
+            "warehouseId": 270996,
+            "voided": false,
+            "voidDate": null,
+            "marketplaceNotified": true,
+            "notifyErrorMessage": null,
+            "shipTo": {
+                "name": "Patty Russell",
+                "company": null,
+                "street1": "4245 CANTER LN NE",
+                "street2": "",
+                "street3": null,
+                "city": "OLYMPIA",
+                "state": "WA",
+                "postalCode": "98506-1908",
+                "country": "US",
+                "phone": "3607904172",
+                "residential": null,
+                "addressVerified": null
+            },
+            "weight": {
+                "value": 16.00,
+                "units": "ounces",
+                "WeightUnits": 1
+            },
+            "dimensions": {
+                "units": "inches",
+                "length": 7.00,
+                "width": 10.00,
+                "height": 1.00
+            },
+            "insuranceOptions": {
+                "provider": null,
+                "insureShipment": false,
+                "insuredValue": 0.0
+            },
+            "advancedOptions": {
+                "billToParty": null,
+                "billToAccount": null,
+                "billToPostalCode": null,
+                "billToCountryCode": null,
+                "storeId": 194403
+            },
+            "shipmentItems": null,
+            "labelData": null,
+            "formData": null
+        },}
+    ],
+    "total": 784,
+    "page": 1,
+    "pages": 8
+}
