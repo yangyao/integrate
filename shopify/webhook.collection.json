@@ -1,0 +1,27 @@
+{
+  "id": 156343861333,
+  "handle": "smart-collection-test-001",
+  "title": "Smart Collection Test 001",
+  "updated_at": "2019-12-04T03:22:38-05:00",
+  "body_html": "hello world",
+  "published_at": "2019-11-25T02:25:13-05:00",
+  "sort_order": "best-selling",
+  "template_suffix": "",
+  "disjunctive": false,
+  "rules": [
+    {
+      "column": "tag",
+      "relation": "equals",
+      "condition": "Nuby"
+    }
+  ],
+  "published_scope": "web",
+  "admin_graphql_api_id": "gid://shopify/Collection/156343861333",
+  "image": {
+    "created_at": "2019-11-25T02:27:39-05:00",
+    "alt": null,
+    "width": 73,
+    "height": 45,
+    "src": "https://cdn.shopify.com/s/files/1/0097/9274/9653/collections/ezgif-5-3f139fe82b16.png?v=1574666860"
+  }
+}
