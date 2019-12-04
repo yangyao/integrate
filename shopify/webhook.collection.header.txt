@@ -1,0 +1,13 @@
+x-forwarded-for	35.231.36.177
+connection	close
+x-shopify-topic	collections/update
+x-shopify-shop-domain	yy-01.myshopify.com
+x-shopify-hmac-sha256	oSOLezll8ljSpwWJw1PwSGGn6/ZpMZqxsvMYJugfKgM=
+x-shopify-collection-id	156343861333
+x-shopify-api-version	2019-10
+content-type	application/json
+accept-encoding	gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+accept	*/*
+content-length	630
+user-agent	Shopify-Captain-Hook
+host	webhook.site
