@@ -1,0 +1,28 @@
+{
+    "customerId": 329192054,
+    "createDate": "2019-12-26T22:30:06.8500000",
+    "modifyDate": "2019-12-26T22:30:06.8500000",
+    "name": "yang yao",
+    "company": "AfterShip Ltd",
+    "street1": "das tower of shenzhen",
+    "street2": "4001",
+    "city": "SHENZHEN",
+    "state": "HK",
+    "postalCode": "65533",
+    "countryCode": "HK",
+    "phone": "+86 13265883816",
+    "email": "y.yang@aftership.com",
+    "addressVerified": "Unverified",
+    "marketplaceUsernames": [
+        {
+            "customerUserId": 658103312,
+            "customerId": 329192054,
+            "createDate": "2019-12-26T22:30:06.8500000",
+            "modifyDate": "2019-12-26T22:30:06.8500000",
+            "marketplaceId": 14,
+            "marketplace": "Shopify",
+            "username": "2311098433621"
+        }
+    ],
+    "tags": null
+}
