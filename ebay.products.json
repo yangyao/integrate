@@ -1,0 +1,1223 @@
+{
+    "productSummaries": [
+      {
+        "epid": "5034771125",
+        "gtin": [
+          "0786096236966",
+          "0786096484374"
+        ],
+        "brand": "Speedo",
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/SrcAAOSw4tVd0oiu/s-l640.jpg"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/images/g/hmoAAOSwSRRdpius/s-l640.jpg"
+          }
+        ],
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Speedo"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "7500638-Clear-1SZ"
+            ]
+          },
+          {
+            "localizedName": "Custom Bundle",
+            "localizedValues": [
+              "No"
+            ]
+          }
+        ],
+        "ean": [
+          "0786096236966",
+          "0786096484374"
+        ],
+        "upc": [
+          "0786096236966",
+          "0786096484374"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/5034771125",
+        "title": "Speedo 7500638 Hydrospex Classic Swim Goggle - Clear",
+        "productWebUrl": "https://www.ebay.com/p/5034771125"
+      },
+      {
+        "epid": "27031084976",
+        "gtin": [
+          "0096613099678"
+        ],
+        "brand": "AQUA GREEN",
+        "mpn": [
+          "16650954"
+        ],
+        "aspects": [
+          {
+            "localizedName": "Material",
+            "localizedValues": [
+              "Nylon"
+            ]
+          },
+          {
+            "localizedName": "Size Type",
+            "localizedValues": [
+              "Regular"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Black"
+            ]
+          },
+          {
+            "localizedName": "Style",
+            "localizedValues": [
+              "Swim Skirt"
+            ]
+          },
+          {
+            "localizedName": "Size (Women's)",
+            "localizedValues": [
+              "S"
+            ]
+          }
+        ],
+        "ean": [
+          "0096613099678"
+        ],
+        "upc": [
+          "0096613099678"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/27031084976",
+        "title": "Aqua Green Swim Skirt Bottom Full Coverage Side Slit Size Small - Black",
+        "productWebUrl": "https://www.ebay.com/p/27031084976"
+      },
+      {
+        "epid": "21035047570",
+        "gtin": [
+          "0758293060248"
+        ],
+        "brand": "In the Swim",
+        "mpn": [
+          "C6010"
+        ],
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "In the Swim"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "C6010"
+            ]
+          },
+          {
+            "localizedName": "Tablet Dimension",
+            "localizedValues": [
+              "1 inch"
+            ]
+          },
+          {
+            "localizedName": "Formulation",
+            "localizedValues": [
+              "Tablets"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "C6010"
+            ]
+          }
+        ],
+        "ean": [
+          "0758293060248"
+        ],
+        "upc": [
+          "0758293060248"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/21035047570",
+        "title": "In the Swim C6010 1 inch Pool and Spa Bromine Tablets - 8lbs",
+        "productWebUrl": "https://www.ebay.com/p/21035047570"
+      },
+      {
+        "epid": "19034189413",
+        "gtin": [
+          "0607353821698"
+        ],
+        "brand": "Suncoo",
+        "mpn": [
+          "2040700300"
+        ],
+        "aspects": [
+          {
+            "localizedName": "Type",
+            "localizedValues": [
+              "Filter Pump"
+            ]
+          },
+          {
+            "localizedName": "Pool Type",
+            "localizedValues": [
+              "Above-Ground"
+            ]
+          },
+          {
+            "localizedName": "Style",
+            "localizedValues": [
+              "Modern"
+            ]
+          },
+          {
+            "localizedName": "Horsepower",
+            "localizedValues": [
+              "2hp"
+            ]
+          },
+          {
+            "localizedName": "Custom Bundle",
+            "localizedValues": [
+              "No"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "2040700300"
+            ]
+          }
+        ],
+        "ean": [
+          "0607353821698"
+        ],
+        "upc": [
+          "0607353821698"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/19034189413",
+        "title": "Suncoo 2040700300 2HP Above Ground Swimming Pool Electric Pump",
+        "productWebUrl": "https://www.ebay.com/p/19034189413"
+      },
+      {
+        "epid": "5034423230",
+        "gtin": [
+          "0811138036690"
+        ],
+        "brand": "Fitbit",
+        "mpn": [
+          "FB507BKBK"
+        ],
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Fitbit"
+            ]
+          },
+          {
+            "localizedName": "Features",
+            "localizedValues": [
+              "Bluetooth",
+              "Average Heart Rate"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "FB507BKBK"
+            ]
+          },
+          {
+            "localizedName": "Activity",
+            "localizedValues": [
+              "Fitness",
+              "Gym & Training",
+              "Pilates",
+              "Running & Jogging"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Black"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "Fitbit Versa"
+            ]
+          },
+          {
+            "localizedName": "Custom Bundle",
+            "localizedValues": [
+              "No"
+            ]
+          }
+        ],
+        "ean": [
+          "0811138036690"
+        ],
+        "upc": [
+          "0811138036690"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/5034423230",
+        "title": "Fitbit Versa 2 Health & Fitness Smartwatch (FB507BKBK)",
+        "productWebUrl": "https://www.ebay.com/p/5034423230"
+      },
+      {
+        "epid": "4034376599",
+        "gtin": [
+          "0811138036751"
+        ],
+        "brand": "Fitbit",
+        "mpn": [
+          "FB507RGPK"
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/KOYAAOSwMdpdi3t9/s-l640.jpg"
+        },
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Fitbit"
+            ]
+          },
+          {
+            "localizedName": "Features",
+            "localizedValues": [
+              "Altimeter",
+              "Bluetooth",
+              "Distance",
+              "Temperature",
+              "Timer",
+              "Rechargeable Battery",
+              "Clock",
+              "Water Resistance",
+              "Alarm",
+              "Exercise Log",
+              "Sleep Tracker",
+              "Stopwatch",
+              "Wireless",
+              "Set Goals",
+              "Heart Rate Monitor",
+              "Calorie Monitor",
+              "GPS",
+              "Memory Storage"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "FB507RGPK"
+            ]
+          },
+          {
+            "localizedName": "Attachment",
+            "localizedValues": [
+              "Armband"
+            ]
+          },
+          {
+            "localizedName": "Activity",
+            "localizedValues": [
+              "Fitness",
+              "Swimming",
+              "Gym & Training",
+              "Yoga",
+              "Pilates",
+              "Crossfit",
+              "Walking",
+              "Running & Jogging"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Pink"
+            ]
+          },
+          {
+            "localizedName": "Compatibility",
+            "localizedValues": [
+              "Android",
+              "iOS"
+            ]
+          },
+          {
+            "localizedName": "Single Charge Life (up to)",
+            "localizedValues": [
+              "5 Days"
+            ]
+          }
+        ],
+        "ean": [
+          "0811138036751"
+        ],
+        "upc": [
+          "0811138036751"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/4034376599",
+        "title": "Fitbit Versa 2 Activity Tracker - Petal/Copper Rose",
+        "productWebUrl": "https://www.ebay.com/p/4034376599"
+      },
+      {
+        "epid": "18029957536",
+        "gtin": [
+          "0660174109666"
+        ],
+        "brand": "In the Swim",
+        "mpn": [
+          "12002531"
+        ],
+        "aspects": [
+          {
+            "localizedName": "Type",
+            "localizedValues": [
+              "Chlorine Tablet"
+            ]
+          },
+          {
+            "localizedName": "Tablet Dimension",
+            "localizedValues": [
+              "3 inch"
+            ]
+          },
+          {
+            "localizedName": "Formulation",
+            "localizedValues": [
+              "Tablets"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "12002531"
+            ]
+          }
+        ],
+        "ean": [
+          "0660174109666"
+        ],
+        "upc": [
+          "0660174109666"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/18029957536",
+        "title": "Pool Brand Chlorine Tablet for 3\" Swimming Pool - 50 Pounds (12002531)",
+        "productWebUrl": "https://www.ebay.com/p/18029957536"
+      },
+      {
+        "epid": "26035051446",
+        "gtin": [
+          "0749319756719"
+        ],
+        "brand": "Ocean Blue",
+        "mpn": [
+          "195091"
+        ],
+        "aspects": [
+          {
+            "localizedName": "Type",
+            "localizedValues": [
+              "Pool Cover Pump"
+            ]
+          },
+          {
+            "localizedName": "Pool Type",
+            "localizedValues": [
+              "Above-Ground"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "195091"
+            ]
+          },
+          {
+            "localizedName": "Speed",
+            "localizedValues": [
+              "Single-Speed"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "195091"
+            ]
+          }
+        ],
+        "ean": [
+          "0749319756719"
+        ],
+        "upc": [
+          "0749319756719"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/26035051446",
+        "title": "Ocean Blue 195091 350 GPH Electric Cover Pump",
+        "productWebUrl": "https://www.ebay.com/p/26035051446"
+      },
+      {
+        "epid": "5034391259",
+        "gtin": [
+          "0811138036591"
+        ],
+        "brand": "Fitbit",
+        "mpn": [
+          "FB507GYGY"
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/yRoAAOSwJAVdi3tv/s-l640.jpg"
+        },
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Fitbit"
+            ]
+          },
+          {
+            "localizedName": "Features",
+            "localizedValues": [
+              "Altimeter",
+              "Bluetooth",
+              "Distance",
+              "Temperature",
+              "Timer",
+              "Rechargeable Battery",
+              "Clock",
+              "Water Resistance",
+              "Alarm",
+              "Exercise Log",
+              "Sleep Tracker",
+              "Stopwatch",
+              "Wireless",
+              "Set Goals",
+              "Heart Rate Monitor",
+              "Calorie Monitor",
+              "GPS",
+              "Memory Storage"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "FB507GYGY"
+            ]
+          },
+          {
+            "localizedName": "Attachment",
+            "localizedValues": [
+              "Armband"
+            ]
+          },
+          {
+            "localizedName": "Activity",
+            "localizedValues": [
+              "Fitness",
+              "Swimming",
+              "Gym & Training",
+              "Yoga",
+              "Pilates",
+              "Crossfit",
+              "Walking",
+              "Running & Jogging"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Gray"
+            ]
+          },
+          {
+            "localizedName": "Compatibility",
+            "localizedValues": [
+              "Android",
+              "iOS"
+            ]
+          },
+          {
+            "localizedName": "Single Charge Life (up to)",
+            "localizedValues": [
+              "5 Days"
+            ]
+          }
+        ],
+        "ean": [
+          "0811138036591"
+        ],
+        "upc": [
+          "0811138036591"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/5034391259",
+        "title": "Fitbit Versa 2 Special Edition Activity Tracker - Smoke Woven/Mist Gray",
+        "productWebUrl": "https://www.ebay.com/p/5034391259"
+      },
+      {
+        "epid": "13034685051",
+        "gtin": [
+          "0811138036737"
+        ],
+        "brand": "Fitbit",
+        "mpn": [
+          "FB507RGNV"
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/ykwAAOSw1bNd5gg8/s-l640.jpg"
+        },
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Fitbit"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "FB507RGNV"
+            ]
+          },
+          {
+            "localizedName": "Activity",
+            "localizedValues": [
+              "Fitness"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Blue",
+              "Pink"
+            ]
+          },
+          {
+            "localizedName": "Compatibility",
+            "localizedValues": [
+              "Android"
+            ]
+          },
+          {
+            "localizedName": "Custom Bundle",
+            "localizedValues": [
+              "No"
+            ]
+          }
+        ],
+        "ean": [
+          "0811138036737"
+        ],
+        "upc": [
+          "0811138036737"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/13034685051",
+        "title": "Fitbit Versa 2 Special Edition Alexa Built-in Health & Fitness Smartwatch - Navy/Pink",
+        "productWebUrl": "https://www.ebay.com/p/13034685051"
+      },
+      {
+        "epid": "28030524188",
+        "gtin": [
+          "0811138030902"
+        ],
+        "brand": "Fitbit",
+        "mpn": [
+          "FB409GMBK"
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/00/s/NDI1WDUwMA==/z/TKcAAOSw-LldTPJ8/$_57.JPG"
+        },
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Fitbit"
+            ]
+          },
+          {
+            "localizedName": "Features",
+            "localizedValues": [
+              "Average Speed",
+              "Altimeter",
+              "Bluetooth",
+              "Average Heart Rate",
+              "Cadence",
+              "Alarm"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "FB409GMBK"
+            ]
+          },
+          {
+            "localizedName": "Attachment",
+            "localizedValues": [
+              "Wristband"
+            ]
+          },
+          {
+            "localizedName": "Activity",
+            "localizedValues": [
+              "Fitness",
+              "Swimming",
+              "Gym & Training",
+              "Pilates",
+              "Crossfit",
+              "Running & Jogging"
+            ]
+          },
+          {
+            "localizedName": "Size",
+            "localizedValues": [
+              "L"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Black"
+            ]
+          },
+          {
+            "localizedName": "Compatibility",
+            "localizedValues": [
+              "Android"
+            ]
+          },
+          {
+            "localizedName": "Modified Item",
+            "localizedValues": [
+              "No"
+            ]
+          },
+          {
+            "localizedName": "Modification Description",
+            "localizedValues": [
+              "Pebble only"
+            ]
+          },
+          {
+            "localizedName": "California Prop 65 Warning",
+            "localizedValues": [
+              "Most My Products Are Not Able to Ship to CA Address."
+            ]
+          },
+          {
+            "localizedName": "Single Charge Life (up to)",
+            "localizedValues": [
+              "7 Days"
+            ]
+          }
+        ],
+        "ean": [
+          "0811138030902"
+        ],
+        "upc": [
+          "0811138030902"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/28030524188",
+        "title": "Fitbit Charge 3 Fitness Activity Tracker - Graphite/Black",
+        "productWebUrl": "https://www.ebay.com/p/28030524188"
+      },
+      {
+        "epid": "22031288951",
+        "gtin": [
+          "0737993426585",
+          "0737993426592",
+          "0737993426608"
+        ],
+        "brand": "PuriTech",
+        "mpn": [
+          "PCYAT"
+        ],
+        "aspects": [
+          {
+            "localizedName": "Type",
+            "localizedValues": [
+              "Pool Balancer"
+            ]
+          },
+          {
+            "localizedName": "Custom Bundle",
+            "localizedValues": [
+              "No"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "PCYAT"
+            ]
+          }
+        ],
+        "ean": [
+          "0737993426585",
+          "0737993426592",
+          "0737993426608"
+        ],
+        "upc": [
+          "0737993426585",
+          "0737993426592",
+          "0737993426608"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/22031288951",
+        "title": "Puri Tech PCYAT 25lbs. Swimming Pool  Cyanuric Acid UV Protection Conditioner",
+        "productWebUrl": "https://www.ebay.com/p/22031288951"
+      },
+      {
+        "epid": "19025191275",
+        "gtin": [
+          "0810351029298"
+        ],
+        "brand": "Fitbit",
+        "mpn": [
+          "FB407SBKS"
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/00/s/NTIyWDUyMg==/z/HG4AAOSw~epdMdi~/$_57.JPG"
+        },
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Fitbit"
+            ]
+          },
+          {
+            "localizedName": "Features",
+            "localizedValues": [
+              "Average Heart Rate"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "FB407SBKS"
+            ]
+          },
+          {
+            "localizedName": "Attachment",
+            "localizedValues": [
+              "Wristband"
+            ]
+          },
+          {
+            "localizedName": "Activity",
+            "localizedValues": [
+              "Fitness"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Black"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "Fitbit Blaze"
+            ]
+          },
+          {
+            "localizedName": "Modified Item",
+            "localizedValues": [
+              "No"
+            ]
+          }
+        ],
+        "ean": [
+          "0810351029298"
+        ],
+        "upc": [
+          "0810351029298"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/19025191275",
+        "title": "Fitbit Charge 2 Heart Rate & Fitness Wristband - Black",
+        "productWebUrl": "https://www.ebay.com/p/19025191275"
+      },
+      {
+        "epid": "3028321279",
+        "gtin": [
+          "0816137029148"
+        ],
+        "brand": "Fitbit",
+        "mpn": [
+          "FB504RGPK"
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/00/s/MTYwMFgxNjAw/z/RJsAAOSwAOVdKJsH/$_57.JPG"
+        },
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Fitbit"
+            ]
+          },
+          {
+            "localizedName": "Features",
+            "localizedValues": [
+              "Bluetooth",
+              "Clock",
+              "Rechargeable Battery",
+              "Calorie Monitor",
+              "Average Heart Rate"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "FB504RGPK"
+            ]
+          },
+          {
+            "localizedName": "Attachment",
+            "localizedValues": [
+              "Wristband"
+            ]
+          },
+          {
+            "localizedName": "Activity",
+            "localizedValues": [
+              "Fitness",
+              "Swimming",
+              "Gym & Training",
+              "Pilates",
+              "Crossfit",
+              "Running & Jogging"
+            ]
+          },
+          {
+            "localizedName": "Size",
+            "localizedValues": [
+              "L"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Pink"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "Fitbit Versa"
+            ]
+          },
+          {
+            "localizedName": "Compatibility",
+            "localizedValues": [
+              "iOS"
+            ]
+          },
+          {
+            "localizedName": "Single Charge Life (up to)",
+            "localizedValues": [
+              "4 Days"
+            ]
+          }
+        ],
+        "ean": [
+          "0816137029148"
+        ],
+        "upc": [
+          "0816137029148"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/3028321279",
+        "title": "Fitbit Versa Fitness Smartwatch - Peach/Rose-Gold Aluminium (FB504RGPK)",
+        "productWebUrl": "https://www.ebay.com/p/3028321279"
+      },
+      {
+        "epid": "2302135257",
+        "gtin": [
+          "0090164012001"
+        ],
+        "brand": "Hayward",
+        "mpn": [
+          "PA120"
+        ],
+        "image": {
+          "imageUrl": "https://i.ebayimg.com/images/g/D4wAAOSwV-FdfjXj/s-l640.png"
+        },
+        "additionalImages": [
+          {
+            "imageUrl": "https://i.ebayimg.com/00/s/NTAwWDIxMQ==/z/kpcAAOSwOqddTMrp/$_57.JPG"
+          }
+        ],
+        "aspects": [
+          {
+            "localizedName": "Type",
+            "localizedValues": [
+              "Filter Cartridge"
+            ]
+          },
+          {
+            "localizedName": "Pool Type",
+            "localizedValues": [
+              "In-Ground"
+            ]
+          },
+          {
+            "localizedName": "Material",
+            "localizedValues": [
+              "Plastic"
+            ]
+          },
+          {
+            "localizedName": "Model",
+            "localizedValues": [
+              "PA120"
+            ]
+          }
+        ],
+        "ean": [
+          "0090164012001"
+        ],
+        "upc": [
+          "0090164012001"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/2302135257",
+        "title": "Pleatco PA120 Replacement Cartridge for Hayward Star-Clear Plus C-1200",
+        "productWebUrl": "https://www.ebay.com/p/2302135257"
+      },
+      {
+        "epid": "16031086548",
+        "gtin": [
+          "0492380473206"
+        ],
+        "brand": "Xhilaration",
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Xhilaration"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Blue"
+            ]
+          },
+          {
+            "localizedName": "Size (Women's)",
+            "localizedValues": [
+              "XS"
+            ]
+          }
+        ],
+        "ean": [
+          "0492380473206"
+        ],
+        "upc": [
+          "0492380473206"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/16031086548",
+        "title": "Xhilaration Women's One Piece Swimsuit XS - Cobalt Blue",
+        "productWebUrl": "https://www.ebay.com/p/16031086548"
+      },
+      {
+        "epid": "8026514327",
+        "gtin": [
+          "0816137029025",
+          "7811439031823"
+        ],
+        "brand": "Fitbit",
+        "mpn": [
+          "FB504GMBK"
+        ],
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Fitbit"
+            ]
+          },
+          {
+            "localizedName": "Features",
+            "localizedValues": [
+              "Bluetooth"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "FB504GMBK"
+            ]
+          },
+          {
+            "localizedName": "Attachment",
+            "localizedValues": [
+              "Wristband"
+            ]
+          },
+          {
+            "localizedName": "Activity",
+            "localizedValues": [
+              "Fitness",
+              "Swimming",
+              "Gym & Training",
+              "Yoga",
+              "Pilates",
+              "Crossfit",
+              "Walking",
+              "Running & Jogging"
+            ]
+          },
+          {
+            "localizedName": "Size",
+            "localizedValues": [
+              "L"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Black"
+            ]
+          },
+          {
+            "localizedName": "Compatibility",
+            "localizedValues": [
+              "Android"
+            ]
+          },
+          {
+            "localizedName": "Single Charge Life (up to)",
+            "localizedValues": [
+              "4 Days"
+            ]
+          }
+        ],
+        "ean": [
+          "0816137029025",
+          "7811439031823"
+        ],
+        "upc": [
+          "0816137029025"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/8026514327",
+        "title": "Fitbit Versa Fitness Watch - Black Aluminum (FB504GMBK)",
+        "productWebUrl": "https://www.ebay.com/p/8026514327"
+      },
+      {
+        "epid": "2255287902",
+        "gtin": [
+          "0723815091789"
+        ],
+        "brand": "Swimline",
+        "mpn": [
+          "9178"
+        ],
+        "ean": [
+          "0723815091789"
+        ],
+        "upc": [
+          "0723815091789"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/2255287902",
+        "title": "Ship Wreck Pool Dive Game Toys 9178",
+        "productWebUrl": "https://www.ebay.com/p/2255287902"
+      },
+      {
+        "epid": "18031753561",
+        "gtin": [
+          "0811138033163"
+        ],
+        "brand": "Fitbit",
+        "mpn": [
+          "FB412BKBK"
+        ],
+        "aspects": [
+          {
+            "localizedName": "Brand",
+            "localizedValues": [
+              "Fitbit"
+            ]
+          },
+          {
+            "localizedName": "Features",
+            "localizedValues": [
+              "Clock",
+              "Calorie Monitor",
+              "Data Review",
+              "Average Heart Rate",
+              "Alarm"
+            ]
+          },
+          {
+            "localizedName": "MPN",
+            "localizedValues": [
+              "FB412BKBK"
+            ]
+          },
+          {
+            "localizedName": "Attachment",
+            "localizedValues": [
+              "Wristband"
+            ]
+          },
+          {
+            "localizedName": "Activity",
+            "localizedValues": [
+              "Fitness",
+              "Swimming",
+              "Pilates",
+              "Crossfit",
+              "Running & Jogging"
+            ]
+          },
+          {
+            "localizedName": "Size",
+            "localizedValues": [
+              "L"
+            ]
+          },
+          {
+            "localizedName": "Color",
+            "localizedValues": [
+              "Black"
+            ]
+          },
+          {
+            "localizedName": "Compatibility",
+            "localizedValues": [
+              "iOS"
+            ]
+          },
+          {
+            "localizedName": "Single Charge Life (up to)",
+            "localizedValues": [
+              "4 Days"
+            ]
+          }
+        ],
+        "ean": [
+          "0811138033163"
+        ],
+        "upc": [
+          "0811138033163"
+        ],
+        "productHref": "https://api.ebay.com/commerce/catalog/v1_beta/product/18031753561",
+        "title": "Fitbit Inspire Fitness Activity Tracker - Black",
+        "productWebUrl": "https://www.ebay.com/p/18031753561"
+      }
+    ],
+    "href": null,
+    "next": null,
+    "prev": null,
+    "limit": 50
+}

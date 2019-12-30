@@ -1,0 +1,134 @@
+{
+    "href": "https://api.ebay.com/sell/fulfillment/v1/order?filter=lastmodifieddate:%5B2019-10-01T08:25:43.511Z..%5D&limit=50&offset=0",
+    "total": 1,
+    "limit": 50,
+    "offset": 0,
+    "orders": [
+      {
+        "orderId": "23-03894-74489",
+        "legacyOrderId": "151500473985-1922156262005",
+        "creationDate": "2019-09-20T12:59:26.000Z",
+        "lastModifiedDate": "2019-10-04T17:35:00.000Z",
+        "orderFulfillmentStatus": "FULFILLED",
+        "orderPaymentStatus": "PAID",
+        "sellerId": "freedivershop",
+        "buyer": {
+          "username": "davitevdo"
+        },
+        "pricingSummary": {
+          "priceSubtotal": {
+            "value": "31.0",
+            "currency": "USD"
+          },
+          "deliveryCost": {
+            "value": "31.0",
+            "currency": "USD"
+          },
+          "total": {
+            "value": "62.0",
+            "currency": "USD"
+          }
+        },
+        "cancelStatus": {
+          "cancelState": "NONE_REQUESTED",
+          "cancelRequests": []
+        },
+        "paymentSummary": {
+          "totalDueSeller": {
+            "value": "62.0",
+            "currency": "USD"
+          },
+          "refunds": [],
+          "payments": [
+            {
+              "paymentMethod": "PAYPAL",
+              "paymentReferenceId": "1VC8963521747341D",
+              "paymentDate": "2019-09-20T12:59:27.000Z",
+              "amount": {
+                "value": "62.0",
+                "currency": "USD"
+              },
+              "paymentStatus": "PAID",
+              "paymentHolds": [
+                {
+                  "holdReason": "ITEM_PRICE_INELIGIBLE",
+                  "holdAmount": {
+                    "value": "62.0",
+                    "currency": "USD"
+                  },
+                  "holdState": "RELEASE_CONFIRMED",
+                  "releaseDate": "2019-09-20T12:59:27.000Z"
+                }
+              ]
+            }
+          ]
+        },
+        "fulfillmentStartInstructions": [
+          {
+            "fulfillmentInstructionsType": "SHIP_TO",
+            "minEstimatedDeliveryDate": "2019-10-04T13:00:00.000Z",
+            "maxEstimatedDeliveryDate": "2019-10-04T13:00:00.000Z",
+            "ebaySupportedFulfillment": false,
+            "shippingStep": {
+              "shipTo": {
+                "fullName": "David Tevdoradze",
+                "contactAddress": {
+                  "addressLine1": "18 Boulden Cir",
+                  "addressLine2": "Camaratc Llc C5531 Ste 2",
+                  "city": "New Castle",
+                  "stateOrProvince": "DE",
+                  "postalCode": "19720-3494",
+                  "countryCode": "US"
+                },
+                "primaryPhone": {
+                  "phoneNumber": "3029300705"
+                }
+              },
+              "shippingServiceCode": "EconomyShippingFromOutsideUS"
+            }
+          }
+        ],
+        "fulfillmentHrefs": [
+          "https://api.ebay.com/sell/fulfillment/v1/order/23-03894-74489/shipping_fulfillment/RF020699652UA"
+        ],
+        "lineItems": [
+          {
+            "lineItemId": "10019766170123",
+            "legacyItemId": "151500473985",
+            "title": "WaterWay Swimming Mask - Competitor Professional Finswimming Mask",
+            "lineItemCost": {
+              "value": "31.0",
+              "currency": "USD"
+            },
+            "quantity": 1,
+            "soldFormat": "FIXED_PRICE",
+            "listingMarketplaceId": "EBAY_US",
+            "purchaseMarketplaceId": "EBAY_US",
+            "lineItemFulfillmentStatus": "FULFILLED",
+            "total": {
+              "value": "62.0",
+              "currency": "USD"
+            },
+            "deliveryCost": {
+              "shippingCost": {
+                "value": "31.0",
+                "currency": "USD"
+              }
+            },
+            "appliedPromotions": [],
+            "taxes": [],
+            "properties": {
+              "buyerProtection": true
+            },
+            "lineItemFulfillmentInstructions": {
+              "minEstimatedDeliveryDate": "2019-10-04T13:00:00.000Z",
+              "maxEstimatedDeliveryDate": "2019-10-04T13:00:00.000Z",
+              "shipByDate": "2019-10-05T06:59:59.000Z",
+              "guaranteedDelivery": false
+            }
+          }
+        ],
+        "salesRecordReference": "227"
+      }
+    ]
+}

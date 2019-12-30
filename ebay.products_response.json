@@ -1,0 +1,67 @@
+{
+    "href": "string",
+    "limit": "integer",
+    "next": "string",
+    "offset": "integer",
+    "prev": "string",
+    "productSummaries": [
+      {
+        "additionalImages": [
+          {
+            "height": "integer",
+            "imageUrl": "string",
+            "width": "integer"
+          }
+        ],
+        "aspects": [
+          {
+            "localizedName": "string",
+            "localizedValues": [
+              "string"
+            ]
+          }
+        ],
+        "brand": "string",
+        "ean": [
+          "string"
+        ],
+        "epid": "string",
+        "gtin": [
+          "string"    
+        ],
+        "image": {
+          "height": "integer",
+          "imageUrl": "string",
+          "width": "integer"
+        },
+        "isbn": [
+          "string"
+        ],
+        "mpn": [
+          "string"    
+        ],
+        "productHref": "string",
+        "productWebUrl": "string",
+        "title": "string",
+        "upc": [
+          "string"
+        ]
+      }
+    ],
+    "refinement": {
+      "aspectDistributions": [
+        {
+          "aspectValueDistributions": [
+            {
+              "localizedAspectValue": "string",
+              "matchCount": "integer",
+              "refinementHref": "string"
+            }
+          ],
+          "localizedAspectName": "string"
+        }
+      ],
+      "dominantCategoryId": "string"
+    },
+    "total": "integer"
+}
