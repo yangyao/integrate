@@ -1,0 +1,16 @@
+{
+    "total": 1,
+    "fulfillments": [
+      {
+        "fulfillmentId": "RF020699652UA",
+        "shipmentTrackingNumber": "RF020699652UA",
+        "shippingServiceCode": "EconomyShippingFromOutsideUS",
+        "shippedDate": "2019-09-23T18:02:00.000Z",
+        "lineItems": [
+          {
+            "lineItemId": "10019766170123"
+          }
+        ]
+      }
+    ]
+}
