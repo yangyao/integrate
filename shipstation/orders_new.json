@@ -1,0 +1,273 @@
+{
+    "orders": [
+        {
+            "orderId": 520138724,
+            "orderNumber": "1011",
+            "orderKey": "1963684266069",
+            "orderDate": "2019-12-10T01:32:28.0000000",
+            "createDate": "2019-12-26T22:29:39.7470000",
+            "modifyDate": "2019-12-26T22:30:07.0200000",
+            "paymentDate": "2019-12-10T01:32:28.0000000",
+            "shipByDate": null,
+            "orderStatus": "awaiting_shipment",
+            "customerId": 329192054,
+            "customerUsername": "2311098433621",
+            "customerEmail": "y.yang@aftership.com",
+            "billTo": {
+                "name": "yang yao",
+                "company": null,
+                "street1": null,
+                "street2": null,
+                "street3": null,
+                "city": null,
+                "state": null,
+                "postalCode": null,
+                "country": null,
+                "phone": null,
+                "residential": null,
+                "addressVerified": null
+            },
+            "shipTo": {
+                "name": "yang yao",
+                "company": "AfterShip Ltd",
+                "street1": "das tower of shenzhen",
+                "street2": "4001",
+                "street3": null,
+                "city": "SHENZHEN",
+                "state": "HK",
+                "postalCode": "65533",
+                "country": "HK",
+                "phone": "+86 13265883816",
+                "residential": false,
+                "addressVerified": "Address not yet validated"
+            },
+            "items": [
+                {
+                    "orderItemId": 771672868,
+                    "lineItemKey": "4362650386517",
+                    "sku": "Tool - Ice 15mm Wrench",
+                    "name": "15mm Combo Wrench - 15mm Combo Wrench",
+                    "imageUrl": "https://cdn.shopify.com/s/files/1/0097/9274/9653/products/15mm-icetoolz-combo-wrench_1.jpg?v=1575530859",
+                    "weight": {
+                        "value": 10.00,
+                        "units": "ounces",
+                        "WeightUnits": 1
+                    },
+                    "quantity": 1,
+                    "unitPrice": 10.99,
+                    "taxAmount": null,
+                    "shippingAmount": null,
+                    "warehouseLocation": null,
+                    "options": [],
+                    "productId": 45334457,
+                    "fulfillmentSku": null,
+                    "adjustment": false,
+                    "upc": null,
+                    "createDate": "2019-12-26T22:29:39.687",
+                    "modifyDate": "2019-12-26T22:29:39.687"
+                }
+            ],
+            "orderTotal": 10.99,
+            "amountPaid": 10.99,
+            "taxAmount": 0.00,
+            "shippingAmount": 0.00,
+            "customerNotes": "",
+            "internalNotes": null,
+            "gift": false,
+            "giftMessage": null,
+            "paymentMethod": "manual",
+            "requestedShippingService": null,
+            "carrierCode": null,
+            "serviceCode": null,
+            "packageCode": null,
+            "confirmation": "none",
+            "shipDate": null,
+            "holdUntilDate": null,
+            "weight": {
+                "value": 9.60,
+                "units": "ounces",
+                "WeightUnits": 1
+            },
+            "dimensions": null,
+            "insuranceOptions": {
+                "provider": null,
+                "insureShipment": false,
+                "insuredValue": 0.0
+            },
+            "internationalOptions": {
+                "contents": "sample",
+                "customsItems": [
+                    {
+                        "customsItemId": 74415306,
+                        "description": "Test",
+                        "quantity": 1,
+                        "value": 1.00,
+                        "harmonizedTariffCode": "",
+                        "countryOfOrigin": "HK"
+                    }
+                ],
+                "nonDelivery": "treat_as_abandoned"
+            },
+            "advancedOptions": {
+                "warehouseId": 54451,
+                "nonMachinable": false,
+                "saturdayDelivery": false,
+                "containsAlcohol": false,
+                "mergedOrSplit": false,
+                "mergedIds": [],
+                "parentId": null,
+                "storeId": 98311,
+                "customField1": null,
+                "customField2": null,
+                "customField3": null,
+                "source": "shopify_draft_order",
+                "billToParty": null,
+                "billToAccount": null,
+                "billToPostalCode": null,
+                "billToCountryCode": null,
+                "billToMyOtherAccount": null
+            },
+            "tagIds": null,
+            "userId": null,
+            "externallyFulfilled": false,
+            "externallyFulfilledBy": null,
+            "labelMessages": null
+        },
+        {
+            "orderId": 520138723,
+            "orderNumber": "1012",
+            "orderKey": "2007776198741",
+            "orderDate": "2019-12-26T19:44:20.0000000",
+            "createDate": "2019-12-26T22:29:39.2770000",
+            "modifyDate": "2019-12-26T23:31:27.6370000",
+            "paymentDate": "2019-12-26T19:44:20.0000000",
+            "shipByDate": null,
+            "orderStatus": "shipped",
+            "customerId": 329192054,
+            "customerUsername": "2311098433621",
+            "customerEmail": "y.yang@aftership.com",
+            "billTo": {
+                "name": "yang yao",
+                "company": null,
+                "street1": null,
+                "street2": null,
+                "street3": null,
+                "city": null,
+                "state": null,
+                "postalCode": null,
+                "country": null,
+                "phone": null,
+                "residential": null,
+                "addressVerified": null
+            },
+            "shipTo": {
+                "name": "yang yao",
+                "company": "AfterShip Ltd",
+                "street1": "das tower of shenzhen",
+                "street2": "4001",
+                "street3": null,
+                "city": "SHENZHEN",
+                "state": "HK",
+                "postalCode": "65533",
+                "country": "HK",
+                "phone": "+86 13265883816",
+                "residential": false,
+                "addressVerified": "Address not yet validated"
+            },
+            "items": [
+                {
+                    "orderItemId": 771672867,
+                    "lineItemKey": "4443578925141",
+                    "sku": "Grips - Slender Brooks - Honey",
+                    "name": "Brooks Slender Leather Grips - Honey",
+                    "imageUrl": "https://cdn.shopify.com/s/files/1/0097/9274/9653/products/Slender-leather-grips-honey-web.jpg?v=1575532553",
+                    "weight": {
+                        "value": 16.00,
+                        "units": "ounces",
+                        "WeightUnits": 1
+                    },
+                    "quantity": 1,
+                    "unitPrice": 90.00,
+                    "taxAmount": null,
+                    "shippingAmount": null,
+                    "warehouseLocation": null,
+                    "options": [],
+                    "productId": 45334456,
+                    "fulfillmentSku": null,
+                    "adjustment": false,
+                    "upc": "831273600792",
+                    "createDate": "2019-12-26T22:29:39.2",
+                    "modifyDate": "2019-12-26T22:29:39.2"
+                }
+            ],
+            "orderTotal": 90.00,
+            "amountPaid": 90.00,
+            "taxAmount": 0.00,
+            "shippingAmount": 0.00,
+            "customerNotes": "ggagaga",
+            "internalNotes": null,
+            "gift": false,
+            "giftMessage": null,
+            "paymentMethod": "manual",
+            "requestedShippingService": null,
+            "carrierCode": "dhl_express",
+            "serviceCode": "express_envelope",
+            "packageCode": "package",
+            "confirmation": "signature",
+            "shipDate": "2019-12-27",
+            "holdUntilDate": null,
+            "weight": {
+                "value": 16.00,
+                "units": "ounces",
+                "WeightUnits": 1
+            },
+            "dimensions": null,
+            "insuranceOptions": {
+                "provider": null,
+                "insureShipment": false,
+                "insuredValue": 0.0
+            },
+            "internationalOptions": {
+                "contents": "sample",
+                "customsItems": [
+                    {
+                        "customsItemId": 74415305,
+                        "description": "Test",
+                        "quantity": 1,
+                        "value": 1.00,
+                        "harmonizedTariffCode": "",
+                        "countryOfOrigin": "HK"
+                    }
+                ],
+                "nonDelivery": "treat_as_abandoned"
+            },
+            "advancedOptions": {
+                "warehouseId": 16990,
+                "nonMachinable": false,
+                "saturdayDelivery": false,
+                "containsAlcohol": false,
+                "mergedOrSplit": false,
+                "mergedIds": [],
+                "parentId": null,
+                "storeId": 98311,
+                "customField1": null,
+                "customField2": null,
+                "customField3": null,
+                "source": "shopify_draft_order",
+                "billToParty": null,
+                "billToAccount": null,
+                "billToPostalCode": null,
+                "billToCountryCode": null,
+                "billToMyOtherAccount": null
+            },
+            "tagIds": null,
+            "userId": null,
+            "externallyFulfilled": true,
+            "externallyFulfilledBy": "external",
+            "labelMessages": null
+        }
+    ],
+    "total": 2,
+    "page": 1,
+    "pages": 1
+}
