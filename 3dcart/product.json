@@ -17,7 +17,7 @@
         "ManufacturerID": 0,
         "ManufacturerName": "",
         "DistributorList": [],
-        "LastUpdate": "2020-01-14T05:03:35",
+        "LastUpdate": "2020-01-14T05:05:14",
         "UserID": null,
         "GTIN": "",
         "CategoryList": [
@@ -86,7 +86,7 @@
         "MediaFile": "",
         "AdditionalImageFile2": "assets/images/freeship.png",
         "AdditionalImageCaption2": "",
-        "AdditionalImageFile3": "",
+        "AdditionalImageFile3": "https://placekitten.com/g/200/300",
         "AdditionalImageCaption3": "",
         "AdditionalImageFile4": "",
         "AdditionalImageCaption4": "",
