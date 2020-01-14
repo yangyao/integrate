@@ -1,30 +1,30 @@
 {
-  "StoreInformation": {
-    "StoreName": "sample string 1",
-    "StoreSlogan": "sample string 2",
-    "StoreLogo": "sample string 3",
-    "StoreEmail": "sample string 4",
-    "StoreURL": "sample string 5",
-    "StoreSecureURL": "sample string 6"
-  },
-  "MerchantInformation": {
-    "Company": "sample string 1",
-    "Address1": "sample string 2",
-    "Address2": "sample string 3",
-    "City": "sample string 4",
-    "State": "sample string 5",
-    "Country": "sample string 6",
-    "ZipCode": "sample string 7",
-    "Phone": "sample string 8",
-    "AlternatePhone": "sample string 9",
-    "Fax": "sample string 10",
-    "InvoiceLogo": "sample string 11",
-    "InvoiceTerms": "sample string 12"
-  },
-  "StoreStandards": {
-    "StoreTimeZone": "sample string 1",
-    "CurrencySymbol": "sample string 2",
-    "DecimalPlacesOnPrice": "sample string 3",
-    "CurrencyCode": "sample string 4"
-  }
+    "StoreInformation": {
+        "StoreName": "Sample Store",
+        "StoreSlogan": "Sample Slogan",
+        "StoreLogo": "assets/images/logo.png",
+        "StoreEmail": "yangyaoapp@gmail.com",
+        "StoreURL": "https://720111260417.3dcart.net",
+        "StoreSecureURL": "https://720111260417.3dcart.net"
+    },
+    "MerchantInformation": {
+        "Company": "Sample Store",
+        "Address1": "123 Street",
+        "Address2": "Suite #1",
+        "City": "Tamarac",
+        "State": "FL",
+        "Country": "US",
+        "ZipCode": "33321",
+        "Phone": "800-000-0000",
+        "AlternatePhone": "",
+        "Fax": "",
+        "InvoiceLogo": "",
+        "InvoiceTerms": ""
+    },
+    "StoreStandards": {
+        "StoreTimeZone": "-5",
+        "CurrencySymbol": "$",
+        "DecimalPlacesOnPrice": "2",
+        "CurrencyCode": "USD"
+    }
 }
