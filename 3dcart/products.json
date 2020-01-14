@@ -1,0 +1,758 @@
+[
+  {
+    "SKUInfo": {
+      "CatalogID": 1,
+      "SKU": "sample string 1",
+      "Name": "sample string 2",
+      "Cost": 1.1,
+      "Price": 1.1,
+      "Currency": "sample string 3",
+      "RetailPrice": 1.1,
+      "SalePrice": 1.1,
+      "OnSale": true,
+      "Stock": 1.1
+    },
+    "MFGID": "sample string 1",
+    "ShortDescription": "sample string 2",
+    "ManufacturerID": 1,
+    "ManufacturerName": "sample string 3",
+    "DistributorList": [
+      {
+        "DistributorID": 1,
+        "DistributorName": "sample string 1",
+        "DistributorItemCost": 1.1,
+        "DistributorItemID": "sample string 2",
+        "DistributorStockID": "sample string 3"
+      },
+      {
+        "DistributorID": 1,
+        "DistributorName": "sample string 1",
+        "DistributorItemCost": 1.1,
+        "DistributorItemID": "sample string 2",
+        "DistributorStockID": "sample string 3"
+      }
+    ],
+    "LastUpdate": "02/19/2019 00:18",
+    "UserID": "sample string 4",
+    "GTIN": "sample string 5",
+    "CategoryList": [
+      {
+        "CategoryID": 1,
+        "CategoryName": "sample string 1"
+      },
+      {
+        "CategoryID": 1,
+        "CategoryName": "sample string 1"
+      }
+    ],
+    "ExternalIdsList": [
+      {
+        "ID": 1,
+        "AdvancedOptionSufix": "sample string 1",
+        "ExternalId1": "sample string 2",
+        "ExternalId2": "sample string 3",
+        "ExternalIdType": "sample string 4"
+      },
+      {
+        "ID": 1,
+        "AdvancedOptionSufix": "sample string 1",
+        "ExternalId1": "sample string 2",
+        "ExternalId2": "sample string 3",
+        "ExternalIdType": "sample string 4"
+      }
+    ],
+    "CategoryExternalIdsList": [
+      {
+        "ID": 1,
+        "CategoryID": 1,
+        "ExternalId1": "sample string 1",
+        "ExternalIdType": "sample string 2"
+      },
+      {
+        "ID": 1,
+        "CategoryID": 1,
+        "ExternalId1": "sample string 1",
+        "ExternalIdType": "sample string 2"
+      }
+    ],
+    "NonTaxable": true,
+    "NotForSale": true,
+    "Hide": true,
+    "GiftCertificate": true,
+    "HomeSpecial": true,
+    "CategorySpecial": true,
+    "NonSearchable": true,
+    "GiftWrapItem": true,
+    "ShipCost": 1.1,
+    "Weight": 1.1,
+    "Height": 1.1,
+    "Width": 1.1,
+    "Depth": 1.1,
+    "SelfShip": true,
+    "FreeShipping": true,
+    "RewardPoints": 1,
+    "RedeemPoints": 1,
+    "DisableRewards": true,
+    "StockAlert": 1,
+    "ReorderQuantity": 1,
+    "InStockMessage": "sample string 6",
+    "OutOfStockMessage": "sample string 7",
+    "BackOrderMessage": "sample string 8",
+    "InventoryControl": 1,
+    "WarehouseLocation": "sample string 9",
+    "WarehouseBin": "sample string 10",
+    "WarehouseAisle": "sample string 11",
+    "WarehouseCustom": "sample string 12",
+    "Description": "sample string 13",
+    "Keywords": "sample string 14",
+    "ExtraField1": "sample string 15",
+    "ExtraField2": "sample string 16",
+    "ExtraField3": "sample string 17",
+    "ExtraField4": "sample string 18",
+    "ExtraField5": "sample string 19",
+    "ExtraField6": "sample string 20",
+    "ExtraField7": "sample string 21",
+    "ExtraField8": "sample string 22",
+    "ExtraField9": "sample string 23",
+    "ExtraField10": "sample string 24",
+    "ExtraField11": "sample string 25",
+    "ExtraField12": "sample string 26",
+    "ExtraField13": "sample string 27",
+    "FeatureList": [
+      {
+        "FeatureID": 1,
+        "FeatureTitle": "sample string 1",
+        "FeatureDescription": "sample string 2"
+      },
+      {
+        "FeatureID": 1,
+        "FeatureTitle": "sample string 1",
+        "FeatureDescription": "sample string 2"
+      }
+    ],
+    "PluginList": {
+      "sample string 1": "sample string 2",
+      "sample string 3": "sample string 4"
+    },
+    "SampleEnable": true,
+    "SampleName": "sample string 28",
+    "SampleSKUPrefix": "sample string 29",
+    "SamplePrice": 1.1,
+    "SampleWeight": 1.1,
+    "ReviewAverage": 1.1,
+    "ReviewCount": 1,
+    "MainImageFile": "sample string 30",
+    "MainImageCaption": "sample string 31",
+    "ThumbnailFile": "sample string 32",
+    "MediaFile": "sample string 33",
+    "AdditionalImageFile2": "sample string 34",
+    "AdditionalImageCaption2": "sample string 35",
+    "AdditionalImageFile3": "sample string 36",
+    "AdditionalImageCaption3": "sample string 37",
+    "AdditionalImageFile4": "sample string 38",
+    "AdditionalImageCaption4": "sample string 39",
+    "ImageGalleryList": [
+      {
+        "ImageGalleryID": 1,
+        "ImageGalleryFile": "sample string 1",
+        "ImageGalleryCaption": "sample string 2",
+        "ImageGallerySorting": 1
+      },
+      {
+        "ImageGalleryID": 1,
+        "ImageGalleryFile": "sample string 1",
+        "ImageGalleryCaption": "sample string 2",
+        "ImageGallerySorting": 1
+      }
+    ],
+    "OptionSetList": [
+      {
+        "OptionSetID": 1,
+        "OptionSetName": "sample string 1",
+        "OptionSorting": 1.1,
+        "OptionRequired": true,
+        "OptionType": "sample string 2",
+        "OptionURL": "sample string 3",
+        "OptionAdditionalInformation": "sample string 4",
+        "OptionSizeLimit": 1,
+        "OptionList": [
+          {
+            "OptionID": 1,
+            "OptionName": "sample string 1",
+            "OptionSelected": true,
+            "OptionHide": true,
+            "OptionValue": 1.1,
+            "OptionPartNumber": "sample string 2",
+            "OptionSorting": 1.1,
+            "OptionImagePath": "sample string 3",
+            "OptionBundleCatalogId": 1,
+            "OptionBundleQuantity": 1
+          },
+          {
+            "OptionID": 1,
+            "OptionName": "sample string 1",
+            "OptionSelected": true,
+            "OptionHide": true,
+            "OptionValue": 1.1,
+            "OptionPartNumber": "sample string 2",
+            "OptionSorting": 1.1,
+            "OptionImagePath": "sample string 3",
+            "OptionBundleCatalogId": 1,
+            "OptionBundleQuantity": 1
+          }
+        ]
+      },
+      {
+        "OptionSetID": 1,
+        "OptionSetName": "sample string 1",
+        "OptionSorting": 1.1,
+        "OptionRequired": true,
+        "OptionType": "sample string 2",
+        "OptionURL": "sample string 3",
+        "OptionAdditionalInformation": "sample string 4",
+        "OptionSizeLimit": 1,
+        "OptionList": [
+          {
+            "OptionID": 1,
+            "OptionName": "sample string 1",
+            "OptionSelected": true,
+            "OptionHide": true,
+            "OptionValue": 1.1,
+            "OptionPartNumber": "sample string 2",
+            "OptionSorting": 1.1,
+            "OptionImagePath": "sample string 3",
+            "OptionBundleCatalogId": 1,
+            "OptionBundleQuantity": 1
+          },
+          {
+            "OptionID": 1,
+            "OptionName": "sample string 1",
+            "OptionSelected": true,
+            "OptionHide": true,
+            "OptionValue": 1.1,
+            "OptionPartNumber": "sample string 2",
+            "OptionSorting": 1.1,
+            "OptionImagePath": "sample string 3",
+            "OptionBundleCatalogId": 1,
+            "OptionBundleQuantity": 1
+          }
+        ]
+      }
+    ],
+    "AdvancedOptionList": [
+      {
+        "AdvancedOptionCode": "sample string 1",
+        "AdvancedOptionSufix": "sample string 2",
+        "AdvancedOptionName": "sample string 3",
+        "AdvancedOptionCost": 1.1,
+        "AdvancedOptionStock": 1,
+        "AdvancedOptionWeight": 1.1,
+        "AdvancedOptionPrice": 1.1,
+        "AdvancedOptionGTIN": "sample string 4"
+      },
+      {
+        "AdvancedOptionCode": "sample string 1",
+        "AdvancedOptionSufix": "sample string 2",
+        "AdvancedOptionName": "sample string 3",
+        "AdvancedOptionCost": 1.1,
+        "AdvancedOptionStock": 1,
+        "AdvancedOptionWeight": 1.1,
+        "AdvancedOptionPrice": 1.1,
+        "AdvancedOptionGTIN": "sample string 4"
+      }
+    ],
+    "RelatedProductList": [
+      {
+        "RelatedIndexID": 1,
+        "RelatedProductID": 1,
+        "RelatedProductSorting": 1
+      },
+      {
+        "RelatedIndexID": 1,
+        "RelatedProductID": 1,
+        "RelatedProductSorting": 1
+      }
+    ],
+    "UpSellingItemList": [
+      {
+        "UpSellingIndexID": 1,
+        "UpSellingItemID": 1,
+        "UpSellingItemSorting": 1
+      },
+      {
+        "UpSellingIndexID": 1,
+        "UpSellingItemID": 1,
+        "UpSellingItemSorting": 1
+      }
+    ],
+    "DiscountList": [
+      {
+        "DiscountID": 1,
+        "DiscountPriceLevel": 1,
+        "DiscountLowbound": 1,
+        "DiscountUpbound": 1,
+        "DiscountPrice": 1.1,
+        "DiscountPercentage": true
+      },
+      {
+        "DiscountID": 1,
+        "DiscountPriceLevel": 1,
+        "DiscountLowbound": 1,
+        "DiscountUpbound": 1,
+        "DiscountPrice": 1.1,
+        "DiscountPercentage": true
+      }
+    ],
+    "DoNotUseCategoryOptions": true,
+    "DateCreated": "02/19/2019 00:18",
+    "ListingTemplateID": 1,
+    "ListingTemplateName": "sample string 40",
+    "LoginRequiredOptionID": 1,
+    "LoginRequiredOptionName": "sample string 41",
+    "LoginRequiredOptionRedirectTo": "sample string 42",
+    "AllowAccessCustomerGroupID": 1,
+    "AllowAccessCustomerGroupName": "sample string 43",
+    "RMAMaxPeriod": "sample string 44",
+    "CanonicalUrl": "sample string 45",
+    "TaxCode": "sample string 46",
+    "DisplayText": "sample string 47",
+    "MinimumQuantity": 1.1,
+    "MaximumQuantity": 1.1,
+    "AllowOnlyMultiples": true,
+    "AllowFractionalQuantity": true,
+    "QuantityOptions": "sample string 48",
+    "GroupOptionsForQuantityPricing": true,
+    "ApplyQuantityDiscountToOptions": true,
+    "EnableMakeAnOfferFeature": true,
+    "MinimumAcceptableOffer": "sample string 49",
+    "PriceLevel1": 1.1,
+    "PriceLevel1Hide": true,
+    "PriceLevel2": 1.1,
+    "PriceLevel2Hide": true,
+    "PriceLevel3": 1.1,
+    "PriceLevel3Hide": true,
+    "PriceLevel4": 1.1,
+    "PriceLevel4Hide": true,
+    "PriceLevel5": 1.1,
+    "PriceLevel5Hide": true,
+    "PriceLevel6": 1.1,
+    "PriceLevel6Hide": true,
+    "PriceLevel7": 1.1,
+    "PriceLevel7Hide": true,
+    "PriceLevel8": 1.1,
+    "PriceLevel8Hide": true,
+    "PriceLevel9": 1.1,
+    "PriceLevel9Hide": true,
+    "PriceLevel10": 1.1,
+    "PriceLevel10Hide": true,
+    "BuyButtonLink": "sample string 50",
+    "ProductLink": "sample string 51",
+    "Title": "sample string 52",
+    "CustomFileName": "sample string 53",
+    "RedirectLink": "sample string 54",
+    "MetaTags": "sample string 55",
+    "SpecialInstructions": "sample string 56",
+    "AssignKey": true,
+    "ReUseKeys": true,
+    "SerialList": [
+      {
+        "SerialID": 1,
+        "SerialUses": 1,
+        "SerialCode": "sample string 1"
+      },
+      {
+        "SerialID": 1,
+        "SerialUses": 1,
+        "SerialCode": "sample string 1"
+      }
+    ],
+    "EProductList": [
+      {
+        "FileNumber": 1,
+        "FilePath": "sample string 1"
+      },
+      {
+        "FileNumber": 1,
+        "FilePath": "sample string 1"
+      }
+    ]
+  },
+  {
+    "SKUInfo": {
+      "CatalogID": 1,
+      "SKU": "sample string 1",
+      "Name": "sample string 2",
+      "Cost": 1.1,
+      "Price": 1.1,
+      "Currency": "sample string 3",
+      "RetailPrice": 1.1,
+      "SalePrice": 1.1,
+      "OnSale": true,
+      "Stock": 1.1
+    },
+    "MFGID": "sample string 1",
+    "ShortDescription": "sample string 2",
+    "ManufacturerID": 1,
+    "ManufacturerName": "sample string 3",
+    "DistributorList": [
+      {
+        "DistributorID": 1,
+        "DistributorName": "sample string 1",
+        "DistributorItemCost": 1.1,
+        "DistributorItemID": "sample string 2",
+        "DistributorStockID": "sample string 3"
+      },
+      {
+        "DistributorID": 1,
+        "DistributorName": "sample string 1",
+        "DistributorItemCost": 1.1,
+        "DistributorItemID": "sample string 2",
+        "DistributorStockID": "sample string 3"
+      }
+    ],
+    "LastUpdate": "02/19/2019 00:18",
+    "UserID": "sample string 4",
+    "GTIN": "sample string 5",
+    "CategoryList": [
+      {
+        "CategoryID": 1,
+        "CategoryName": "sample string 1"
+      },
+      {
+        "CategoryID": 1,
+        "CategoryName": "sample string 1"
+      }
+    ],
+    "ExternalIdsList": [
+      {
+        "ID": 1,
+        "AdvancedOptionSufix": "sample string 1",
+        "ExternalId1": "sample string 2",
+        "ExternalId2": "sample string 3",
+        "ExternalIdType": "sample string 4"
+      },
+      {
+        "ID": 1,
+        "AdvancedOptionSufix": "sample string 1",
+        "ExternalId1": "sample string 2",
+        "ExternalId2": "sample string 3",
+        "ExternalIdType": "sample string 4"
+      }
+    ],
+    "CategoryExternalIdsList": [
+      {
+        "ID": 1,
+        "CategoryID": 1,
+        "ExternalId1": "sample string 1",
+        "ExternalIdType": "sample string 2"
+      },
+      {
+        "ID": 1,
+        "CategoryID": 1,
+        "ExternalId1": "sample string 1",
+        "ExternalIdType": "sample string 2"
+      }
+    ],
+    "NonTaxable": true,
+    "NotForSale": true,
+    "Hide": true,
+    "GiftCertificate": true,
+    "HomeSpecial": true,
+    "CategorySpecial": true,
+    "NonSearchable": true,
+    "GiftWrapItem": true,
+    "ShipCost": 1.1,
+    "Weight": 1.1,
+    "Height": 1.1,
+    "Width": 1.1,
+    "Depth": 1.1,
+    "SelfShip": true,
+    "FreeShipping": true,
+    "RewardPoints": 1,
+    "RedeemPoints": 1,
+    "DisableRewards": true,
+    "StockAlert": 1,
+    "ReorderQuantity": 1,
+    "InStockMessage": "sample string 6",
+    "OutOfStockMessage": "sample string 7",
+    "BackOrderMessage": "sample string 8",
+    "InventoryControl": 1,
+    "WarehouseLocation": "sample string 9",
+    "WarehouseBin": "sample string 10",
+    "WarehouseAisle": "sample string 11",
+    "WarehouseCustom": "sample string 12",
+    "Description": "sample string 13",
+    "Keywords": "sample string 14",
+    "ExtraField1": "sample string 15",
+    "ExtraField2": "sample string 16",
+    "ExtraField3": "sample string 17",
+    "ExtraField4": "sample string 18",
+    "ExtraField5": "sample string 19",
+    "ExtraField6": "sample string 20",
+    "ExtraField7": "sample string 21",
+    "ExtraField8": "sample string 22",
+    "ExtraField9": "sample string 23",
+    "ExtraField10": "sample string 24",
+    "ExtraField11": "sample string 25",
+    "ExtraField12": "sample string 26",
+    "ExtraField13": "sample string 27",
+    "FeatureList": [
+      {
+        "FeatureID": 1,
+        "FeatureTitle": "sample string 1",
+        "FeatureDescription": "sample string 2"
+      },
+      {
+        "FeatureID": 1,
+        "FeatureTitle": "sample string 1",
+        "FeatureDescription": "sample string 2"
+      }
+    ],
+    "PluginList": {
+      "sample string 1": "sample string 2",
+      "sample string 3": "sample string 4"
+    },
+    "SampleEnable": true,
+    "SampleName": "sample string 28",
+    "SampleSKUPrefix": "sample string 29",
+    "SamplePrice": 1.1,
+    "SampleWeight": 1.1,
+    "ReviewAverage": 1.1,
+    "ReviewCount": 1,
+    "MainImageFile": "sample string 30",
+    "MainImageCaption": "sample string 31",
+    "ThumbnailFile": "sample string 32",
+    "MediaFile": "sample string 33",
+    "AdditionalImageFile2": "sample string 34",
+    "AdditionalImageCaption2": "sample string 35",
+    "AdditionalImageFile3": "sample string 36",
+    "AdditionalImageCaption3": "sample string 37",
+    "AdditionalImageFile4": "sample string 38",
+    "AdditionalImageCaption4": "sample string 39",
+    "ImageGalleryList": [
+      {
+        "ImageGalleryID": 1,
+        "ImageGalleryFile": "sample string 1",
+        "ImageGalleryCaption": "sample string 2",
+        "ImageGallerySorting": 1
+      },
+      {
+        "ImageGalleryID": 1,
+        "ImageGalleryFile": "sample string 1",
+        "ImageGalleryCaption": "sample string 2",
+        "ImageGallerySorting": 1
+      }
+    ],
+    "OptionSetList": [
+      {
+        "OptionSetID": 1,
+        "OptionSetName": "sample string 1",
+        "OptionSorting": 1.1,
+        "OptionRequired": true,
+        "OptionType": "sample string 2",
+        "OptionURL": "sample string 3",
+        "OptionAdditionalInformation": "sample string 4",
+        "OptionSizeLimit": 1,
+        "OptionList": [
+          {
+            "OptionID": 1,
+            "OptionName": "sample string 1",
+            "OptionSelected": true,
+            "OptionHide": true,
+            "OptionValue": 1.1,
+            "OptionPartNumber": "sample string 2",
+            "OptionSorting": 1.1,
+            "OptionImagePath": "sample string 3",
+            "OptionBundleCatalogId": 1,
+            "OptionBundleQuantity": 1
+          },
+          {
+            "OptionID": 1,
+            "OptionName": "sample string 1",
+            "OptionSelected": true,
+            "OptionHide": true,
+            "OptionValue": 1.1,
+            "OptionPartNumber": "sample string 2",
+            "OptionSorting": 1.1,
+            "OptionImagePath": "sample string 3",
+            "OptionBundleCatalogId": 1,
+            "OptionBundleQuantity": 1
+          }
+        ]
+      },
+      {
+        "OptionSetID": 1,
+        "OptionSetName": "sample string 1",
+        "OptionSorting": 1.1,
+        "OptionRequired": true,
+        "OptionType": "sample string 2",
+        "OptionURL": "sample string 3",
+        "OptionAdditionalInformation": "sample string 4",
+        "OptionSizeLimit": 1,
+        "OptionList": [
+          {
+            "OptionID": 1,
+            "OptionName": "sample string 1",
+            "OptionSelected": true,
+            "OptionHide": true,
+            "OptionValue": 1.1,
+            "OptionPartNumber": "sample string 2",
+            "OptionSorting": 1.1,
+            "OptionImagePath": "sample string 3",
+            "OptionBundleCatalogId": 1,
+            "OptionBundleQuantity": 1
+          },
+          {
+            "OptionID": 1,
+            "OptionName": "sample string 1",
+            "OptionSelected": true,
+            "OptionHide": true,
+            "OptionValue": 1.1,
+            "OptionPartNumber": "sample string 2",
+            "OptionSorting": 1.1,
+            "OptionImagePath": "sample string 3",
+            "OptionBundleCatalogId": 1,
+            "OptionBundleQuantity": 1
+          }
+        ]
+      }
+    ],
+    "AdvancedOptionList": [
+      {
+        "AdvancedOptionCode": "sample string 1",
+        "AdvancedOptionSufix": "sample string 2",
+        "AdvancedOptionName": "sample string 3",
+        "AdvancedOptionCost": 1.1,
+        "AdvancedOptionStock": 1,
+        "AdvancedOptionWeight": 1.1,
+        "AdvancedOptionPrice": 1.1,
+        "AdvancedOptionGTIN": "sample string 4"
+      },
+      {
+        "AdvancedOptionCode": "sample string 1",
+        "AdvancedOptionSufix": "sample string 2",
+        "AdvancedOptionName": "sample string 3",
+        "AdvancedOptionCost": 1.1,
+        "AdvancedOptionStock": 1,
+        "AdvancedOptionWeight": 1.1,
+        "AdvancedOptionPrice": 1.1,
+        "AdvancedOptionGTIN": "sample string 4"
+      }
+    ],
+    "RelatedProductList": [
+      {
+        "RelatedIndexID": 1,
+        "RelatedProductID": 1,
+        "RelatedProductSorting": 1
+      },
+      {
+        "RelatedIndexID": 1,
+        "RelatedProductID": 1,
+        "RelatedProductSorting": 1
+      }
+    ],
+    "UpSellingItemList": [
+      {
+        "UpSellingIndexID": 1,
+        "UpSellingItemID": 1,
+        "UpSellingItemSorting": 1
+      },
+      {
+        "UpSellingIndexID": 1,
+        "UpSellingItemID": 1,
+        "UpSellingItemSorting": 1
+      }
+    ],
+    "DiscountList": [
+      {
+        "DiscountID": 1,
+        "DiscountPriceLevel": 1,
+        "DiscountLowbound": 1,
+        "DiscountUpbound": 1,
+        "DiscountPrice": 1.1,
+        "DiscountPercentage": true
+      },
+      {
+        "DiscountID": 1,
+        "DiscountPriceLevel": 1,
+        "DiscountLowbound": 1,
+        "DiscountUpbound": 1,
+        "DiscountPrice": 1.1,
+        "DiscountPercentage": true
+      }
+    ],
+    "DoNotUseCategoryOptions": true,
+    "DateCreated": "02/19/2019 00:18",
+    "ListingTemplateID": 1,
+    "ListingTemplateName": "sample string 40",
+    "LoginRequiredOptionID": 1,
+    "LoginRequiredOptionName": "sample string 41",
+    "LoginRequiredOptionRedirectTo": "sample string 42",
+    "AllowAccessCustomerGroupID": 1,
+    "AllowAccessCustomerGroupName": "sample string 43",
+    "RMAMaxPeriod": "sample string 44",
+    "CanonicalUrl": "sample string 45",
+    "TaxCode": "sample string 46",
+    "DisplayText": "sample string 47",
+    "MinimumQuantity": 1.1,
+    "MaximumQuantity": 1.1,
+    "AllowOnlyMultiples": true,
+    "AllowFractionalQuantity": true,
+    "QuantityOptions": "sample string 48",
+    "GroupOptionsForQuantityPricing": true,
+    "ApplyQuantityDiscountToOptions": true,
+    "EnableMakeAnOfferFeature": true,
+    "MinimumAcceptableOffer": "sample string 49",
+    "PriceLevel1": 1.1,
+    "PriceLevel1Hide": true,
+    "PriceLevel2": 1.1,
+    "PriceLevel2Hide": true,
+    "PriceLevel3": 1.1,
+    "PriceLevel3Hide": true,
+    "PriceLevel4": 1.1,
+    "PriceLevel4Hide": true,
+    "PriceLevel5": 1.1,
+    "PriceLevel5Hide": true,
+    "PriceLevel6": 1.1,
+    "PriceLevel6Hide": true,
+    "PriceLevel7": 1.1,
+    "PriceLevel7Hide": true,
+    "PriceLevel8": 1.1,
+    "PriceLevel8Hide": true,
+    "PriceLevel9": 1.1,
+    "PriceLevel9Hide": true,
+    "PriceLevel10": 1.1,
+    "PriceLevel10Hide": true,
+    "BuyButtonLink": "sample string 50",
+    "ProductLink": "sample string 51",
+    "Title": "sample string 52",
+    "CustomFileName": "sample string 53",
+    "RedirectLink": "sample string 54",
+    "MetaTags": "sample string 55",
+    "SpecialInstructions": "sample string 56",
+    "AssignKey": true,
+    "ReUseKeys": true,
+    "SerialList": [
+      {
+        "SerialID": 1,
+        "SerialUses": 1,
+        "SerialCode": "sample string 1"
+      },
+      {
+        "SerialID": 1,
+        "SerialUses": 1,
+        "SerialCode": "sample string 1"
+      }
+    ],
+    "EProductList": [
+      {
+        "FileNumber": 1,
+        "FilePath": "sample string 1"
+      },
+      {
+        "FileNumber": 1,
+        "FilePath": "sample string 1"
+      }
+    ]
+  }
+]
