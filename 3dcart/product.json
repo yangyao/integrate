@@ -17,7 +17,7 @@
         "ManufacturerID": 0,
         "ManufacturerName": "",
         "DistributorList": [],
-        "LastUpdate": "2020-01-14T05:00:15",
+        "LastUpdate": "2020-01-14T05:03:35",
         "UserID": null,
         "GTIN": "",
         "CategoryList": [
@@ -84,7 +84,7 @@
         "MainImageCaption": "",
         "ThumbnailFile": "assets/images/thumbnails/logo_thumbnail.png",
         "MediaFile": "",
-        "AdditionalImageFile2": "",
+        "AdditionalImageFile2": "assets/images/freeship.png",
         "AdditionalImageCaption2": "",
         "AdditionalImageFile3": "",
         "AdditionalImageCaption3": "",
