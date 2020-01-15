@@ -1,0 +1,37 @@
+{
+    "shipments": [
+        {
+            "shipment_id": "2",
+            "shipment_timestamp": "1426679110",
+            "comments": "",
+            "status": "P",
+            "order_id": "3993",
+            "order_timestamp": "1426547090",
+            "s_firstname": "Gavin",
+            "s_lastname": "White",
+            "company": "",
+            "user_id": "0",
+            "shipping_id": "1",
+            "shipping": null,
+            "tracking_number": "WY0003959884",
+            "carrier": "",
+            "products": {
+                "1722541790": "1",
+                "1986614753": "1",
+                "4016047195": "1"
+            },
+            "group_key": 0,
+            "one_full": true
+        }
+    ],
+    "params": {
+        "page": 1,
+        "items_per_page": 10,
+        "order_id": "3993",
+        "advanced_info": true,
+        "sort_order": "desc",
+        "sort_by": "id",
+        "sort_order_rev": "asc",
+        "total_items": "1"
+    }
+}
