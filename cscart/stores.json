@@ -1,0 +1,75 @@
+{
+    "stores": [
+        {
+            "company_id": "7896",
+            "lang_code": "en",
+            "email": "",
+            "company": "\" Au Morgan de vous \"",
+            "timestamp": "1578935298",
+            "status": "A",
+            "plan": null,
+            "seo_name": "au-morgan-de-vous",
+            "seo_path": "",
+            "average_rating": null,
+            "company_thread_ids": "7896_0",
+            "discussion": {
+                "posts_count": 0
+            }
+        },
+        {
+            "company_id": "8751",
+            "lang_code": "en",
+            "email": "",
+            "company": "\"BIO FRÜHSTÜCK\" Hotel Frankenhof",
+            "timestamp": "1578935298",
+            "status": "A",
+            "plan": null,
+            "seo_name": "bio-fruhstuck-hotel-frankenhof",
+            "seo_path": "",
+            "average_rating": null,
+            "company_thread_ids": "8751_0",
+            "discussion": {
+                "posts_count": 0
+            }
+        },
+        {
+            "company_id": "4745",
+            "lang_code": "en",
+            "email": "",
+            "company": "\"DE BANK\" - Hotel Apartments",
+            "timestamp": "1578935298",
+            "status": "A",
+            "plan": null,
+            "seo_name": "de-bank-hotel-apartments",
+            "seo_path": "",
+            "average_rating": null,
+            "company_thread_ids": "4745_0",
+            "discussion": {
+                "posts_count": 0
+            }
+        },
+        {
+            "company_id": "6287",
+            "lang_code": "en",
+            "email": "",
+            "company": "103 Stintino - Boutique Hotel",
+            "timestamp": "1578935298",
+            "status": "A",
+            "plan": null,
+            "seo_name": "103-stintino-boutique-hotel",
+            "seo_path": "",
+            "average_rating": null,
+            "company_thread_ids": "6287_0",
+            "discussion": {
+                "posts_count": 0
+            }
+        }
+    ],
+    "params": {
+        "ajax_custom": "1",
+        "sort_by": "timestamp",
+        "sort_order": "asc",
+        "page": "1",
+        "items_per_page": "4"
+    }
+}

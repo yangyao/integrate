@@ -1,0 +1,311 @@
+{
+    "order_id": "2",
+    "is_parent_order": "N",
+    "parent_order_id": "0",
+    "company_id": "8278",
+    "issuer_id": null,
+    "user_id": "1",
+    "total": "2380.00",
+    "subtotal": 2380,
+    "discount": 0,
+    "subtotal_discount": 0,
+    "payment_surcharge": 0,
+    "shipping_ids": "",
+    "shipping_cost": "0.00",
+    "timestamp": "1574249605",
+    "status": "O",
+    "notes": null,
+    "details": null,
+    "promotions": [],
+    "promotion_ids": "",
+    "firstname": "Admin",
+    "lastname": "Admin",
+    "company": "",
+    "b_firstname": "John",
+    "b_lastname": "Doe",
+    "b_address": "44 Main street",
+    "b_address_2": "",
+    "b_city": "Boston",
+    "b_county": "",
+    "b_state": "MA",
+    "b_country": "US",
+    "b_zipcode": "02134",
+    "b_phone": "",
+    "s_firstname": "",
+    "s_lastname": "",
+    "s_address": "44 Main street",
+    "s_address_2": "",
+    "s_city": "Boston",
+    "s_county": "",
+    "s_state": "MA",
+    "s_country": "US",
+    "s_zipcode": "02134",
+    "s_phone": "",
+    "s_address_type": "",
+    "phone": "+55-55-5555-5555",
+    "fax": "",
+    "url": "",
+    "email": "admin@example.com",
+    "payment_id": "2",
+    "tax_exempt": "N",
+    "lang_code": "en",
+    "ip_address": "95.104.194.197",
+    "repaid": "0",
+    "validation_code": "",
+    "localization_id": "0",
+    "profile_id": "6",
+    "payment_method": {
+        "payment_id": "2",
+        "company_id": "0",
+        "usergroup_ids": "0",
+        "position": "20",
+        "status": "A",
+        "template": "views/orders/components/payments/phone.tpl",
+        "processor_id": "0",
+        "a_surcharge": "0.000",
+        "p_surcharge": "0.000",
+        "tax_ids": [],
+        "localization": "",
+        "payment_category": "tab3",
+        "payment": "Phone ordering",
+        "description": "Call to 5555555",
+        "instructions": "<h2>When I should use phone ordering?</h2><p>Order by phone is useful when regular payment methods like credit card are unavailable or considered insecure.</p><p>Our operators are happy to take your order per phone every business day from 9 a.m. to 5 p.m. UTC.</p>",
+        "surcharge_title": "",
+        "lang_code": "en",
+        "processor": null,
+        "processor_type": null,
+        "processor_status": null,
+        "image": []
+    },
+    "fields": [],
+    "products": {
+        "1341979050": {
+            "item_id": "1341979050",
+            "order_id": "2",
+            "product_id": "33463",
+            "product_code": "98603847",
+            "price": "2380.00",
+            "amount": "1",
+            "extra": {
+                "booking_date": 1574294400,
+                "booking_days_count": 10,
+                "product_options": [],
+                "unlimited_download": "N",
+                "product": "Hotel Nassauer Hof (Superior Double Room)",
+                "company_id": "8278",
+                "is_edp": "N",
+                "edp_shipping": "N",
+                "discount": 0,
+                "base_price": 238,
+                "stored_price": "N"
+            },
+            "product": "Hotel Nassauer Hof (Superior Double Room)",
+            "product_status": "A",
+            "deleted_product": false,
+            "discount": 0,
+            "company_id": "8278",
+            "base_price": 238,
+            "original_price": 238,
+            "cart_id": "1341979050",
+            "tax_value": 0,
+            "subtotal": 2380,
+            "display_subtotal": 2380,
+            "shipped_amount": 0,
+            "shipment_amount": "1",
+            "is_accessible": true,
+            "ga_category_name": "Mitte",
+            "variation_feature_ids": {
+                "1": "1"
+            },
+            "variation_feature_collection": {
+                "1": {
+                    "feature_id": "1",
+                    "purpose": "group_variation_catalog_item"
+                }
+            },
+            "variation_group_id": 4871,
+            "variation_group_code": "2444150",
+            "variation_parent_product_id": 0,
+            "variation_sub_group_id": "4871_33463",
+            "variation_features": {
+                "1": {
+                    "feature_id": "1",
+                    "feature_style": "dropdown",
+                    "description": "Room Type",
+                    "position": "5",
+                    "purpose": "group_variation_catalog_item",
+                    "display_on_catalog": "N",
+                    "purpose_position": "1",
+                    "variant": "Superior Double Room",
+                    "variant_id": "53",
+                    "variant_position": "0"
+                }
+            }
+        }
+    },
+    "taxes": [],
+    "tax_subtotal": 0,
+    "display_shipping_cost": "0.00",
+    "profile_update_timestamp": "",
+    "is_root": "",
+    "birthday": "",
+    "purchase_timestamp_from": "",
+    "purchase_timestamp_to": "",
+    "responsible_email": "",
+    "last_passwords": "",
+    "password_change_timestamp": "",
+    "api_key": "",
+    "janrain_identifier": "",
+    "b_country_descr": "United States",
+    "s_country_descr": "United States",
+    "b_state_descr": "Massachusetts",
+    "s_state_descr": "Massachusetts",
+    "need_shipping": true,
+    "shipping": [],
+    "shipment_ids": [],
+    "need_shipment": true,
+    "secondary_currency": "USD",
+    "display_subtotal": 2380,
+    "payment_info": {
+        "customer_phone": "+55-55-5555-5555"
+    },
+    "product_groups": [
+        {
+            "name": "Hotel Nassauer Hof",
+            "company_id": 8278,
+            "products": {
+                "1341979050": {
+                    "product_id": 33463,
+                    "product_code": "98603847",
+                    "product": "Hotel Nassauer Hof (Superior Double Room)",
+                    "amount": 1,
+                    "product_options": [],
+                    "price": 2380,
+                    "stored_price": "N",
+                    "main_pair": {
+                        "pair_id": "203732",
+                        "image_id": "0",
+                        "detailed_id": "205702",
+                        "position": "0",
+                        "detailed": {
+                            "object_id": "33463",
+                            "object_type": "product",
+                            "type": "M",
+                            "image_path": "http://demo.multivendor.cs-cart.ru/Gleb/booking/images/detailed/205/221027266.jpg",
+                            "alt": "",
+                            "image_x": "1024",
+                            "image_y": "739",
+                            "http_image_path": "http://demo.multivendor.cs-cart.ru/Gleb/booking/images/detailed/205/221027266.jpg",
+                            "https_image_path": "https://demo.multivendor.cs-cart.ru/Gleb/booking/images/detailed/205/221027266.jpg",
+                            "absolute_path": "/var/www/www-root/data/www/demo.multivendor.cs-cart.ru/Gleb/booking/images/detailed/205/221027266.jpg",
+                            "relative_path": "detailed/205/221027266.jpg"
+                        }
+                    },
+                    "extra": {
+                        "booking_date": 1574294400,
+                        "booking_days_count": 10,
+                        "product_options": [],
+                        "unlimited_download": "N"
+                    },
+                    "stored_discount": "N",
+                    "company_id": "8278",
+                    "amount_total": 1,
+                    "options_type": "P",
+                    "exceptions_type": "F",
+                    "modifiers_price": 0,
+                    "is_edp": "N",
+                    "edp_shipping": "N",
+                    "discount": 0,
+                    "promotions": [],
+                    "base_price": 238,
+                    "category_ids": [
+                        13421
+                    ],
+                    "display_price": 2380,
+                    "main_category": 13421
+                }
+            },
+            "package_info": {
+                "C": 2380,
+                "W": "0.001",
+                "I": 1,
+                "shipping_freight": 0,
+                "packages": [
+                    {
+                        "products": {
+                            "1341979050": 1
+                        },
+                        "amount": 1,
+                        "weight": 0.1,
+                        "cost": 2380
+                    }
+                ],
+                "origination": {
+                    "name": "Hotel Nassauer Hof",
+                    "address": "",
+                    "city": "",
+                    "country": "",
+                    "state": "",
+                    "zipcode": "",
+                    "phone": ""
+                },
+                "location": {
+                    "firstname": "John",
+                    "lastname": "Doe",
+                    "address": "44 Main street",
+                    "address_2": "test",
+                    "city": "Boston",
+                    "state": "MA",
+                    "country": "US",
+                    "zipcode": "02134",
+                    "address_type": "residential"
+                }
+            },
+            "package_info_full": {
+                "C": 2380,
+                "W": "0.001",
+                "I": 1,
+                "shipping_freight": 0,
+                "packages": [
+                    {
+                        "products": {
+                            "1341979050": 1
+                        },
+                        "amount": 1,
+                        "weight": 0.1,
+                        "cost": 2380
+                    }
+                ],
+                "origination": {
+                    "name": "Hotel Nassauer Hof",
+                    "address": "",
+                    "city": "",
+                    "country": "",
+                    "state": "",
+                    "zipcode": "",
+                    "phone": ""
+                },
+                "location": {
+                    "firstname": "John",
+                    "lastname": "Doe",
+                    "address": "44 Main street",
+                    "address_2": "test",
+                    "city": "Boston",
+                    "state": "MA",
+                    "country": "US",
+                    "zipcode": "02134",
+                    "address_type": "residential"
+                }
+            },
+            "all_edp_free_shipping": false,
+            "all_free_shipping": false,
+            "free_shipping": true,
+            "shipping_no_required": true,
+            "shippings": []
+        }
+    ],
+    "doc_ids": [],
+    "points_info": {
+        "is_gain": "N"
+    }
+}
