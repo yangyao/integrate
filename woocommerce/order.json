@@ -1,0 +1,128 @@
+{
+  "id": 183,
+  "parent_id": 0,
+  "number": "183",
+  "order_key": "wc_order_fbSybURHYKEMd",
+  "created_via": "admin",
+  "version": "3.8.1",
+  "status": "processing",
+  "currency": "GBP",
+  "date_created": "2020-02-10T00:38:02",
+  "date_created_gmt": "2020-02-09T16:38:02",
+  "date_modified": "2020-02-10T00:40:52",
+  "date_modified_gmt": "2020-02-09T16:40:52",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "0.00",
+  "total_tax": "0.00",
+  "prices_include_tax": false,
+  "customer_id": 2,
+  "customer_ip_address": "",
+  "customer_user_agent": "",
+  "customer_note": "",
+  "billing": {
+      "first_name": "Sohail",
+      "last_name": "Khan",
+      "company": "AfterShip",
+      "address_1": "BGR Building",
+      "address_2": "",
+      "city": "Noida",
+      "state": "DL",
+      "postcode": "201301",
+      "country": "IN",
+      "email": "sohail.khan@aftership.com",
+      "phone": "+123456789"
+  },
+  "shipping": {
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "state": "",
+      "postcode": "",
+      "country": ""
+  },
+  "payment_method": "",
+  "payment_method_title": "",
+  "transaction_id": "",
+  "date_paid": null,
+  "date_paid_gmt": null,
+  "date_completed": null,
+  "date_completed_gmt": null,
+  "cart_hash": "",
+  "meta_data": [
+      {
+          "id": 1944,
+          "key": "_aftership_tracking_provider",
+          "value": "dhl"
+      },
+      {
+          "id": 1945,
+          "key": "_aftership_tracking_provider_name",
+          "value": "DHL Express"
+      },
+      {
+          "id": 1946,
+          "key": "_aftership_tracking_required_fields",
+          "value": ""
+      },
+      {
+          "id": 1947,
+          "key": "_aftership_tracking_number",
+          "value": "3420868312"
+      },
+      {
+          "id": 1948,
+          "key": "_aftership_tracking_shipdate",
+          "value": ""
+      },
+      {
+          "id": 1949,
+          "key": "_aftership_tracking_postal",
+          "value": ""
+      },
+      {
+          "id": 1950,
+          "key": "_aftership_tracking_account",
+          "value": ""
+      },
+      {
+          "id": 1951,
+          "key": "_aftership_tracking_key",
+          "value": ""
+      },
+      {
+          "id": 1952,
+          "key": "_aftership_tracking_destination_country",
+          "value": ""
+      }
+  ],
+  "line_items": [],
+  "tax_lines": [],
+  "shipping_lines": [],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "_links": {
+      "self": [
+          {
+              "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/orders/183"
+          }
+      ],
+      "collection": [
+          {
+              "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/orders"
+          }
+      ],
+      "customer": [
+          {
+              "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/customers/2"
+          }
+      ]
+  }
+}

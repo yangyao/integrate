@@ -1,0 +1,211 @@
+[
+    {
+        "id": 124,
+        "date_created": "2019-12-25T15:30:08",
+        "date_created_gmt": "2019-12-25T07:30:08",
+        "date_modified": "2020-01-16T14:01:58",
+        "date_modified_gmt": "2020-01-16T06:01:58",
+        "description": "",
+        "permalink": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/product/yuki-product-t-shirt1/?attribute_size=s&attribute_volume=small",
+        "sku": "small-shirt",
+        "price": "100",
+        "regular_price": "100",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 398,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": null,
+        "attributes": [
+            {
+                "id": 0,
+                "name": "size",
+                "option": "s"
+            },
+            {
+                "id": 0,
+                "name": "volume",
+                "option": "small"
+            }
+        ],
+        "menu_order": 1,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/120/variations/124"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/120/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/120"
+                }
+            ]
+        }
+    },
+    {
+        "id": 125,
+        "date_created": "2019-12-25T15:30:33",
+        "date_created_gmt": "2019-12-25T07:30:33",
+        "date_modified": "2020-01-16T14:01:58",
+        "date_modified_gmt": "2020-01-16T06:01:58",
+        "description": "",
+        "permalink": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/product/yuki-product-t-shirt1/?attribute_volume=medium",
+        "sku": "medium-shirt",
+        "price": "1",
+        "regular_price": "1",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 284,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": null,
+        "attributes": [
+            {
+                "id": 0,
+                "name": "volume",
+                "option": "medium"
+            }
+        ],
+        "menu_order": 2,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/120/variations/125"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/120/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/120"
+                }
+            ]
+        }
+    },
+    {
+        "id": 127,
+        "date_created": "2019-12-25T15:30:40",
+        "date_created_gmt": "2019-12-25T07:30:40",
+        "date_modified": "2019-12-25T15:36:57",
+        "date_modified_gmt": "2019-12-25T07:36:57",
+        "description": "",
+        "permalink": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/product/yuki-product-t-shirt1/?attribute_volume=big",
+        "sku": "big-shirt",
+        "price": "1",
+        "regular_price": "1",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "status": "publish",
+        "purchasable": true,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": true,
+        "stock_quantity": 200,
+        "stock_status": "instock",
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "image": null,
+        "attributes": [
+            {
+                "id": 0,
+                "name": "volume",
+                "option": "big"
+            }
+        ],
+        "menu_order": 3,
+        "meta_data": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/120/variations/127"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/120/variations"
+                }
+            ],
+            "up": [
+                {
+                    "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/120"
+                }
+            ]
+        }
+    }
+]

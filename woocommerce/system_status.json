@@ -1,0 +1,384 @@
+{
+    "environment": {
+        "home_url": "http://wordpress-5.2-dev.aftershipdemo.com",
+        "site_url": "http://wordpress-5.2-dev.aftershipdemo.com",
+        "version": "3.8.1",
+        "log_directory": "/var/www/wordpress/wordpress_5_2/wp-content/uploads/wc-logs/",
+        "log_directory_writable": true,
+        "wp_version": "5.2",
+        "wp_multisite": false,
+        "wp_memory_limit": 134217728,
+        "wp_debug_mode": true,
+        "wp_cron": true,
+        "language": "en_US",
+        "external_object_cache": null,
+        "server_info": "Apache/2.4.29 (Ubuntu)",
+        "php_version": "7.2.24-0ubuntu0.18.04.2",
+        "php_post_max_size": 8388608,
+        "php_max_execution_time": 30,
+        "php_max_input_vars": 1000,
+        "curl_version": "7.58.0, OpenSSL/1.1.1",
+        "suhosin_installed": false,
+        "max_upload_size": 2097152,
+        "mysql_version": "5.7.29",
+        "mysql_version_string": "5.7.29-0ubuntu0.18.04.1",
+        "default_timezone": "UTC",
+        "fsockopen_or_curl_enabled": true,
+        "soapclient_enabled": true,
+        "domdocument_enabled": true,
+        "gzip_enabled": true,
+        "mbstring_enabled": true,
+        "remote_post_successful": true,
+        "remote_post_response": "200",
+        "remote_get_successful": true,
+        "remote_get_response": "200"
+    },
+    "database": {
+        "wc_database_version": "3.6.2",
+        "database_prefix": "wp_",
+        "maxmind_geoip_database": "/var/www/wordpress/wordpress_5_2/wp-content/uploads/GeoLite2-Country.mmdb",
+        "database_tables": {
+            "woocommerce": {
+                "wp_woocommerce_sessions": {
+                    "data": "4.02",
+                    "index": "0.14",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_api_keys": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_attribute_taxonomies": {
+                    "data": "0.02",
+                    "index": "0.02",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_downloadable_product_permissions": {
+                    "data": "0.02",
+                    "index": "0.06",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_order_items": {
+                    "data": "0.02",
+                    "index": "0.02",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_order_itemmeta": {
+                    "data": "0.06",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_tax_rates": {
+                    "data": "0.02",
+                    "index": "0.06",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_tax_rate_locations": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_shipping_zones": {
+                    "data": "0.02",
+                    "index": "0.00",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_shipping_zone_locations": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_shipping_zone_methods": {
+                    "data": "0.02",
+                    "index": "0.00",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_payment_tokens": {
+                    "data": "0.02",
+                    "index": "0.02",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_payment_tokenmeta": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_woocommerce_log": {
+                    "data": "0.02",
+                    "index": "0.02",
+                    "engine": "InnoDB"
+                }
+            },
+            "other": {
+                "wp_commentmeta": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_comments": {
+                    "data": "0.05",
+                    "index": "0.09",
+                    "engine": "InnoDB"
+                },
+                "wp_links": {
+                    "data": "0.02",
+                    "index": "0.02",
+                    "engine": "InnoDB"
+                },
+                "wp_options": {
+                    "data": "1.05",
+                    "index": "0.05",
+                    "engine": "InnoDB"
+                },
+                "wp_postmeta": {
+                    "data": "0.17",
+                    "index": "0.17",
+                    "engine": "InnoDB"
+                },
+                "wp_posts": {
+                    "data": "0.06",
+                    "index": "0.06",
+                    "engine": "InnoDB"
+                },
+                "wp_pum_subscribers": {
+                    "data": "0.02",
+                    "index": "0.06",
+                    "engine": "InnoDB"
+                },
+                "wp_termmeta": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_terms": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_term_relationships": {
+                    "data": "0.02",
+                    "index": "0.02",
+                    "engine": "InnoDB"
+                },
+                "wp_term_taxonomy": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_usermeta": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_users": {
+                    "data": "0.02",
+                    "index": "0.05",
+                    "engine": "InnoDB"
+                },
+                "wp_wc_download_log": {
+                    "data": "0.02",
+                    "index": "0.03",
+                    "engine": "InnoDB"
+                },
+                "wp_wc_product_meta_lookup": {
+                    "data": "0.02",
+                    "index": "0.09",
+                    "engine": "InnoDB"
+                },
+                "wp_wc_tax_rate_classes": {
+                    "data": "0.02",
+                    "index": "0.02",
+                    "engine": "InnoDB"
+                },
+                "wp_wc_webhooks": {
+                    "data": "0.02",
+                    "index": "0.02",
+                    "engine": "InnoDB"
+                }
+            }
+        },
+        "database_size": {
+            "data": 5.909999999999998,
+            "index": 1.3200000000000003
+        }
+    },
+    "active_plugins": [
+        {
+            "plugin": "aftership-woocommerce-tracking/aftership.php",
+            "name": "AfterShip - WooCommerce Tracking",
+            "version": "1.9.15",
+            "version_latest": "1.9.15",
+            "url": "http://aftership.com/",
+            "author_name": "AfterShip",
+            "author_url": "http://aftership.com",
+            "network_activated": false
+        },
+        {
+            "plugin": "popup-maker/popup-maker.php",
+            "name": "Popup Maker",
+            "version": "1.8.14",
+            "version_latest": "1.8.14",
+            "url": "https://wppopupmaker.com/?utm_campaign=PluginInfo&#038;utm_source=plugin-header&#038;utm_medium=plugin-uri",
+            "author_name": "Popup Maker",
+            "author_url": "https://wppopupmaker.com/?utm_campaign=PluginInfo&#038;utm_source=plugin-header&#038;utm_medium=author-uri",
+            "network_activated": false
+        },
+        {
+            "plugin": "postmen-woo-shipping/postmen-woocommerce-plugin.php",
+            "name": "Postmen Woocommerce Shipping",
+            "version": "1.1.9",
+            "version_latest": "1.1.9",
+            "url": "http://wordpress.org/extend/plugins/postmen-woocommerce-shipping/",
+            "author_name": "<a href=\"https://www.postmen.com/\">Postmen</a>",
+            "author_url": "",
+            "network_activated": false
+        },
+        {
+            "plugin": "woocommerce-shipment-tracking/woocommerce-shipment-tracking.php",
+            "name": "WooCommerce Shipment Tracking",
+            "version": "1.6.14",
+            "version_latest": "1.6.18",
+            "url": "https://woocommerce.com/products/shipment-tracking/",
+            "author_name": "WooCommerce",
+            "author_url": "https://woocommerce.com",
+            "network_activated": false
+        },
+        {
+            "plugin": "woocommerce/woocommerce.php",
+            "name": "WooCommerce",
+            "version": "3.8.1",
+            "version_latest": "3.9.1",
+            "url": "https://woocommerce.com/",
+            "author_name": "Automattic",
+            "author_url": "https://woocommerce.com",
+            "network_activated": false
+        }
+    ],
+    "inactive_plugins": [
+        {
+            "plugin": "akismet/akismet.php",
+            "name": "Akismet Anti-Spam",
+            "version": "4.1.3",
+            "version_latest": "4.1.3",
+            "url": "https://akismet.com/",
+            "author_name": "Automattic",
+            "author_url": "https://automattic.com/wordpress-plugins/",
+            "network_activated": false
+        },
+        {
+            "plugin": "hello.php",
+            "name": "Hello Dolly",
+            "version": "1.7.2",
+            "version_latest": "1.7.2",
+            "url": "http://wordpress.org/plugins/hello-dolly/",
+            "author_name": "Matt Mullenweg",
+            "author_url": "http://ma.tt/",
+            "network_activated": false
+        }
+    ],
+    "dropins_mu_plugins": {
+        "dropins": [],
+        "mu_plugins": []
+    },
+    "theme": {
+        "name": "Twenty Nineteen",
+        "version": "1.4",
+        "version_latest": "1.4",
+        "author_url": "https://wordpress.org/",
+        "is_child_theme": false,
+        "has_woocommerce_support": true,
+        "has_woocommerce_file": false,
+        "has_outdated_templates": false,
+        "overrides": [],
+        "parent_name": "",
+        "parent_version": "",
+        "parent_version_latest": "",
+        "parent_author_url": ""
+    },
+    "settings": {
+        "api_enabled": true,
+        "force_ssl": false,
+        "currency": "GBP",
+        "currency_symbol": "&pound;",
+        "currency_position": "left",
+        "thousand_separator": ",",
+        "decimal_separator": ".",
+        "number_of_decimals": 2,
+        "geolocation_enabled": true,
+        "taxonomies": {
+            "external": "external",
+            "grouped": "grouped",
+            "simple": "simple",
+            "variable": "variable"
+        },
+        "product_visibility_terms": {
+            "exclude-from-catalog": "exclude-from-catalog",
+            "exclude-from-search": "exclude-from-search",
+            "featured": "featured",
+            "outofstock": "outofstock",
+            "rated-1": "rated-1",
+            "rated-2": "rated-2",
+            "rated-3": "rated-3",
+            "rated-4": "rated-4",
+            "rated-5": "rated-5"
+        },
+        "woocommerce_com_connected": "yes"
+    },
+    "security": {
+        "secure_connection": false,
+        "hide_errors": false
+    },
+    "pages": [
+        {
+            "page_name": "Shop base",
+            "page_id": "7",
+            "page_set": true,
+            "page_exists": true,
+            "page_visible": true,
+            "shortcode": "",
+            "shortcode_required": false,
+            "shortcode_present": false
+        },
+        {
+            "page_name": "Cart",
+            "page_id": "8",
+            "page_set": true,
+            "page_exists": true,
+            "page_visible": true,
+            "shortcode": "[woocommerce_cart]",
+            "shortcode_required": true,
+            "shortcode_present": true
+        },
+        {
+            "page_name": "Checkout",
+            "page_id": "9",
+            "page_set": true,
+            "page_exists": true,
+            "page_visible": true,
+            "shortcode": "[woocommerce_checkout]",
+            "shortcode_required": true,
+            "shortcode_present": true
+        },
+        {
+            "page_name": "My account",
+            "page_id": "10",
+            "page_set": true,
+            "page_exists": true,
+            "page_visible": true,
+            "shortcode": "[woocommerce_my_account]",
+            "shortcode_required": true,
+            "shortcode_present": true
+        },
+        {
+            "page_name": "Terms and conditions",
+            "page_id": "",
+            "page_set": false,
+            "page_exists": false,
+            "page_visible": false,
+            "shortcode": "",
+            "shortcode_required": false,
+            "shortcode_present": false
+        }
+    ]
+}

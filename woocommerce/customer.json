@@ -1,0 +1,57 @@
+{
+  "id": 2,
+  "date_created": "2020-02-10T00:37:32",
+  "date_created_gmt": "2020-02-09T16:37:32",
+  "date_modified": null,
+  "date_modified_gmt": null,
+  "email": "sohail.khan@aftership.com",
+  "first_name": "Sohail",
+  "last_name": "Khan",
+  "role": "customer",
+  "username": "Sohail",
+  "billing": {
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "postcode": "",
+      "country": "",
+      "state": "",
+      "email": "",
+      "phone": ""
+  },
+  "shipping": {
+      "first_name": "",
+      "last_name": "",
+      "company": "",
+      "address_1": "",
+      "address_2": "",
+      "city": "",
+      "postcode": "",
+      "country": "",
+      "state": ""
+  },
+  "is_paying_customer": false,
+  "avatar_url": "http://0.gravatar.com/avatar/0faaacf4148a3c00d5a26c347a09b9a6?s=96&d=mm&r=g",
+  "meta_data": [
+      {
+          "id": 178,
+          "key": "wc_last_active",
+          "value": "1581206400"
+      }
+  ],
+  "_links": {
+      "self": [
+          {
+              "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/customers/2"
+          }
+      ],
+      "collection": [
+          {
+              "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/customers"
+          }
+      ]
+  }
+}

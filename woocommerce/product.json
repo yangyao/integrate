@@ -1,0 +1,144 @@
+{
+  "id": 14,
+  "name": "test product",
+  "slug": "test-product",
+  "permalink": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/product/test-product/",
+  "date_created": "2019-05-20T16:37:28",
+  "date_created_gmt": "2019-05-20T08:37:28",
+  "date_modified": "2020-01-19T10:57:41",
+  "date_modified_gmt": "2020-01-19T02:57:41",
+  "type": "simple",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">测试</span></span></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n",
+  "short_description": "<p><span style=\"vertical-align: inherit;\"><span style=\"vertical-align: inherit;\">睾丸</span></span></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n<p><audio style=\"display: none;\" controls=\"controls\"></audio></p>\n",
+  "sku": "123123123",
+  "price": "80",
+  "regular_price": "100",
+  "sale_price": "80",
+  "date_on_sale_from": null,
+  "date_on_sale_from_gmt": null,
+  "date_on_sale_to": null,
+  "date_on_sale_to_gmt": null,
+  "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&pound;</span>100.00</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&pound;</span>80.00</span></ins>",
+  "on_sale": true,
+  "purchasable": true,
+  "total_sales": 42,
+  "virtual": false,
+  "downloadable": false,
+  "downloads": [],
+  "download_limit": -1,
+  "download_expiry": -1,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": true,
+  "stock_quantity": 1174,
+  "stock_status": "instock",
+  "backorders": "no",
+  "backorders_allowed": false,
+  "backordered": false,
+  "sold_individually": false,
+  "weight": "123",
+  "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+  },
+  "shipping_required": true,
+  "shipping_taxable": true,
+  "shipping_class": "",
+  "shipping_class_id": 0,
+  "reviews_allowed": true,
+  "average_rating": "0.00",
+  "rating_count": 0,
+  "related_ids": [
+      102,
+      120
+  ],
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "categories": [
+      {
+          "id": 15,
+          "name": "Uncategorized",
+          "slug": "uncategorized"
+      },
+      {
+          "id": 20,
+          "name": "ccccaaadfd",
+          "slug": "ccccaaadfd"
+      },
+      {
+          "id": 19,
+          "name": "test category",
+          "slug": "test-category"
+      }
+  ],
+  "tags": [
+      {
+          "id": 21,
+          "name": "12332",
+          "slug": "12332"
+      },
+      {
+          "id": 17,
+          "name": "aaaaaa",
+          "slug": "aaaaaa"
+      },
+      {
+          "id": 18,
+          "name": "bbbb",
+          "slug": "bbbb"
+      },
+      {
+          "id": 16,
+          "name": "test",
+          "slug": "test"
+      }
+  ],
+  "images": [
+      {
+          "id": 68,
+          "date_created": "2019-10-29T15:19:59",
+          "date_created_gmt": "2019-10-29T07:19:59",
+          "date_modified": "2019-10-29T15:19:59",
+          "date_modified_gmt": "2019-10-29T07:19:59",
+          "src": "http://wordpress-5.2-dev.aftershipdemo.com/wp-content/uploads/2019/05/56a2e3a78357ccde678f88bebfffdd7b.jpg",
+          "name": "56a2e3a78357ccde678f88bebfffdd7b",
+          "alt": ""
+      },
+      {
+          "id": 65,
+          "date_created": "2019-10-29T14:14:50",
+          "date_created_gmt": "2019-10-29T06:14:50",
+          "date_modified": "2019-10-29T14:14:59",
+          "date_modified_gmt": "2019-10-29T06:14:59",
+          "src": "http://wordpress-5.2-dev.aftershipdemo.com/wp-content/uploads/2019/05/128.png",
+          "name": "128",
+          "alt": "aaa"
+      }
+  ],
+  "attributes": [],
+  "default_attributes": [],
+  "variations": [],
+  "grouped_products": [],
+  "menu_order": 0,
+  "meta_data": [],
+  "_links": {
+      "self": [
+          {
+              "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/14"
+          }
+      ],
+      "collection": [
+          {
+              "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products"
+          }
+      ]
+  }
+}
