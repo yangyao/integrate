@@ -1,0 +1,17 @@
+{
+    "code": "GBP",
+    "name": "Pound sterling",
+    "symbol": "&pound;",
+    "_links": {
+        "self": [
+            {
+                "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/data/currencies/GBP"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/data/currencies"
+            }
+        ]
+    }
+}
