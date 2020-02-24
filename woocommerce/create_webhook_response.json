@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "Order updated",
+        "status": "active",
+        "topic": "order.updated",
+        "resource": "order",
+        "event": "updated",
+        "hooks": [
+            "woocommerce_update_order",
+            "woocommerce_order_refunded"
+        ],
+        "delivery_url": "https://webhooks.automizely.dev/returnscenter/woocommerce/order/v1",
+        "date_created": "2020-02-24T06:30:04",
+        "date_created_gmt": "2020-02-24T06:30:04",
+        "date_modified": null,
+        "date_modified_gmt": null,
+        "_links": {
+            "self": [
+                {
+                    "href": "http://127.0.0.1:3001/index.php/wp-json/wc/v3/webhooks/1"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http://127.0.0.1:3001/index.php/wp-json/wc/v3/webhooks"
+                }
+            ]
+        }
+    }
+]
