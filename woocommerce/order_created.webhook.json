@@ -1,0 +1,188 @@
+{
+    "id": 682,
+    "parent_id": 0,
+    "number": "682",
+    "order_key": "wc_order_Io4li9pa0PyoE",
+    "created_via": "admin",
+    "version": "3.9.2",
+    "status": "pending",
+    "currency": "GBP",
+    "date_created": "2020-03-04T09:22:59",
+    "date_created_gmt": "2020-03-04T08:22:59",
+    "date_modified": "2020-03-04T09:24:35",
+    "date_modified_gmt": "2020-03-04T08:24:35",
+    "discount_total": "0.00",
+    "discount_tax": "0.00",
+    "shipping_total": "0.00",
+    "shipping_tax": "0.00",
+    "cart_tax": "0.00",
+    "total": "8.00",
+    "total_tax": "0.00",
+    "prices_include_tax": false,
+    "customer_id": 1,
+    "customer_ip_address": "",
+    "customer_user_agent": "",
+    "customer_note": "",
+    "billing": {
+      "first_name": "yute2",
+      "last_name": "ye2",
+      "company": "after",
+      "address_1": "address2",
+      "address_2": "1233",
+      "city": "District2",
+      "state": "",
+      "postcode": "12323",
+      "country": "AX",
+      "email": "yt.ye@aftership.com",
+      "phone": "+8618620842281"
+    },
+    "shipping": {
+      "first_name": "yute2",
+      "last_name": "ye2",
+      "company": "after",
+      "address_1": "address2",
+      "address_2": "1233",
+      "city": "District2",
+      "state": "",
+      "postcode": "12323",
+      "country": "AX"
+    },
+    "payment_method": "",
+    "payment_method_title": "",
+    "transaction_id": "",
+    "date_paid": null,
+    "date_paid_gmt": null,
+    "date_completed": null,
+    "date_completed_gmt": null,
+    "cart_hash": "",
+    "meta_data": [
+      {
+        "id": 4803,
+        "key": "_aftership_tracking_provider_name",
+        "value": ""
+      },
+      {
+        "id": 4804,
+        "key": "_aftership_tracking_required_fields",
+        "value": ""
+      },
+      {
+        "id": 4805,
+        "key": "_aftership_tracking_number",
+        "value": ""
+      },
+      {
+        "id": 4806,
+        "key": "_aftership_tracking_shipdate",
+        "value": ""
+      },
+      {
+        "id": 4807,
+        "key": "_aftership_tracking_postal",
+        "value": ""
+      },
+      {
+        "id": 4808,
+        "key": "_aftership_tracking_account",
+        "value": ""
+      },
+      {
+        "id": 4809,
+        "key": "_aftership_tracking_key",
+        "value": ""
+      },
+      {
+        "id": 4810,
+        "key": "_aftership_tracking_destination_country",
+        "value": ""
+      }
+    ],
+    "line_items": [
+      {
+        "id": 73,
+        "name": "test variant - XL, white",
+        "product_id": 198,
+        "variation_id": 209,
+        "quantity": 1,
+        "tax_class": "",
+        "subtotal": "0.00",
+        "subtotal_tax": "0.00",
+        "total": "0.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 624,
+            "key": "size",
+            "value": "XL"
+          },
+          {
+            "id": 625,
+            "key": "color",
+            "value": "white"
+          },
+          {
+            "id": 626,
+            "key": "_reduced_stock",
+            "value": "1"
+          }
+        ],
+        "sku": "",
+        "price": 0
+      },
+      {
+        "id": 74,
+        "name": "test variant - S, red",
+        "product_id": 198,
+        "variation_id": 199,
+        "quantity": 1,
+        "tax_class": "zero-rate",
+        "subtotal": "8.00",
+        "subtotal_tax": "0.00",
+        "total": "8.00",
+        "total_tax": "0.00",
+        "taxes": [],
+        "meta_data": [
+          {
+            "id": 636,
+            "key": "size",
+            "value": "S"
+          },
+          {
+            "id": 637,
+            "key": "color",
+            "value": "red"
+          },
+          {
+            "id": 638,
+            "key": "_reduced_stock",
+            "value": "1"
+          }
+        ],
+        "sku": "",
+        "price": 8
+      }
+    ],
+    "tax_lines": [],
+    "shipping_lines": [],
+    "fee_lines": [],
+    "coupon_lines": [],
+    "refunds": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/orders/682"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/orders"
+        }
+      ],
+      "customer": [
+        {
+          "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/customers/1"
+        }
+      ]
+    }
+  }

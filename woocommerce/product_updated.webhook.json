@@ -1,0 +1,99 @@
+{
+    "id": 199,
+    "name": "test variant - S, red",
+    "slug": "auto-draft-red-s",
+    "permalink": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/product/test-variant/?attribute_size=S&attribute_color=red",
+    "date_created": "2020-02-12T07:05:27",
+    "date_created_gmt": "2020-02-12T06:05:27",
+    "date_modified": "2020-03-04T09:23:39",
+    "date_modified_gmt": "2020-03-04T08:23:39",
+    "type": "variation",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>345675678</p>\n",
+    "short_description": "",
+    "sku": "",
+    "price": "8",
+    "regular_price": "11",
+    "sale_price": "8",
+    "date_on_sale_from": null,
+    "date_on_sale_from_gmt": null,
+    "date_on_sale_to": null,
+    "date_on_sale_to_gmt": null,
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&pound;</span>11.00</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&pound;</span>8.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": "0",
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "zero-rate",
+    "manage_stock": true,
+    "stock_quantity": 186,
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": false,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 198,
+    "purchase_note": "",
+    "categories": [],
+    "tags": [],
+    "images": [],
+    "attributes": [
+      {
+        "id": 0,
+        "name": "size",
+        "option": "S"
+      },
+      {
+        "id": 0,
+        "name": "color",
+        "option": "red"
+      }
+    ],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 1,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/199"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products"
+        }
+      ],
+      "up": [
+        {
+          "href": "http://wordpress-5.2-dev.aftershipdemo.com/index.php/wp-json/wc/v3/products/198"
+        }
+      ]
+    }
+  }

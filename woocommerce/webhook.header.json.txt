@@ -1,0 +1,106 @@
+// order.created
+expect	100-continue
+content-length	2780
+connection	close
+x-wc-webhook-delivery-id	6518da2abc6ab38fb93ea9739370d9a2
+x-wc-webhook-id	48
+x-wc-webhook-signature	UZ6OJaHaLbezp7b1SWJk8uB5YUryrWRiCv32h1tWzFs=
+x-wc-webhook-event	created
+x-wc-webhook-resource	order
+x-wc-webhook-topic	order.created
+x-wc-webhook-source	http://wordpress-5.2-dev.aftershipdemo.com/
+content-type	application/json
+referer	https://webhook.site/80e22bd9-5e35-4f1f-98ab-77ff419a4823
+accept-encoding	deflate, gzip
+accept	*/*
+user-agent	WooCommerce/3.9.2 Hookshot (WordPress/5.2)
+host	webhook.site
+
+// order.updated
+expect	100-continue
+content-length	3319
+connection	close
+x-wc-webhook-delivery-id	5e2c7b019a64b109e7aa1de6560a5782
+x-wc-webhook-id	31
+x-wc-webhook-signature	BGEGGe296LZYv5v/M7yLg/gUscW8IHix/7AoHKPI7AI=
+x-wc-webhook-event	updated
+x-wc-webhook-resource	order
+x-wc-webhook-topic	order.updated
+x-wc-webhook-source	http://wordpress-5.2-dev.aftershipdemo.com/
+content-type	application/json
+referer	https://webhook.site/80e22bd9-5e35-4f1f-98ab-77ff419a4823
+accept-encoding	deflate, gzip
+accept	*/*
+user-agent	WooCommerce/3.9.2 Hookshot (WordPress/5.2)
+host	webhook.site
+
+// order.deleted
+content-length	10
+connection	close
+x-wc-webhook-delivery-id	819759128a53f84b9b646dc52a1085ae
+x-wc-webhook-id	50
+x-wc-webhook-signature	xevX8j5Ltaj666tbwWGnPOIfp7zvoStOEZIBY/LBKJ4=
+x-wc-webhook-event	deleted
+x-wc-webhook-resource	order
+x-wc-webhook-topic	order.deleted
+x-wc-webhook-source	http://wordpress-5.2-dev.aftershipdemo.com/
+content-type	application/json
+referer	https://webhook.site/80e22bd9-5e35-4f1f-98ab-77ff419a4823
+accept-encoding	deflate, gzip
+accept	*/*
+user-agent	WooCommerce/3.9.2 Hookshot (WordPress/5.2)
+host	webhook.site
+
+
+// product.created
+expect	100-continue
+content-length	1853
+connection	close
+x-wc-webhook-delivery-id	0b56d97b78a27882e7c2d058a8161b62
+x-wc-webhook-id	49
+x-wc-webhook-signature	H4Tbr7C1iNPiSA+o4ZnmeAbNLO8NBMJtr9nbq/r9ttY=
+x-wc-webhook-event	created
+x-wc-webhook-resource	product
+x-wc-webhook-topic	product.created
+x-wc-webhook-source	http://wordpress-5.2-dev.aftershipdemo.com/
+content-type	application/json
+referer	https://webhook.site/80e22bd9-5e35-4f1f-98ab-77ff419a4823
+accept-encoding	deflate, gzip
+accept	*/*
+user-agent	WooCommerce/3.9.2 Hookshot (WordPress/5.2)
+host	webhook.site
+
+// product.updated
+expect	100-continue
+content-length	2338
+connection	close
+x-wc-webhook-delivery-id	d432ca16bbc0000691e65853a470a8c9
+x-wc-webhook-id	32
+x-wc-webhook-signature	GlAuDq8tFo0UVF27JhowymjlAnudwHLgLdD2nbxkwZg=
+x-wc-webhook-event	updated
+x-wc-webhook-resource	product
+x-wc-webhook-topic	product.updated
+x-wc-webhook-source	http://wordpress-5.2-dev.aftershipdemo.com/
+content-type	application/json
+referer	https://webhook.site/80e22bd9-5e35-4f1f-98ab-77ff419a4823
+accept-encoding	deflate, gzip
+accept	*/*
+user-agent	WooCommerce/3.9.2 Hookshot (WordPress/5.2)
+host	webhook.site
+
+// product.deleted
+content-length	10
+connection	close
+x-wc-webhook-delivery-id	bf98d6a5390cdc63933f9bf9643388e5
+x-wc-webhook-id	51
+x-wc-webhook-signature	GCQ8xToUguouLv8YkRcCyr2pMnaano5bHio/EHZo19U=
+x-wc-webhook-event	deleted
+x-wc-webhook-resource	product
+x-wc-webhook-topic	product.deleted
+x-wc-webhook-source	http://wordpress-5.2-dev.aftershipdemo.com/
+content-type	application/json
+referer	https://webhook.site/80e22bd9-5e35-4f1f-98ab-77ff419a4823
+accept-encoding	deflate, gzip
+accept	*/*
+user-agent	WooCommerce/3.9.2 Hookshot (WordPress/5.2)
+host	webhook.site
