@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "id": "5d6c909b666cc100012a6c05",
+      "type": "PHYSICAL",
+      "productPageId": "5d678e26f2d5bd0001ebc7c6",
+      "name": "Toy Pikachu",
+      "description": "<p class=\"\" style=\"white-space:pre-wrap;\">Toy</p>",
+      "url": "https://tuatara-lily-kw77.squarespace.com/products/toy-pikachu",
+      "urlSlug": "products/toy-pikachu",
+      "images": [
+        {
+          "id": "5d6c90d2f0b285000101486c",
+          "url": "https://static1.squarespace.com/static/5d44425b6727690001dd9bb1/5d678e26f2d5bd0001ebc7c6/5d6c90d2f0b285000101486c/1567396074486/pikachu.jpeg",
+          "originalSize": {
+            "width": 692,
+            "height": 704
+          },
+          "availableFormats": [
+            "100w",
+            "300w",
+            "500w"
+          ]
+        },
+        {
+          "id": "5d6c90e7d410d10001075800",
+          "url": "https://static1.squarespace.com/static/5d44425b6727690001dd9bb1/5d678e26f2d5bd0001ebc7c6/5d6c90e7d410d10001075800/1577411090954/pikachu.jpeg",
+          "originalSize": {
+            "width": 692,
+            "height": 704
+          },
+          "availableFormats": [
+            "100w",
+            "300w",
+            "500w"
+          ]
+        }
+      ],
+      "tags": [
+        "cartoon",
+        "toy"
+      ],
+      "isVisible": true,
+      "variantAttributes": [],
+      "variants": [
+        {
+          "id": "e5312a8d-18cb-46e7-a8df-b2db094a06c9",
+          "sku": "SQ4414074",
+          "pricing": {
+            "basePrice": {
+              "currency": "HKD",
+              "value": "10.98"
+            },
+            "salePrice": {
+              "currency": "HKD",
+              "value": "10.98"
+            },
+            "onSale": false
+          },
+          "stock": {
+            "quantity": 990,
+            "unlimited": false
+          },
+          "attributes": {},
+          "shippingDimensions": {
+            "weight": {
+              "unit": "POUND",
+              "value": 0.3
+            },
+            "size": {
+              "unit": "INCH",
+              "length": 1.0,
+              "width": 1.0,
+              "height": 1.0
+            }
+          },
+          "image": null
+        }
+      ],
+      "seoOptions": {
+        "title": null,
+        "description": null
+      }
+    },
+    {
+      "id": "5d689ede45dcf3000154abf4",
+      "type": "PHYSICAL",
+      "productPageId": "5d678e26f2d5bd0001ebc7c6",
+      "name": "TODAY IS A GOOD DAY FRAMED POSTER",
+      "description": "",
+      "url": "https://tuatara-lily-kw77.squarespace.com/products/today-is-a-good-day-framed-poster",
+      "urlSlug": "products/today-is-a-good-day-framed-poster",
+      "images": [
+        {
+          "id": "5d689ee625ef4c0001025d49",
+          "url": "https://static1.squarespace.com/static/5d44425b6727690001dd9bb1/5d678e26f2d5bd0001ebc7c6/5d689ee625ef4c0001025d49/1567137511808/today-is-a-good-day-framed-poster.jpg",
+          "originalSize": {
+            "width": 800,
+            "height": 800
+          },
+          "availableFormats": [
+            "100w",
+            "300w",
+            "500w",
+            "750w"
+          ]
+        }
+      ],
+      "tags": [],
+      "isVisible": true,
+      "variantAttributes": [],
+      "variants": [
+        {
+          "id": "7e853d6b-68bc-41d2-880c-832227f87d13",
+          "sku": "SQ0499041",
+          "pricing": {
+            "basePrice": {
+              "currency": "HKD",
+              "value": "12.00"
+            },
+            "salePrice": {
+              "currency": "HKD",
+              "value": "10.00"
+            },
+            "onSale": true
+          },
+          "stock": {
+            "quantity": 992,
+            "unlimited": false
+          },
+          "attributes": {},
+          "shippingDimensions": {
+            "weight": {
+              "unit": "POUND",
+              "value": 29.0
+            },
+            "size": {
+              "unit": "INCH",
+              "length": 10.0,
+              "width": 2.0,
+              "height": 1.0
+            }
+          },
+          "image": {
+            "id": "5d689ee625ef4c0001025d49",
+            "url": "https://static1.squarespace.com/static/5d44425b6727690001dd9bb1/5d678e26f2d5bd0001ebc7c6/5d689ee625ef4c0001025d49/1567137511808/today-is-a-good-day-framed-poster.jpg",
+            "originalSize": {
+              "width": 800,
+              "height": 800
+            },
+            "availableFormats": [
+              "100w",
+              "300w",
+              "500w",
+              "750w"
+            ]
+          }
+        }
+      ],
+      "seoOptions": {
+        "title": null,
+        "description": null
+      }
+    }
+  ]
+}
