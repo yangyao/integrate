@@ -1,0 +1,59 @@
+{
+    "variants": [
+        {
+            "id": 117,
+            "name": "Denim Shirt",
+            "sku": "Shirts_denimshirt_28.99_blue_xs",
+            "price": "28.99",
+            "weight": "1.2",
+            "height": "1.0",
+            "width": "2.0",
+            "depth": "3.0",
+            "is_master": false,
+            "slug": "denim-shirt",
+            "description": "Dolores et non perferendis qui ut odit. Inventore quod natus ut non qui eius velit consequatur. Optio hic exercitationem adipisci minima iusto vel quia.",
+            "track_inventory": true,
+            "cost_price": "28.99",
+            "option_values": [
+                {
+                    "id": 12,
+                    "name": "blue",
+                    "presentation": "#0000FF",
+                    "option_type_name": "color",
+                    "option_type_id": 1,
+                    "option_type_presentation": "Color"
+                },
+                {
+                    "id": 23,
+                    "name": "xs",
+                    "presentation": "XS",
+                    "option_type_name": "size",
+                    "option_type_id": 3,
+                    "option_type_presentation": "Size"
+                }
+            ],
+            "images": [],
+            "display_price": "$28.99",
+            "options_text": "Color: blue, Size: XS",
+            "in_stock": true,
+            "is_backorderable": true,
+            "is_orderable": true,
+            "total_on_hand": 22,
+            "is_destroyed": false,
+            "stock_items": [
+                {
+                    "id": 117,
+                    "count_on_hand": 22,
+                    "stock_location_id": 1,
+                    "backorderable": true,
+                    "available": true,
+                    "stock_location_name": "default"
+                }
+            ]
+        }
+    ],
+    "count": 1,
+    "total_count": 1,
+    "current_page": 1,
+    "pages": 1
+}

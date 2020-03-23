@@ -1,0 +1,246 @@
+{
+    "id": 1,
+    "name": "Denim Shirt",
+    "description": "Dolores et non perferendis qui ut odit. Inventore quod natus ut non qui eius velit consequatur. Optio hic exercitationem adipisci minima iusto vel quia.",
+    "price": "28.99",
+    "display_price": "$28.99",
+    "available_on": "2020-03-19T00:00:00.000Z",
+    "slug": "denim-shirt",
+    "meta_description": "",
+    "meta_keywords": "",
+    "shipping_category_id": 1,
+    "taxon_ids": [
+        2,
+        5,
+        20
+    ],
+    "total_on_hand": 23,
+    "master": {
+        "id": 1,
+        "name": "Denim Shirt",
+        "sku": "Shirts_denimshirt_28.99",
+        "price": "28.99",
+        "weight": "0.0",
+        "height": null,
+        "width": null,
+        "depth": null,
+        "is_master": true,
+        "slug": "denim-shirt",
+        "description": "Dolores et non perferendis qui ut odit. Inventore quod natus ut non qui eius velit consequatur. Optio hic exercitationem adipisci minima iusto vel quia.",
+        "track_inventory": true,
+        "cost_price": "19.5",
+        "option_values": [],
+        "images": [],
+        "display_price": "$28.99",
+        "options_text": "",
+        "in_stock": true,
+        "is_backorderable": true,
+        "is_orderable": true,
+        "total_on_hand": 1,
+        "is_destroyed": false
+    },
+    "variants": [
+        {
+            "id": 117,
+            "name": "Denim Shirt",
+            "sku": "Shirts_denimshirt_28.99_blue_xs",
+            "price": "28.99",
+            "weight": "1.2",
+            "height": "1.0",
+            "width": "2.0",
+            "depth": "3.0",
+            "is_master": false,
+            "slug": "denim-shirt",
+            "description": "Dolores et non perferendis qui ut odit. Inventore quod natus ut non qui eius velit consequatur. Optio hic exercitationem adipisci minima iusto vel quia.",
+            "track_inventory": true,
+            "cost_price": "28.99",
+            "option_values": [
+                {
+                    "id": 12,
+                    "name": "blue",
+                    "presentation": "#0000FF",
+                    "option_type_name": "color",
+                    "option_type_id": 1,
+                    "option_type_presentation": "Color"
+                },
+                {
+                    "id": 23,
+                    "name": "xs",
+                    "presentation": "XS",
+                    "option_type_name": "size",
+                    "option_type_id": 3,
+                    "option_type_presentation": "Size"
+                }
+            ],
+            "images": [],
+            "display_price": "$28.99",
+            "options_text": "Color: blue, Size: XS",
+            "in_stock": true,
+            "is_backorderable": true,
+            "is_orderable": true,
+            "total_on_hand": 22,
+            "is_destroyed": false
+        }
+    ],
+    "option_types": [
+        {
+            "id": 1,
+            "name": "color",
+            "presentation": "Color",
+            "position": 1
+        },
+        {
+            "id": 3,
+            "name": "size",
+            "presentation": "Size",
+            "position": 3
+        }
+    ],
+    "product_properties": [
+        {
+            "id": 137,
+            "product_id": 1,
+            "property_id": 9,
+            "value": "Men",
+            "property_name": "type"
+        },
+        {
+            "id": 138,
+            "product_id": 1,
+            "property_id": 10,
+            "value": "Men",
+            "property_name": "collection"
+        },
+        {
+            "id": 139,
+            "product_id": 1,
+            "property_id": 1,
+            "value": "Resiliance",
+            "property_name": "manufacturer"
+        },
+        {
+            "id": 140,
+            "product_id": 1,
+            "property_id": 2,
+            "value": "Gamma",
+            "property_name": "brand"
+        },
+        {
+            "id": 141,
+            "product_id": 1,
+            "property_id": 6,
+            "value": "90% Cotton 10% Elastan",
+            "property_name": "material"
+        },
+        {
+            "id": 142,
+            "product_id": 1,
+            "property_id": 7,
+            "value": "Lose",
+            "property_name": "fit"
+        },
+        {
+            "id": 143,
+            "product_id": 1,
+            "property_id": 8,
+            "value": "Men's",
+            "property_name": "gender"
+        },
+        {
+            "id": 144,
+            "product_id": 1,
+            "property_id": 3,
+            "value": "Shirts_denimshirt_28.99",
+            "property_name": "model"
+        }
+    ],
+    "classifications": [
+        {
+            "taxon_id": 2,
+            "position": 1,
+            "taxon": {
+                "id": 2,
+                "name": "Men",
+                "pretty_name": "Categories -> Men",
+                "permalink": "men",
+                "parent_id": 1,
+                "taxonomy_id": 1,
+                "meta_title": null,
+                "meta_description": null,
+                "taxons": [
+                    {
+                        "id": 5,
+                        "name": "Shirts",
+                        "pretty_name": "Categories -> Men -> Shirts",
+                        "permalink": "men/shirts",
+                        "parent_id": 2,
+                        "taxonomy_id": 1,
+                        "meta_title": null,
+                        "meta_description": null
+                    },
+                    {
+                        "id": 6,
+                        "name": "T-shirts",
+                        "pretty_name": "Categories -> Men -> T-shirts",
+                        "permalink": "men/t-shirts",
+                        "parent_id": 2,
+                        "taxonomy_id": 1,
+                        "meta_title": null,
+                        "meta_description": null
+                    },
+                    {
+                        "id": 7,
+                        "name": "Sweaters",
+                        "pretty_name": "Categories -> Men -> Sweaters",
+                        "permalink": "men/sweaters",
+                        "parent_id": 2,
+                        "taxonomy_id": 1,
+                        "meta_title": null,
+                        "meta_description": null
+                    },
+                    {
+                        "id": 8,
+                        "name": "Jackets and Coats",
+                        "pretty_name": "Categories -> Men -> Jackets and Coats",
+                        "permalink": "men/jackets-and-coats",
+                        "parent_id": 2,
+                        "taxonomy_id": 1,
+                        "meta_title": null,
+                        "meta_description": null
+                    }
+                ]
+            }
+        },
+        {
+            "taxon_id": 5,
+            "position": 1,
+            "taxon": {
+                "id": 5,
+                "name": "Shirts",
+                "pretty_name": "Categories -> Men -> Shirts",
+                "permalink": "men/shirts",
+                "parent_id": 2,
+                "taxonomy_id": 1,
+                "meta_title": null,
+                "meta_description": null,
+                "taxons": []
+            }
+        },
+        {
+            "taxon_id": 20,
+            "position": 24,
+            "taxon": {
+                "id": 20,
+                "name": "Trending",
+                "pretty_name": "Categories -> Trending",
+                "permalink": "trending",
+                "parent_id": 1,
+                "taxonomy_id": 1,
+                "meta_title": null,
+                "meta_description": null,
+                "taxons": []
+            }
+        }
+    ],
+    "has_variants": true
+}

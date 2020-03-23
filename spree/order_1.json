@@ -1,0 +1,316 @@
+{
+    "id": 2,
+    "number": "R987654321",
+    "item_total": "28.99",
+    "total": "36.89",
+    "ship_total": "5.0",
+    "state": "complete",
+    "adjustment_total": "2.9",
+    "user_id": null,
+    "created_at": "2020-03-19T09:37:17.590Z",
+    "updated_at": "2020-03-20T07:13:18.765Z",
+    "completed_at": "2020-03-18T09:37:17.962Z",
+    "payment_total": "0.0",
+    "shipment_state": "pending",
+    "payment_state": "balance_due",
+    "email": "spree@example.com",
+    "special_instructions": null,
+    "channel": "spree",
+    "included_tax_total": "0.0",
+    "additional_tax_total": "0.0",
+    "display_included_tax_total": "$0.00",
+    "display_additional_tax_total": "$0.00",
+    "tax_total": "0.0",
+    "currency": "USD",
+    "considered_risky": false,
+    "canceler_id": null,
+    "display_item_total": "$28.99",
+    "total_quantity": 1,
+    "display_total": "$36.89",
+    "display_ship_total": "$5.00",
+    "display_tax_total": "$0.00",
+    "display_adjustment_total": "$2.90",
+    "token": "5UhGyISB2X4mkrgre7JlqQ1584610637590",
+    "checkout_steps": [
+        "address",
+        "delivery",
+        "payment",
+        "confirm",
+        "complete"
+    ],
+    "bill_address": {
+        "id": 3,
+        "firstname": "Shannon",
+        "lastname": "Jast",
+        "full_name": "Shannon Jast",
+        "address1": "07387 Koch Path",
+        "address2": "Apt. 100",
+        "city": "South Albertina",
+        "zipcode": "16804",
+        "phone": "1-698-678-1512 x4121",
+        "company": null,
+        "alternative_phone": null,
+        "country_id": 233,
+        "state_id": 3376,
+        "state_name": null,
+        "state_text": "NY",
+        "country": {
+            "id": 233,
+            "iso_name": "UNITED STATES",
+            "iso": "US",
+            "iso3": "USA",
+            "name": "United States",
+            "numcode": 840
+        },
+        "state": {
+            "id": 3376,
+            "name": "New York",
+            "abbr": "NY",
+            "country_id": 233
+        }
+    },
+    "ship_address": {
+        "id": 4,
+        "firstname": "Gaynell-1",
+        "lastname": "Luettgen",
+        "full_name": "Gaynell-1 Luettgen",
+        "address1": "41180 Tari Locks",
+        "address2": "Apt. 773",
+        "city": "Reichelchester",
+        "zipcode": "16804",
+        "phone": "(971)343-2260 x65226",
+        "company": null,
+        "alternative_phone": null,
+        "country_id": 233,
+        "state_id": 3376,
+        "state_name": null,
+        "state_text": "NY",
+        "country": {
+            "id": 233,
+            "iso_name": "UNITED STATES",
+            "iso": "US",
+            "iso3": "USA",
+            "name": "United States",
+            "numcode": 840
+        },
+        "state": {
+            "id": 3376,
+            "name": "New York",
+            "abbr": "NY",
+            "country_id": 233
+        }
+    },
+    "line_items": [
+        {
+            "id": 2,
+            "quantity": 1,
+            "price": "28.99",
+            "variant_id": 2,
+            "variant": {
+                "product_id": 2,
+                "id": 2,
+                "name": "Checked Shirt",
+                "sku": "Shirts_checkedshirt_36.99",
+                "price": "36.99",
+                "weight": "0.0",
+                "height": null,
+                "width": null,
+                "depth": null,
+                "is_master": true,
+                "slug": "checked-shirt",
+                "description": "Aliquid accusantium sequi eaque qui sunt rerum natus. Quam iste quia doloribus alias quo. Et aut asperiores voluptas autem neque unde sed. Dolorem repellat eligendi quia aut totam sed quisquam. Ex explicabo dolor velit et qui nesciunt expedita.",
+                "track_inventory": true,
+                "cost_price": null,
+                "option_values": [],
+                "images": [],
+                "display_price": "$36.99",
+                "options_text": "",
+                "in_stock": true,
+                "is_backorderable": true,
+                "is_orderable": true,
+                "total_on_hand": 1,
+                "is_destroyed": false
+            },
+            "adjustments": [],
+            "single_display_amount": "$28.99",
+            "display_amount": "$28.99",
+            "total": "28.99"
+        }
+    ],
+    "payments": [
+        {
+            "id": 2,
+            "source_type": "Spree::CreditCard",
+            "source_id": 1,
+            "amount": "36.89",
+            "display_amount": "$36.89",
+            "payment_method_id": 2,
+            "state": "pending",
+            "avs_response": null,
+            "created_at": "2020-03-19T09:37:18.395Z",
+            "updated_at": "2020-03-19T09:37:18.395Z",
+            "number": "PK0KY1XN",
+            "payment_method": {
+                "id": 2,
+                "name": "Credit Card"
+            },
+            "source": {
+                "id": 1,
+                "month": 12,
+                "year": 2022,
+                "cc_type": "visa",
+                "last_digits": "1111",
+                "name": "Sean Schofield",
+                "gateway_customer_profile_id": "BGS-1234",
+                "gateway_payment_profile_id": null
+            }
+        }
+    ],
+    "shipments": [
+        {
+            "id": 2,
+            "tracking": null,
+            "number": "H19226504990",
+            "cost": "5.0",
+            "shipped_at": null,
+            "state": "pending",
+            "shipping_rates": [
+                {
+                    "id": 1,
+                    "name": "UPS Ground (USD)",
+                    "cost": "5.0",
+                    "selected": true,
+                    "shipping_method_id": 1,
+                    "shipping_method_code": null,
+                    "display_cost": "$5.00"
+                },
+                {
+                    "id": 2,
+                    "name": "UPS Two Day (USD)",
+                    "cost": "10.0",
+                    "selected": false,
+                    "shipping_method_id": 2,
+                    "shipping_method_code": null,
+                    "display_cost": "$10.00"
+                },
+                {
+                    "id": 3,
+                    "name": "UPS One Day (USD)",
+                    "cost": "15.0",
+                    "selected": false,
+                    "shipping_method_id": 3,
+                    "shipping_method_code": null,
+                    "display_cost": "$15.00"
+                }
+            ],
+            "selected_shipping_rate": {
+                "id": 1,
+                "name": "UPS Ground (USD)",
+                "cost": "5.0",
+                "selected": true,
+                "shipping_method_id": 1,
+                "shipping_method_code": null,
+                "display_cost": "$5.00"
+            },
+            "shipping_methods": [
+                {
+                    "id": 1,
+                    "code": null,
+                    "name": "UPS Ground (USD)",
+                    "zones": [
+                        {
+                            "id": 2,
+                            "name": "North America",
+                            "description": "USA + Canada"
+                        }
+                    ],
+                    "shipping_categories": [
+                        {
+                            "id": 1,
+                            "name": "Default"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "code": null,
+                    "name": "UPS Two Day (USD)",
+                    "zones": [
+                        {
+                            "id": 2,
+                            "name": "North America",
+                            "description": "USA + Canada"
+                        }
+                    ],
+                    "shipping_categories": [
+                        {
+                            "id": 1,
+                            "name": "Default"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "code": null,
+                    "name": "UPS One Day (USD)",
+                    "zones": [
+                        {
+                            "id": 2,
+                            "name": "North America",
+                            "description": "USA + Canada"
+                        }
+                    ],
+                    "shipping_categories": [
+                        {
+                            "id": 1,
+                            "name": "Default"
+                        }
+                    ]
+                }
+            ],
+            "manifest": [
+                {
+                    "variant_id": 2,
+                    "quantity": 1,
+                    "states": {
+                        "on_hand": 1
+                    }
+                }
+            ],
+            "adjustments": [],
+            "order_id": "R987654321",
+            "stock_location_name": "default"
+        }
+    ],
+    "adjustments": [
+        {
+            "id": 2,
+            "source_type": "Spree::TaxRate",
+            "source_id": 1,
+            "adjustable_type": "Spree::Order",
+            "adjustable_id": 2,
+            "amount": "2.9",
+            "label": "Tax",
+            "mandatory": true,
+            "eligible": true,
+            "created_at": "2020-03-19T09:37:18.040Z",
+            "updated_at": "2020-03-19T09:37:18.232Z",
+            "display_amount": "$2.90"
+        }
+    ],
+    "credit_cards": [
+        {
+            "id": 1,
+            "month": 12,
+            "year": 2022,
+            "cc_type": "visa",
+            "last_digits": "1111",
+            "name": "Sean Schofield",
+            "gateway_customer_profile_id": "BGS-1234",
+            "gateway_payment_profile_id": null
+        }
+    ],
+    "permissions": {
+        "can_update": true
+    }
+}
