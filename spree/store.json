@@ -1,0 +1,19 @@
+{
+    "stores": [
+        {
+            "id": 1,
+            "name": "Spree Demo Site",
+            "url": "demo.spreecommerce.org",
+            "meta_description": "Spree Commerce is an open source Ecommerce framework decision makers want, developers enjoy.",
+            "meta_keywords": "",
+            "seo_title": "Spree Commerce Demo Shop",
+            "mail_from_address": "spree@example.com",
+            "default_currency": "HKD",
+            "code": "spree",
+            "default": true,
+            "facebook": "",
+            "twitter": "",
+            "instagram": ""
+        }
+    ]
+}

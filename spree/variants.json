@@ -1,0 +1,212 @@
+{
+    "variants": [
+        {
+            "id": 117,
+            "name": "Denim Shirt",
+            "sku": "Shirts_denimshirt_28.99_blue_xs",
+            "price": "28.99",
+            "weight": "1.2",
+            "height": "1.0",
+            "width": "2.0",
+            "depth": "3.0",
+            "is_master": false,
+            "slug": "denim-shirt",
+            "description": "Dolores et non perferendis qui ut odit. Inventore quod natus ut non qui eius velit consequatur. Optio hic exercitationem adipisci minima iusto vel quia.",
+            "track_inventory": true,
+            "cost_price": "28.99",
+            "option_values": [
+                {
+                    "id": 12,
+                    "name": "blue",
+                    "presentation": "#0000FF",
+                    "option_type_name": "color",
+                    "option_type_id": 1,
+                    "option_type_presentation": "Color"
+                },
+                {
+                    "id": 23,
+                    "name": "xs",
+                    "presentation": "XS",
+                    "option_type_name": "size",
+                    "option_type_id": 3,
+                    "option_type_presentation": "Size"
+                }
+            ],
+            "images": [],
+            "display_price": "$28.99",
+            "options_text": "Color: blue, Size: XS",
+            "in_stock": true,
+            "is_backorderable": true,
+            "is_orderable": true,
+            "total_on_hand": 22,
+            "is_destroyed": false,
+            "stock_items": [
+                {
+                    "id": 117,
+                    "count_on_hand": 22,
+                    "stock_location_id": 1,
+                    "backorderable": true,
+                    "available": true,
+                    "stock_location_name": "default"
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "name": "Checked Shirt",
+            "sku": "Shirts_checkedshirt_36.99_red_xs",
+            "price": "36.99",
+            "weight": "0.0",
+            "height": null,
+            "width": null,
+            "depth": null,
+            "is_master": false,
+            "slug": "checked-shirt",
+            "description": "Aliquid accusantium sequi eaque qui sunt rerum natus. Quam iste quia doloribus alias quo. Et aut asperiores voluptas autem neque unde sed. Dolorem repellat eligendi quia aut totam sed quisquam. Ex explicabo dolor velit et qui nesciunt expedita.",
+            "track_inventory": true,
+            "cost_price": "36.99",
+            "option_values": [
+                {
+                    "id": 3,
+                    "name": "red",
+                    "presentation": "#FF0000",
+                    "option_type_name": "color",
+                    "option_type_id": 1,
+                    "option_type_presentation": "Color"
+                },
+                {
+                    "id": 23,
+                    "name": "xs",
+                    "presentation": "XS",
+                    "option_type_name": "size",
+                    "option_type_id": 3,
+                    "option_type_presentation": "Size"
+                }
+            ],
+            "images": [],
+            "display_price": "$36.99",
+            "options_text": "Color: red, Size: XS",
+            "in_stock": true,
+            "is_backorderable": true,
+            "is_orderable": true,
+            "total_on_hand": 28,
+            "is_destroyed": false,
+            "stock_items": [
+                {
+                    "id": 118,
+                    "count_on_hand": 28,
+                    "stock_location_id": 1,
+                    "backorderable": true,
+                    "available": true,
+                    "stock_location_name": "default"
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "name": "Covered Placket Shirt",
+            "sku": "Shirts_coveredplacketshirt_52.99_dark_blue_xs",
+            "price": "52.99",
+            "weight": "0.0",
+            "height": null,
+            "width": null,
+            "depth": null,
+            "is_master": false,
+            "slug": "covered-placket-shirt",
+            "description": "Eum a quam dolorem suscipit architecto sed quo ut. Nisi quisquam consequatur ducimus rerum veniam. Eveniet et odio tempore aliquid voluptatum possimus consequatur. Delectus at itaque iure inventore non eos. Harum mollitia sapiente sint ut.",
+            "track_inventory": true,
+            "cost_price": "52.99",
+            "option_values": [
+                {
+                    "id": 13,
+                    "name": "dark_blue",
+                    "presentation": "#00008b",
+                    "option_type_name": "color",
+                    "option_type_id": 1,
+                    "option_type_presentation": "Color"
+                },
+                {
+                    "id": 23,
+                    "name": "xs",
+                    "presentation": "XS",
+                    "option_type_name": "size",
+                    "option_type_id": 3,
+                    "option_type_presentation": "Size"
+                }
+            ],
+            "images": [],
+            "display_price": "$52.99",
+            "options_text": "Color: dark_blue, Size: XS",
+            "in_stock": true,
+            "is_backorderable": true,
+            "is_orderable": true,
+            "total_on_hand": 31,
+            "is_destroyed": false,
+            "stock_items": [
+                {
+                    "id": 119,
+                    "count_on_hand": 31,
+                    "stock_location_id": 1,
+                    "backorderable": true,
+                    "available": true,
+                    "stock_location_name": "default"
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "name": "Slim Fit Shirt",
+            "sku": "Shirts_slimfitshirt_84.99_dark_blue_xs",
+            "price": "84.99",
+            "weight": "0.0",
+            "height": null,
+            "width": null,
+            "depth": null,
+            "is_master": false,
+            "slug": "slim-fit-shirt",
+            "description": "Quia optio veritatis hic qui dolorem. Non quam est voluptatem dolorem adipisci dolore et nulla. Facere ullam esse fugit reprehenderit.",
+            "track_inventory": true,
+            "cost_price": "84.99",
+            "option_values": [
+                {
+                    "id": 13,
+                    "name": "dark_blue",
+                    "presentation": "#00008b",
+                    "option_type_name": "color",
+                    "option_type_id": 1,
+                    "option_type_presentation": "Color"
+                },
+                {
+                    "id": 23,
+                    "name": "xs",
+                    "presentation": "XS",
+                    "option_type_name": "size",
+                    "option_type_id": 3,
+                    "option_type_presentation": "Size"
+                }
+            ],
+            "images": [],
+            "display_price": "$84.99",
+            "options_text": "Color: dark_blue, Size: XS",
+            "in_stock": true,
+            "is_backorderable": true,
+            "is_orderable": true,
+            "total_on_hand": 29,
+            "is_destroyed": false,
+            "stock_items": [
+                {
+                    "id": 120,
+                    "count_on_hand": 29,
+                    "stock_location_id": 1,
+                    "backorderable": true,
+                    "available": true,
+                    "stock_location_name": "default"
+                }
+            ]
+        }
+    ],
+    "count": 4,
+    "total_count": 116,
+    "current_page": 1,
+    "pages": 29
+}
