@@ -1,0 +1,11 @@
+{
+	"id": 1,
+	"name": "localhost",
+	"domain_name": "localhost",
+	"email": "test@not-my-real-address.zzz",
+	"keywords": "",
+	"description": "",
+	"is_micro_store": false,
+	"parent_store_id": 0,
+	"profile_id": 9
+}
