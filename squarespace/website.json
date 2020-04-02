@@ -1,0 +1,13 @@
+{
+  "id": "5d44425b6727690001dd9bb1",
+  "siteId": "sss",
+  "title": "Your Site Title",
+  "url": "https://sss.squarespace.com",
+  "currency": "HKD",
+  "language": "en-US",
+  "timeZone": "Asia/Hong_Kong",
+  "location": {
+    "region": null,
+    "country": null
+  }
+}
