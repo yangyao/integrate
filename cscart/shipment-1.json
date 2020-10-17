@@ -1,0 +1,27 @@
+{
+    "shipment_id": "1",
+    "shipment_timestamp": "1602916468",
+    "comments": null,
+    "status": "P",
+    "order_id": "17",
+    "order_timestamp": "1602915918",
+    "s_firstname": "",
+    "s_lastname": "customer",
+    "firstname": "",
+    "lastname": "customer",
+    "company": "",
+    "user_id": "14",
+    "shipping_id": "1",
+    "shipping": "Custom shipping method",
+    "tracking_number": "23213123123213",
+    "carrier": "usps",
+    "products": {
+        "2525060006": "1"
+    },
+    "group_key": 0,
+    "carrier_info": {
+        "name": "USPS",
+        "tracking_url": "https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=23213123123213"
+    },
+    "one_full": true
+}
