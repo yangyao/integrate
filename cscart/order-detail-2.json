@@ -1,0 +1,510 @@
+{
+    "order_id": "17",
+    "is_parent_order": "N",
+    "parent_order_id": "0",
+    "company_id": "126",
+    "issuer_id": "1",
+    "user_id": "14",
+    "total": "127.99",
+    "subtotal": 99.99,
+    "discount": 0,
+    "subtotal_discount": 0,
+    "payment_surcharge": 0,
+    "shipping_ids": "1",
+    "shipping_cost": "28.00",
+    "timestamp": "1602915918",
+    "status": "O",
+    "notes": "单件商品",
+    "details": "拆弹专家",
+    "promotions": [],
+    "promotion_ids": "",
+    "firstname": "",
+    "lastname": "customer",
+    "company": "",
+    "b_firstname": "",
+    "b_lastname": "",
+    "b_address": "Sireneviy pr, 7A",
+    "b_address_2": "",
+    "b_city": "New York",
+    "b_county": "",
+    "b_state": "MA",
+    "b_country": "US",
+    "b_zipcode": "000000",
+    "b_phone": "",
+    "s_firstname": "",
+    "s_lastname": "",
+    "s_address": "Sireneviy pr, 7A",
+    "s_address_2": "",
+    "s_city": "New York",
+    "s_county": "",
+    "s_state": "MA",
+    "s_country": "US",
+    "s_zipcode": "000000",
+    "s_phone": "",
+    "s_address_type": "",
+    "phone": "",
+    "fax": "",
+    "url": "",
+    "email": "customer@example.com",
+    "payment_id": "2",
+    "tax_exempt": "N",
+    "lang_code": "en",
+    "ip_address": "103.137.150.43",
+    "repaid": "0",
+    "validation_code": "",
+    "localization_id": "0",
+    "profile_id": "15",
+    "storefront_id": "1",
+    "payment_method": {
+        "payment_id": "2",
+        "company_id": "0",
+        "usergroup_ids": "0",
+        "position": "20",
+        "status": "A",
+        "template": "views/orders/components/payments/phone.tpl",
+        "processor_id": "0",
+        "a_surcharge": "0.000",
+        "p_surcharge": "0.000",
+        "tax_ids": [],
+        "localization": "",
+        "payment_category": "tab3",
+        "payment": "Phone ordering",
+        "description": "Call to 5555555",
+        "instructions": "",
+        "surcharge_title": "",
+        "lang_code": "en",
+        "processor": null,
+        "processor_type": null,
+        "processor_status": null,
+        "image": [],
+        "storefront_ids": ""
+    },
+    "fields": [],
+    "products": {
+        "2525060006": {
+            "item_id": "2525060006",
+            "order_id": "17",
+            "product_id": "8231",
+            "product_code": "816425021038_9C2F",
+            "price": "99.99",
+            "amount": "1",
+            "extra": {
+                "product_options": [],
+                "unlimited_download": "N",
+                "product": "Gourmia - Single Serve K-Cup Pod Coffee Maker with Built-In Frother - Black/Stainless Steel (Bordo)",
+                "company_id": "126",
+                "is_edp": "N",
+                "edp_shipping": "N",
+                "discount": 0,
+                "base_price": 99.99,
+                "stored_price": "N"
+            },
+            "product": "Gourmia - Single Serve K-Cup Pod Coffee Maker with Built-In Frother - Black/Stainless Steel (Bordo)",
+            "product_status": "A",
+            "deleted_product": false,
+            "discount": 0,
+            "company_id": "126",
+            "base_price": 99.99,
+            "original_price": 99.99,
+            "cart_id": "2525060006",
+            "tax_value": 0,
+            "subtotal": 99.99,
+            "display_subtotal": 99.99,
+            "shipped_amount": 0,
+            "shipment_amount": "1",
+            "is_accessible": true,
+            "product_url": "https://electronics.demos.mv.cs-cart.com/80064beac03baa1d/appliances/coffee-makers/gourmia-single-serve-k-cup-pod-coffee-maker-with-built-in-frother-black-stainless-steel/?variation_id=8231",
+            "variation_feature_ids": {
+                "77": "77"
+            },
+            "variation_feature_collection": {
+                "77": {
+                    "feature_id": "77",
+                    "purpose": "group_variation_catalog_item"
+                }
+            },
+            "variation_group_id": 2571,
+            "variation_group_code": "PV-9123CE15C",
+            "variation_parent_product_id": 5359,
+            "variation_sub_group_id": "2571_5359",
+            "variation_features": {
+                "77": {
+                    "feature_id": "77",
+                    "feature_style": "dropdown_labels",
+                    "position": "0",
+                    "purpose": "group_variation_catalog_item",
+                    "display_on_catalog": "Y",
+                    "description": "Color",
+                    "prefix": "",
+                    "suffix": "",
+                    "purpose_position": "1",
+                    "variant": "Bordo",
+                    "variant_id": "2618",
+                    "variant_position": "60"
+                }
+            }
+        }
+    },
+    "taxes": {
+        "6": {
+            "rate_type": "P",
+            "rate_value": "10.000",
+            "price_includes_tax": "Y",
+            "regnumber": "1234242",
+            "priority": 0,
+            "tax_subtotal": 2.55,
+            "description": "VAT",
+            "applies": {
+                "P": 0,
+                "S": 2.55,
+                "items": {
+                    "S": [
+                        {
+                            "1": true
+                        }
+                    ],
+                    "P": []
+                }
+            }
+        }
+    },
+    "tax_subtotal": 0,
+    "display_shipping_cost": "28.00",
+    "profile_update_timestamp": "",
+    "is_root": "",
+    "birthday": "",
+    "purchase_timestamp_from": "",
+    "purchase_timestamp_to": "",
+    "responsible_email": "",
+    "last_passwords": "",
+    "password_change_timestamp": "",
+    "api_key": "",
+    "janrain_identifier": "",
+    "b_country_descr": "United States",
+    "s_country_descr": "United States",
+    "b_state_descr": "Massachusetts",
+    "s_state_descr": "Massachusetts",
+    "need_shipping": true,
+    "shipping": [
+        {
+            "shipping_id": "1",
+            "shipping": "Custom shipping method",
+            "delivery_time": "3-5 days",
+            "description": "<p>Delivery time is calculated in business days.</p><p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>",
+            "rate_calculation": "M",
+            "service_params": [],
+            "destination": "I",
+            "min_weight": "0.000",
+            "max_weight": "0.000",
+            "service_id": "0",
+            "free_shipping": false,
+            "module": null,
+            "service_code": null,
+            "is_address_required": "Y",
+            "rate_info": {
+                "rate_id": "1",
+                "shipping_id": "1",
+                "rate_value": {
+                    "C": {
+                        "0": {
+                            "value": 40,
+                            "type": "F"
+                        },
+                        "30": {
+                            "value": 10,
+                            "type": "F"
+                        },
+                        "50": {
+                            "value": 5,
+                            "type": "F"
+                        }
+                    },
+                    "I": {
+                        "0": {
+                            "value": 23,
+                            "type": "F"
+                        },
+                        "10": {
+                            "value": 15,
+                            "type": "F"
+                        }
+                    }
+                },
+                "destination_id": "7"
+            },
+            "image": [],
+            "group_key": 0,
+            "rate": 28,
+            "group_name": "BestBuy",
+            "need_shipment": true
+        }
+    ],
+    "shipment_ids": [],
+    "secondary_currency": "USD",
+    "issuer_data": {
+        "user_id": "1",
+        "user_login": "admin",
+        "company_id": "0",
+        "firstname": "Admin",
+        "lastname": "Admin",
+        "email": "admin@example.com",
+        "user_type": "A"
+    },
+    "display_subtotal": 99.99,
+    "payment_info": [],
+    "product_groups": [
+        {
+            "name": "BestBuy",
+            "company_id": 126,
+            "products": {
+                "2525060006": {
+                    "product_id": 8231,
+                    "product_code": "816425021038_9C2F",
+                    "product": "Gourmia - Single Serve K-Cup Pod Coffee Maker with Built-In Frother - Black/Stainless Steel (Bordo)",
+                    "amount": 1,
+                    "product_options": [],
+                    "price": 99.99,
+                    "stored_price": "N",
+                    "main_pair": {
+                        "pair_id": "46880",
+                        "image_id": "0",
+                        "detailed_id": "38713",
+                        "position": "0",
+                        "object_id": "8231",
+                        "object_type": "product",
+                        "detailed": {
+                            "object_id": "8231",
+                            "object_type": "product",
+                            "type": "M",
+                            "image_path": "https://electronics.demos.mv.cs-cart.com/80064beac03baa1d/images/detailed/38/6280307_rd.jpg",
+                            "alt": "",
+                            "image_x": "2214",
+                            "image_y": "3370",
+                            "http_image_path": "http://electronics.demos.mv.cs-cart.com/80064beac03baa1d/images/detailed/38/6280307_rd.jpg",
+                            "https_image_path": "https://electronics.demos.mv.cs-cart.com/80064beac03baa1d/images/detailed/38/6280307_rd.jpg",
+                            "absolute_path": "/srv/projects/demos.mv.cs-cart.com/web/80064beac03baa1d/images/detailed/38/6280307_rd.jpg",
+                            "relative_path": "detailed/38/6280307_rd.jpg",
+                            "is_high_res": false
+                        }
+                    },
+                    "extra": {
+                        "product_options": [],
+                        "unlimited_download": "N"
+                    },
+                    "stored_discount": "N",
+                    "discount": 0,
+                    "company_id": "126",
+                    "amount_total": 1,
+                    "options_type": "P",
+                    "exceptions_type": "F",
+                    "modifiers_price": 0,
+                    "is_edp": "N",
+                    "edp_shipping": "N",
+                    "promotions": [],
+                    "base_price": 99.99,
+                    "category_ids": [
+                        25
+                    ],
+                    "display_price": 99.99,
+                    "main_category": 25
+                }
+            },
+            "package_info": {
+                "C": 99.99,
+                "W": "0.001",
+                "I": 1,
+                "shipping_freight": 0,
+                "packages": [
+                    {
+                        "products": {
+                            "2525060006": 1
+                        },
+                        "amount": 1,
+                        "weight": 0.1,
+                        "cost": 99.99
+                    }
+                ],
+                "origination": {
+                    "name": "BestBuy",
+                    "address": "",
+                    "city": "",
+                    "country": "",
+                    "state": "",
+                    "zipcode": "",
+                    "phone": ""
+                },
+                "location": {
+                    "address": "Sireneviy pr, 7A",
+                    "city": "New York",
+                    "state": "MA",
+                    "country": "US",
+                    "zipcode": "000000",
+                    "country_descr": "United States",
+                    "state_descr": "Massachusetts",
+                    "address_type": "residential",
+                    "firstname": "John",
+                    "lastname": "customer"
+                }
+            },
+            "package_info_full": {
+                "C": 99.99,
+                "W": "0.001",
+                "I": 1,
+                "shipping_freight": 0,
+                "packages": [
+                    {
+                        "products": {
+                            "2525060006": 1
+                        },
+                        "amount": 1,
+                        "weight": 0.1,
+                        "cost": 99.99
+                    }
+                ],
+                "origination": {
+                    "name": "BestBuy",
+                    "address": "",
+                    "city": "",
+                    "country": "",
+                    "state": "",
+                    "zipcode": "",
+                    "phone": ""
+                },
+                "location": {
+                    "address": "Sireneviy pr, 7A",
+                    "city": "New York",
+                    "state": "MA",
+                    "country": "US",
+                    "zipcode": "000000",
+                    "country_descr": "United States",
+                    "state_descr": "Massachusetts",
+                    "address_type": "residential",
+                    "firstname": "John",
+                    "lastname": "customer"
+                }
+            },
+            "all_edp_free_shipping": false,
+            "all_free_shipping": false,
+            "free_shipping": false,
+            "shipping_no_required": false,
+            "shippings": {
+                "1": {
+                    "shipping_id": "1",
+                    "shipping": "Custom shipping method",
+                    "delivery_time": "3-5 days",
+                    "description": "<p>Delivery time is calculated in business days.</p><p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>",
+                    "rate_calculation": "M",
+                    "service_params": [],
+                    "destination": "I",
+                    "min_weight": "0.000",
+                    "max_weight": "0.000",
+                    "service_id": "0",
+                    "free_shipping": false,
+                    "module": null,
+                    "service_code": null,
+                    "is_address_required": "Y",
+                    "rate_info": {
+                        "rate_id": "1",
+                        "shipping_id": "1",
+                        "rate_value": {
+                            "C": {
+                                "0": {
+                                    "value": 40,
+                                    "type": "F"
+                                },
+                                "30": {
+                                    "value": 10,
+                                    "type": "F"
+                                },
+                                "50": {
+                                    "value": 5,
+                                    "type": "F"
+                                }
+                            },
+                            "I": {
+                                "0": {
+                                    "value": 23,
+                                    "type": "F"
+                                },
+                                "10": {
+                                    "value": 15,
+                                    "type": "F"
+                                }
+                            }
+                        },
+                        "destination_id": "7"
+                    },
+                    "image": [],
+                    "group_key": 0,
+                    "rate": 28,
+                    "taxed_price": 0,
+                    "taxes": {
+                        "6": {
+                            "rate_type": "P",
+                            "rate_value": "10.000",
+                            "price_includes_tax": "Y",
+                            "regnumber": "1234242",
+                            "priority": 0,
+                            "tax_subtotal": 2.55,
+                            "description": "VAT"
+                        }
+                    }
+                }
+            },
+            "chosen_shippings": [
+                {
+                    "shipping_id": "1",
+                    "shipping": "Custom shipping method",
+                    "delivery_time": "3-5 days",
+                    "description": "<p>Delivery time is calculated in business days.</p><p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>",
+                    "rate_calculation": "M",
+                    "service_params": [],
+                    "destination": "I",
+                    "min_weight": "0.000",
+                    "max_weight": "0.000",
+                    "service_id": "0",
+                    "free_shipping": false,
+                    "module": null,
+                    "service_code": null,
+                    "is_address_required": "Y",
+                    "rate_info": {
+                        "rate_id": "1",
+                        "shipping_id": "1",
+                        "rate_value": {
+                            "C": {
+                                "0": {
+                                    "value": 40,
+                                    "type": "F"
+                                },
+                                "30": {
+                                    "value": 10,
+                                    "type": "F"
+                                },
+                                "50": {
+                                    "value": 5,
+                                    "type": "F"
+                                }
+                            },
+                            "I": {
+                                "0": {
+                                    "value": 23,
+                                    "type": "F"
+                                },
+                                "10": {
+                                    "value": 15,
+                                    "type": "F"
+                                }
+                            }
+                        },
+                        "destination_id": "7"
+                    },
+                    "image": [],
+                    "group_key": 0,
+                    "rate": 28,
+                    "group_name": "BestBuy"
+                }
+            ]
+        }
+    ],
+    "doc_ids": []
+}
