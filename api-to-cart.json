@@ -1,0 +1,316 @@
+{
+  "return_code": 0,
+  "return_message": "string",
+  "result": {
+    "id": "string",
+    "order_id": "string",
+    "basket_id": "string",
+    "channel_id": "string",
+    "customer": {
+      "id": "string",
+      "email": "string",
+      "first_name": "string",
+      "last_name": "string",
+      "phone": "string",
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "create_at": {
+      "value": "string",
+      "format": "string",
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "currency": {
+      "id": "string",
+      "name": "string",
+      "iso3": "string",
+      "symbol_left": "string",
+      "symbol_right": "string",
+      "rate": 0,
+      "avail": true,
+      "default": true,
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "shipping_address": {
+      "id": "string",
+      "type": "string",
+      "first_name": "string",
+      "last_name": "string",
+      "postcode": "string",
+      "address1": "string",
+      "address2": "string",
+      "phone": "string",
+      "city": "string",
+      "country": {
+        "code2": "string",
+        "code3": "string",
+        "name": "string",
+        "additional_fields": {},
+        "custom_fields": {}
+      },
+      "state": {
+        "code": "string",
+        "name": "string",
+        "additional_fields": {},
+        "custom_fields": {}
+      },
+      "company": "string",
+      "fax": "string",
+      "website": "string",
+      "gender": "string",
+      "region": "string",
+      "default": true,
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "billing_address": {
+      "id": "string",
+      "type": "string",
+      "first_name": "string",
+      "last_name": "string",
+      "postcode": "string",
+      "address1": "string",
+      "address2": "string",
+      "phone": "string",
+      "city": "string",
+      "country": {
+        "code2": "string",
+        "code3": "string",
+        "name": "string",
+        "additional_fields": {},
+        "custom_fields": {}
+      },
+      "state": {
+        "code": "string",
+        "name": "string",
+        "additional_fields": {},
+        "custom_fields": {}
+      },
+      "company": "string",
+      "fax": "string",
+      "website": "string",
+      "gender": "string",
+      "region": "string",
+      "default": true,
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "payment_method": {
+      "name": "string",
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "shipping_method": {
+      "name": "string",
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "shipping_methods": [
+      {
+        "name": "string",
+        "additional_fields": {},
+        "custom_fields": {}
+      }
+    ],
+    "status": {
+      "id": "string",
+      "name": "string",
+      "history": [
+        {
+          "id": "string",
+          "name": "string",
+          "modified_time": {
+            "value": "string",
+            "format": "string",
+            "additional_fields": {},
+            "custom_fields": {}
+          },
+          "notify": true,
+          "comment": "string",
+          "additional_fields": {},
+          "custom_fields": {}
+        }
+      ],
+      "refund_info": {
+        "shipping": 0,
+        "fee": 0,
+        "tax": 0,
+        "total_refunded": 0,
+        "time": {
+          "value": "string",
+          "format": "string",
+          "additional_fields": {},
+          "custom_fields": {}
+        },
+        "comment": "string",
+        "refunded_items": [
+          {
+            "product_id": "string",
+            "variant_id": "string",
+            "order_product_id": "string",
+            "qty": 0,
+            "refund": 0,
+            "additional_fields": {},
+            "custom_fields": {}
+          }
+        ],
+        "additional_fields": {},
+        "custom_fields": {}
+      },
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "totals": {
+      "total": 0,
+      "subtotal": 0,
+      "shipping": 0,
+      "tax": 0,
+      "discount": 0,
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "total": {
+      "subtotal_ex_tax": 0,
+      "wrapping_ex_tax": 0,
+      "shipping_ex_tax": 0,
+      "total_discount": 0,
+      "total_tax": 0,
+      "total": 0,
+      "total_paid": 0,
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "discounts": [
+      {
+        "code": "string",
+        "value": 0,
+        "type": "string",
+        "additional_fields": {},
+        "custom_fields": {}
+      }
+    ],
+    "order_products": [
+      {
+        "product_id": "string",
+        "order_product_id": "string",
+        "model": "string",
+        "name": "string",
+        "price": 0,
+        "price_inc_tax": 0,
+        "quantity": 0,
+        "discount_amount": 0,
+        "total_price": 0,
+        "tax_percent": 0,
+        "tax_value": 0,
+        "tax_value_after_discount": 0,
+        "options": [
+          {
+            "option_id": "string",
+            "name": "string",
+            "value": "string",
+            "price": 0,
+            "weight": 0,
+            "type": "string",
+            "product_option_value_id": "string",
+            "additional_fields": {},
+            "custom_fields": {}
+          }
+        ],
+        "variant_id": "string",
+        "weight_unit": "string",
+        "weight": 0,
+        "barcode": "string",
+        "parent_order_product_id": "string",
+        "additional_fields": {},
+        "custom_fields": {}
+      }
+    ],
+    "bundles": [
+      {
+        "product_id": "string",
+        "order_product_id": "string",
+        "model": "string",
+        "name": "string",
+        "price": 0,
+        "price_inc_tax": 0,
+        "quantity": 0,
+        "discount_amount": 0,
+        "total_price": 0,
+        "tax_percent": 0,
+        "tax_value": 0,
+        "tax_value_after_discount": 0,
+        "options": [
+          {
+            "option_id": "string",
+            "name": "string",
+            "value": "string",
+            "price": 0,
+            "weight": 0,
+            "type": "string",
+            "product_option_value_id": "string",
+            "additional_fields": {},
+            "custom_fields": {}
+          }
+        ],
+        "variant_id": "string",
+        "weight_unit": "string",
+        "weight": 0,
+        "barcode": "string",
+        "parent_order_product_id": "string",
+        "additional_fields": {},
+        "custom_fields": {}
+      }
+    ],
+    "modified_at": {
+      "value": "string",
+      "format": "string",
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "finished_time": {
+      "value": "string",
+      "format": "string",
+      "additional_fields": {},
+      "custom_fields": {}
+    },
+    "comment": "string",
+    "store_id": "string",
+    "warehouses_ids": [
+      "string"
+    ],
+    "refunds": [
+      {
+        "id": "string",
+        "shipping": 0,
+        "fee": 0,
+        "tax": 0,
+        "total": 0,
+        "modified_time": {
+          "value": "string",
+          "format": "string",
+          "additional_fields": {},
+          "custom_fields": {}
+        },
+        "comment": "string",
+        "items": [
+          {
+            "product_id": "string",
+            "variant_id": "string",
+            "order_product_id": "string",
+            "qty": 0,
+            "refund": 0,
+            "additional_fields": {},
+            "custom_fields": {}
+          }
+        ],
+        "additional_fields": {},
+        "custom_fields": {}
+      }
+    ],
+    "gift_message": "string",
+    "additional_fields": {},
+    "custom_fields": {}
+  }
+}
