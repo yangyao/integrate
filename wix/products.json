@@ -1,0 +1,304 @@
+{"product": {
+  "id": "91f7ac8b-2baa-289c-aa50-6d64764f35d3",
+  "name": "Colombian Arabica",
+  "slug": "colombian-arabica-1",
+  "visible": true,
+  "productType": "physical",
+  "description": "<p>The best organic coffee that Colombia has to offer.<\/p>",
+  "stock":   {
+    "trackInventory": false,
+    "inStock": true
+  },
+  "price":   {
+    "currency": "USD",
+    "price": 35,
+    "discountedPrice": 30,
+    "formatted":     {
+      "price": "$35.00",
+      "discountedPrice": "$30.00",
+      "pricePerUnit": "$0.12"
+    },
+    "pricePerUnit": 0.12
+  },
+  "priceData":   {
+    "currency": "USD",
+    "price": 35,
+    "discountedPrice": 30,
+    "formatted":     {
+      "price": "$35.00",
+      "discountedPrice": "$30.00",
+      "pricePerUnit": "$0.12"
+    },
+    "pricePerUnit": 0.12
+  },
+  "convertedPriceData":   {
+    "currency": "USD",
+    "price": 35,
+    "discountedPrice": 30,
+    "formatted":     {
+      "price": "$35.00",
+      "discountedPrice": "$30.00",
+      "pricePerUnit": "$0.12"
+    },
+    "pricePerUnit": 0.12
+  },
+  "pricePerUnitData":   {
+    "totalQuantity": 250,
+    "totalMeasurementUnit": "G",
+    "baseQuantity": 1,
+    "baseMeasurementUnit": "G"
+  },
+  "additionalInfoSections": [  {
+    "title": "Storage recommendations",
+    "description": "<p>To&nbsp;preserve&nbsp;your beans' fresh roasted flavor as long as possible, store them in an opaque, air-tight container at room temperature.<\/p>\n"
+  }],
+  "ribbons": [{"text": "Organic and Fair trade"}],
+  "ribbon": "Organic and Fair trade",
+  "media":   {
+    "mainMedia":     {
+      "thumbnail":       {
+        "url": "https://static.wixstatic.com/media/nsplsh_5033504669385448625573~mv2_d_6000_3376_s_4_2.jpg/v1/fit/w_50,h_50,q_90/file.jpg",
+        "width": 50,
+        "height": 50
+      },
+      "mediaType": "image",
+      "title": "",
+      "image":       {
+        "url": "https://static.wixstatic.com/media/nsplsh_5033504669385448625573~mv2_d_6000_3376_s_4_2.jpg/v1/fit/w_6000,h_3376,q_90/file.jpg",
+        "width": 6000,
+        "height": 3376
+      },
+      "id": "nsplsh_5033504669385448625573~mv2_d_6000_3376_s_4_2.jpg"
+    },
+    "items": [    {
+      "thumbnail":       {
+        "url": "https://static.wixstatic.com/media/nsplsh_5033504669385448625573~mv2_d_6000_3376_s_4_2.jpg/v1/fit/w_50,h_50,q_90/file.jpg",
+        "width": 50,
+        "height": 50
+      },
+      "mediaType": "image",
+      "title": "",
+      "image":       {
+        "url": "https://static.wixstatic.com/media/nsplsh_5033504669385448625573~mv2_d_6000_3376_s_4_2.jpg/v1/fit/w_6000,h_3376,q_90/file.jpg",
+        "width": 6000,
+        "height": 3376
+      },
+      "id": "nsplsh_5033504669385448625573~mv2_d_6000_3376_s_4_2.jpg"
+    }]
+  },
+  "customTextFields": [  {
+    "title": "What would you like us to print on the custom label?",
+    "maxLength": 200,
+    "mandatory": false
+  }],
+  "manageVariants": true,
+  "productOptions":   [
+        {
+      "optionType": "drop_down",
+      "name": "Weight",
+      "choices":       [
+                {
+          "value": "250g",
+          "description": "250g",
+          "media": {"items": []},
+          "inStock": true,
+          "visible": true
+        },
+                {
+          "value": "500g",
+          "description": "500g",
+          "media": {"items": []},
+          "inStock": true,
+          "visible": true
+        }
+      ]
+    },
+        {
+      "optionType": "drop_down",
+      "name": "Ground for",
+      "choices":       [
+                {
+          "value": "Stovetop",
+          "description": "Stovetop",
+          "media": {"items": []},
+          "inStock": true,
+          "visible": true
+        },
+                {
+          "value": "Filter",
+          "description": "Filter",
+          "inStock": true,
+          "visible": true
+        }
+      ]
+    }
+  ],
+  "productPageUrl":   {
+    "base": "https://roysha.wixsite.com/roycoffeestore",
+    "path": "/product-page/colombian-arabica-1"
+  },
+  "numericId": "1586693639134000",
+  "inventoryItemId": "6e085374-d455-d763-55af-929b89b0ca2c",
+  "discount":   {
+    "type": "AMOUNT",
+    "value": 5
+  },
+  "collectionIds": ["32fd0b3a-2d38-2235-7754-78a3f819274a"],
+  "variants":   [
+        {
+      "id": "00000000-0000-0020-0005-a316e6ba5b37",
+      "choices":       {
+        "Weight": "250g",
+        "Ground for": "Stovetop"
+      },
+      "variant":       {
+        "priceData":         {
+          "currency": "USD",
+          "price": 35,
+          "discountedPrice": 30,
+          "formatted":           {
+            "price": "$35.00",
+            "discountedPrice": "$30.00",
+            "pricePerUnit": "$0.12"
+          },
+          "pricePerUnit": 0.12
+        },
+        "convertedPriceData":         {
+          "currency": "USD",
+          "price": 35,
+          "discountedPrice": 30,
+          "formatted":           {
+            "price": "$35.00",
+            "discountedPrice": "$30.00",
+            "pricePerUnit": "$0.12"
+          },
+          "pricePerUnit": 0.12
+        },
+        "weight": 0.25,
+        "sku": "10001",
+        "visible": true
+      }
+    },
+        {
+      "id": "00000000-0000-0021-0005-a316e6ba5b37",
+      "choices":       {
+        "Weight": "250g",
+        "Ground for": "Filter"
+      },
+      "variant":       {
+        "priceData":         {
+          "currency": "USD",
+          "price": 40,
+          "discountedPrice": 35,
+          "formatted":           {
+            "price": "$40.00",
+            "discountedPrice": "$35.00",
+            "pricePerUnit": "$0.14"
+          },
+          "pricePerUnit": 0.14
+        },
+        "convertedPriceData":         {
+          "currency": "USD",
+          "price": 40,
+          "discountedPrice": 35,
+          "formatted":           {
+            "price": "$40.00",
+            "discountedPrice": "$35.00",
+            "pricePerUnit": "$0.14"
+          },
+          "pricePerUnit": 0.14
+        },
+        "weight": 0.25,
+        "sku": "10003",
+        "visible": true
+      }
+    },
+        {
+      "id": "00000000-0000-003f-0005-a316e6ba5b37",
+      "choices":       {
+        "Weight": "500g",
+        "Ground for": "Stovetop"
+      },
+      "variant":       {
+        "priceData":         {
+          "currency": "USD",
+          "price": 65,
+          "discountedPrice": 60,
+          "formatted":           {
+            "price": "$65.00",
+            "discountedPrice": "$60.00",
+            "pricePerUnit": "$0.24"
+          },
+          "pricePerUnit": 0.24
+        },
+        "convertedPriceData":         {
+          "currency": "USD",
+          "price": 65,
+          "discountedPrice": 60,
+          "formatted":           {
+            "price": "$65.00",
+            "discountedPrice": "$60.00",
+            "pricePerUnit": "$0.24"
+          },
+          "pricePerUnit": 0.24
+        },
+        "weight": 0.5,
+        "sku": "10002",
+        "visible": true
+      }
+    },
+        {
+      "id": "00000000-0000-0040-0005-a316e6ba5b37",
+      "choices":       {
+        "Weight": "500g",
+        "Ground for": "Filter"
+      },
+      "variant":       {
+        "priceData":         {
+          "currency": "USD",
+          "price": 70,
+          "discountedPrice": 65,
+          "formatted":           {
+            "price": "$70.00",
+            "discountedPrice": "$65.00",
+            "pricePerUnit": "$0.26"
+          },
+          "pricePerUnit": 0.26
+        },
+        "convertedPriceData":         {
+          "currency": "USD",
+          "price": 70,
+          "discountedPrice": 65,
+          "formatted":           {
+            "price": "$70.00",
+            "discountedPrice": "$65.00",
+            "pricePerUnit": "$0.26"
+          },
+          "pricePerUnit": 0.26
+        },
+        "weight": 1,
+        "sku": "10004",
+        "visible": true
+      }
+    }
+  ],
+  "lastUpdated": "2021-01-20T08:54:48.983Z",
+  "seoData": {"tags":   [
+        {
+      "type": "title",
+      "children": "Colombian Arabica | Organic and Fair Trade",
+      "custom": false,
+      "disabled": false
+    },
+        {
+      "type": "meta",
+      "props":       {
+        "name": "description",
+        "content": "The best organic fair trade coffee that Colombia has to offer."
+      },
+      "children": "",
+      "custom": false,
+      "disabled": false
+    }
+  ]}
+}} 
