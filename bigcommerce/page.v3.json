@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "string",
+      "is_visible": true,
+      "parent_id": 0,
+      "sort_order": 0,
+      "type": "string",
+      "is_homepage": true,
+      "is_customers_only": true,
+      "email": "string",
+      "meta_title": "string",
+      "body": "string",
+      "feed": "string",
+      "link": "string",
+      "contact_fields": [
+        {
+          "fullname": "string",
+          "phone": "string",
+          "companyname": "string",
+          "orderno": "string",
+          "rma": "string"
+        }
+      ],
+      "meta_keywords": "string",
+      "meta_description": "string",
+      "search_keywords": "string",
+      "url": "string",
+      "channel_id": 0
+    }
+  ],
+  "meta": {}
+}
