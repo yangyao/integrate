@@ -1,0 +1,43 @@
+{
+  "metafields": [
+    {
+      "id": 19145146040405,
+      "namespace": "global",
+      "key": "new",
+      "value": "bad",
+      "value_type": "string",
+      "description": null,
+      "owner_id": 79940223061,
+      "created_at": "2021-06-02T03:59:57-04:00",
+      "updated_at": "2021-06-02T03:59:57-04:00",
+      "owner_resource": "page",
+      "admin_graphql_api_id": "gid:\/\/shopify\/Metafield\/19145146040405"
+    },
+    {
+      "id": 19147349262421,
+      "namespace": "global",
+      "key": "title_tag",
+      "value": "SEO page tital",
+      "value_type": "string",
+      "description": null,
+      "owner_id": 79940223061,
+      "created_at": "2021-06-03T03:41:41-04:00",
+      "updated_at": "2021-06-03T03:41:41-04:00",
+      "owner_resource": "page",
+      "admin_graphql_api_id": "gid:\/\/shopify\/Metafield\/19147349262421"
+    },
+    {
+      "id": 19147349295189,
+      "namespace": "global",
+      "key": "description_tag",
+      "value": "SEO page description",
+      "value_type": "string",
+      "description": null,
+      "owner_id": 79940223061,
+      "created_at": "2021-06-03T03:41:41-04:00",
+      "updated_at": "2021-06-03T03:41:41-04:00",
+      "owner_resource": "page",
+      "admin_graphql_api_id": "gid:\/\/shopify\/Metafield\/19147349295189"
+    }
+  ]
+}
