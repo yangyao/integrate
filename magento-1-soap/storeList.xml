@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+    xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+    xmlns:ns1="urn:Magento"
+    xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+    <SOAP-ENV:Body>
+        <ns1:storeListResponse>
+            <stores SOAP-ENC:arrayType="ns1:storeEntity[4]" xsi:type="ns1:storeEntityArray">
+                <item xsi:type="ns1:storeEntity">
+                    <store_id xsi:type="xsd:int">1</store_id>
+                    <code xsi:type="xsd:string">default</code>
+                    <website_id xsi:type="xsd:int">1</website_id>
+                    <group_id xsi:type="xsd:int">1</group_id>
+                    <name xsi:type="xsd:string">Default Store View</name>
+                    <sort_order xsi:type="xsd:int">0</sort_order>
+                    <is_active xsi:type="xsd:int">1</is_active>
+                </item>
+                <item xsi:type="ns1:storeEntity">
+                    <store_id xsi:type="xsd:int">4</store_id>
+                    <code xsi:type="xsd:string">guoviewtest</code>
+                    <website_id xsi:type="xsd:int">2</website_id>
+                    <group_id xsi:type="xsd:int">3</group_id>
+                    <name xsi:type="xsd:string">guo-view-test</name>
+                    <sort_order xsi:type="xsd:int">1</sort_order>
+                    <is_active xsi:type="xsd:int">0</is_active>
+                </item>
+                <item xsi:type="ns1:storeEntity">
+                    <store_id xsi:type="xsd:int">3</store_id>
+                    <code xsi:type="xsd:string">guostoreview</code>
+                    <website_id xsi:type="xsd:int">1</website_id>
+                    <group_id xsi:type="xsd:int">2</group_id>
+                    <name xsi:type="xsd:string">guostoreview</name>
+                    <sort_order xsi:type="xsd:int">1</sort_order>
+                    <is_active xsi:type="xsd:int">0</is_active>
+                </item>
+                <item xsi:type="ns1:storeEntity">
+                    <store_id xsi:type="xsd:int">2</store_id>
+                    <code xsi:type="xsd:string">guotestview</code>
+                    <website_id xsi:type="xsd:int">1</website_id>
+                    <group_id xsi:type="xsd:int">2</group_id>
+                    <name xsi:type="xsd:string">guotestview</name>
+                    <sort_order xsi:type="xsd:int">1</sort_order>
+                    <is_active xsi:type="xsd:int">0</is_active>
+                </item>
+            </stores>
+        </ns1:storeListResponse>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
