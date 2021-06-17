@@ -1,0 +1,122 @@
+{
+    "product": {
+      "id": "fb072756-e0d2-46dc-8a39-31287720f386",
+      "title": "iPhone X",
+      "brief": "iPhone X - slug",
+      "description": "<p>iPhone X</p>\n<p>New iPhone for everyone.</p>\n<p>test webhook up</p>",
+      "vendor": "apple",
+      "vendor_url": "https://apple.com",
+      "has_only_default_variant": false,
+      "requires_shipping": true,
+      "taxable": false,
+      "inventory_tracking": false,
+      "inventory_policy": "",
+      "inventory_quantity": 0,
+      "published": true,
+      "published_at": "2021-05-07T03:12:28Z",
+      "created_at": "2021-05-07T03:12:28Z",
+      "updated_at": "2021-06-16T08:19:41Z",
+      "note": "",
+      "meta_title": "iPhone X",
+      "meta_description": "iPhone X\nNew iPhone for everyone.\ntest webhook up",
+      "meta_keyword": null,
+      "handle": "iphone-x",
+      "need_variant_image": false,
+      "tags": "phone,apple",
+      "spu": "iPhoneX",
+      "image": {
+        "src": "//img.staticdj.com/133dee95705e0695a6b930385443cd61.png",
+        "width": 256,
+        "height": 256,
+        "path": "133dee95705e0695a6b930385443cd61.png"
+      },
+      "images": [
+        {
+          "id": "239e072e-47c1-434c-8922-d6e6c11acc22",
+          "product_id": "fb072756-e0d2-46dc-8a39-31287720f386",
+          "position": 1,
+          "created_at": "2021-05-07T03:12:28Z",
+          "updated_at": "2021-05-07T03:12:28Z",
+          "src": "//img.staticdj.com/133dee95705e0695a6b930385443cd61.png",
+          "width": 256,
+          "height": 256,
+          "path": "133dee95705e0695a6b930385443cd61.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "f7beb0b4-2c42-49a3-8ba1-47558cc7d113",
+          "product_id": "fb072756-e0d2-46dc-8a39-31287720f386",
+          "name": "Storage",
+          "position": 1,
+          "values": [
+            "64G",
+            "128G",
+            "256G"
+          ]
+        }
+      ],
+      "variants": [
+        {
+          "id": "0342e493-8a66-4023-8da7-6adc3657b5dd",
+          "product_id": "fb072756-e0d2-46dc-8a39-31287720f386",
+          "position": 1,
+          "title": "64G",
+          "image": null,
+          "price": "199",
+          "compare_at_price": "200",
+          "weight": "90",
+          "weight_unit": "g",
+          "inventory_quantity": 0,
+          "sku": "X64G",
+          "barcode": "",
+          "note": "",
+          "option1": "64G",
+          "option2": "",
+          "option3": "",
+          "created_at": "2021-05-07T03:12:28Z",
+          "updated_at": "2021-05-07T03:12:28Z"
+        },
+        {
+          "id": "00343d68-62b8-4e80-ba58-b7600a4a24c4",
+          "product_id": "fb072756-e0d2-46dc-8a39-31287720f386",
+          "position": 2,
+          "title": "128G",
+          "image": null,
+          "price": "299",
+          "compare_at_price": "300",
+          "weight": "100",
+          "weight_unit": "g",
+          "inventory_quantity": 0,
+          "sku": "X128G",
+          "barcode": "",
+          "note": "",
+          "option1": "128G",
+          "option2": "",
+          "option3": "",
+          "created_at": "2021-05-07T03:12:28Z",
+          "updated_at": "2021-05-07T03:12:28Z"
+        },
+        {
+          "id": "61a3d46b-a0b4-46b0-a156-2bc3ef1e7614",
+          "product_id": "fb072756-e0d2-46dc-8a39-31287720f386",
+          "position": 3,
+          "title": "256G",
+          "image": null,
+          "price": "399",
+          "compare_at_price": "400",
+          "weight": "110",
+          "weight_unit": "g",
+          "inventory_quantity": 0,
+          "sku": "X256G",
+          "barcode": "",
+          "note": "",
+          "option1": "256G",
+          "option2": "",
+          "option3": "",
+          "created_at": "2021-05-07T03:12:28Z",
+          "updated_at": "2021-05-07T03:12:28Z"
+        }
+      ]
+    }
+  }
