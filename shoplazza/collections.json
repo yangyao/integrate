@@ -1,0 +1,44 @@
+{
+    "collections": [
+        {
+            "id": "25baa273-0f48-4d68-a2f2-14be1975129e",
+            "title": "Test",
+            "description": "",
+            "smart": false,
+            "handle": "test",
+            "created_at": "2021-06-17T00:53:12Z",
+            "updated_at": "2021-06-17T01:08:08Z",
+            "meta_title": "",
+            "image": {
+                "src": "//img.staticdj.com/shirt.png",
+                "alt": "",
+                "width": 100,
+                "height": 100,
+                "path": "shirt.png"
+            },
+            "meta_description": "",
+            "meta_keyword": "",
+            "sort_order": "manual"
+        },
+        {
+            "id": "3c51666c-1c2b-44f1-8867-bf283c9bfdb3",
+            "title": "Apple",
+            "description": "",
+            "smart": false,
+            "handle": "apple",
+            "created_at": "2021-05-07T03:02:42Z",
+            "updated_at": "2021-05-07T03:12:28Z",
+            "meta_title": "",
+            "image": {
+                "src": "//img.staticdj.com/cbd96a9783121dcf022743f5924eb14a.png",
+                "alt": "",
+                "width": 0,
+                "height": 0,
+                "path": "cbd96a9783121dcf022743f5924eb14a.png"
+            },
+            "meta_description": "",
+            "meta_keyword": "",
+            "sort_order": "manual"
+        }
+    ]
+}
