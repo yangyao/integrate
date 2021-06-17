@@ -1,0 +1,163 @@
+{
+    "order": {
+        "id": "131019-ZVI81849",
+        "note": null,
+        "number": "ZVI81849",
+        "financial_status": "waiting",
+        "status": "opened",
+        "cancel_reason": null,
+        "payment_method": "none",
+        "fulfillment_status": "initialled",
+        "discount_code": "AFTERSHIP",
+        "discount_applications": "[{\"type\":\"discount_code\",\"code\":\"AFTERSHIP\",\"discount_amount\":10,\"entitled_product_list\":[{\"product_id\":\"648c98e5-8d7b-4a54-ae10-d50826c4ea37\",\"variant_id\":\"d4a42572-f583-412e-8ca0-548521897e9f\",\"price\":\"99.00\",\"quantity\":3,\"compare_at_price\":\"100.00\"},{\"product_id\":\"648c98e5-8d7b-4a54-ae10-d50826c4ea37\",\"variant_id\":\"ba0e4b1c-b754-4a06-8024-c189a7f680d1\",\"price\":\"66.00\",\"quantity\":1,\"compare_at_price\":\"100.00\"},{\"product_id\":\"648c98e5-8d7b-4a54-ae10-d50826c4ea37\",\"variant_id\":\"88e3b0c1-8f79-4059-9c16-f44d8708d821\",\"price\":\"88.00\",\"quantity\":2,\"compare_at_price\":\"100.00\"}],\"discount_id\":\"f257a31a-8746-47fd-9b0c-f8bb61b22ae2\",\"value_type\":\"fixed_amount\",\"target_type\":\"line_item\",\"target_selection\":\"all\"}]",
+        "customer_note": "just for order 1 test",
+        "browser_ip": "113.89.34.226",
+        "landing_site": "https://yangyao.myshoplaza.com/?dragon=fly",
+        "buyer_accepts_marketing": false,
+        "currency": "USD",
+        "total_price": "582.90",
+        "total_discount": "10.00",
+        "total_tax": "53.90",
+        "total_shipping": "0.00",
+        "sub_total": "539.00",
+        "code_discount_total": "10.00",
+        "line_item_discount_total": "0.00",
+        "tags": "",
+        "created_at": "2021-06-17T01:29:42Z",
+        "updated_at": "2021-06-17T01:34:00Z",
+        "canceled_at": null,
+        "customer_deleted_at": null,
+        "deleted_at": null,
+        "placed_at": null,
+        "total_refund_price": "0.00",
+        "total_refund_tax": "0.00",
+        "total_refund_discount": "0.00",
+        "refund_status": null,
+        "shipping_line": {
+            "name": "Free"
+        },
+        "customer": {
+            "email": "fw.he@aftership.com",
+            "first_name": "8-1-a",
+            "last_name": "8-2",
+            "phone": null,
+            "created_at": "2021-06-17T01:32:55Z",
+            "updated_at": "2021-06-17T01:32:55Z",
+            "orders_count": null,
+            "total_spent": null
+        },
+        "shipping_address": {
+            "first_name": "8-1-a",
+            "last_name": "8-2",
+            "phone": "+86 158 1724 8373",
+            "city": "guangdong",
+            "zip": "580000",
+            "province": "Guangdong",
+            "country": "China",
+            "company": "",
+            "latitude": null,
+            "longitude": null,
+            "country_code": "CN",
+            "province_code": "CN-GD",
+            "email": "fw.he@aftership.com",
+            "phone_area_code": "CN_86",
+            "area": "",
+            "address1": "nanshan",
+            "address2": "dashi",
+            "name": "8-1-a 8-2",
+            "extra_info": null
+        },
+        "billing_address": null,
+        "payment_line": null,
+        "line_items": [
+            {
+                "id": "4b4bae99-b924-410f-9792-428e26d769f0",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "variant_id": "88e3b0c1-8f79-4059-9c16-f44d8708d821",
+                "variant_title": "XL",
+                "product_title": "test pp 1",
+                "product_handle": "test-pp-1",
+                "quantity": 2,
+                "note": null,
+                "fulfillment_status": "waiting",
+                "sku": "TT1-02",
+                "weight_unit": "kg",
+                "vendor": "jingdong",
+                "product_url": "/products/test-pp-1",
+                "compare_at_price": "100.00",
+                "image": "//cdn.shoplazza.com/d4d1b466548f4ce86ff149a83bf5e588.png",
+                "price": "88.00",
+                "total": "176.00",
+                "weight": "0.50",
+                "properties": [
+                    {
+                        "name": "size",
+                        "value": "XL"
+                    }
+                ],
+                "custom_properties": null,
+                "refund_quantity": 0,
+                "refund_total": "0.00"
+            },
+            {
+                "id": "5eb57983-3153-48e2-8f70-17cc40b4e978",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "variant_id": "ba0e4b1c-b754-4a06-8024-c189a7f680d1",
+                "variant_title": "M",
+                "product_title": "test pp 1",
+                "product_handle": "test-pp-1",
+                "quantity": 1,
+                "note": null,
+                "fulfillment_status": "waiting",
+                "sku": "TT1-S-1",
+                "weight_unit": "kg",
+                "vendor": "jingdong",
+                "product_url": "/products/test-pp-1",
+                "compare_at_price": "100.00",
+                "image": "//cdn.shoplazza.com/d4d1b466548f4ce86ff149a83bf5e588.png",
+                "price": "66.00",
+                "total": "66.00",
+                "weight": "0.10",
+                "properties": [
+                    {
+                        "name": "size",
+                        "value": "M"
+                    }
+                ],
+                "custom_properties": null,
+                "refund_quantity": 0,
+                "refund_total": "0.00"
+            },
+            {
+                "id": "c0970a35-1968-44b7-8f1c-25c5e92eb55b",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "variant_id": "d4a42572-f583-412e-8ca0-548521897e9f",
+                "variant_title": "X",
+                "product_title": "test pp 1",
+                "product_handle": "test-pp-1",
+                "quantity": 3,
+                "note": null,
+                "fulfillment_status": "waiting",
+                "sku": "TT1-01",
+                "weight_unit": "kg",
+                "vendor": "jingdong",
+                "product_url": "/products/test-pp-1",
+                "compare_at_price": "100.00",
+                "image": "//cdn.shoplazza.com/e71f5c0c3a467a7e5e10136506a5737c.png",
+                "price": "99.00",
+                "total": "297.00",
+                "weight": "1.00",
+                "properties": [
+                    {
+                        "name": "size",
+                        "value": "X"
+                    }
+                ],
+                "custom_properties": null,
+                "refund_quantity": 0,
+                "refund_total": "0.00"
+            }
+        ],
+        "fulfillments": []
+    }
+}

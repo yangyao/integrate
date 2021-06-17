@@ -1,0 +1,196 @@
+{
+    "product": {
+        "id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+        "title": "test pp 1",
+        "brief": "test pp 1 - sub title",
+        "vendor": "jingdong",
+        "vendor_url": "http://baidu.com",
+        "has_only_default_variant": false,
+        "requires_shipping": true,
+        "taxable": true,
+        "inventory_tracking": true,
+        "inventory_policy": "continue",
+        "inventory_quantity": 284,
+        "published": true,
+        "handle": "test-pp-1",
+        "need_variant_image": true,
+        "note": "",
+        "description": "<p>just for a test</p>\n<p><img src=\"https://cdn.shoplazza.com/e71f5c0c3a467a7e5e10136506a5737c.png\" alt=\"\" width=\"2732\" height=\"1410\" /><img src=\"https://cdn.shoplazza.com/d4d1b466548f4ce86ff149a83bf5e588.png\" alt=\"\" width=\"1782\" height=\"1432\" /></p>",
+        "updated_at": "2021-06-17T01:08:07Z",
+        "created_at": "2021-06-17T01:08:07Z",
+        "spu": "TTP",
+        "fake_sales": 100,
+        "display_fake_sales": true,
+        "tags": "test01,test01-1,test01-2",
+        "image": {
+            "src": "//img.staticdj.com/d4d1b466548f4ce86ff149a83bf5e588.png",
+            "width": 1782,
+            "height": 1432,
+            "path": "d4d1b466548f4ce86ff149a83bf5e588.png",
+            "alt": ""
+        },
+        "meta_title": "test pp 1",
+        "meta_description": "just for a test",
+        "meta_keyword": "test01,test011,test012",
+        "published_at": "2021-06-17T01:08:07Z",
+        "options": [
+            {
+                "id": "24f50f7d-5f9b-448b-ad79-efc09db2eb64",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "name": "size",
+                "position": 1,
+                "values": [
+                    "X",
+                    "XL",
+                    "XXL",
+                    "M"
+                ]
+            }
+        ],
+        "variants": [
+            {
+                "id": "d4a42572-f583-412e-8ca0-548521897e9f",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "title": "X",
+                "sku": "TT1-01",
+                "position": 1,
+                "option1": "X",
+                "option2": "",
+                "option3": "",
+                "barcode": "1111111",
+                "weight_unit": "kg",
+                "inventory_quantity": 97,
+                "note": "001",
+                "created_at": "2021-06-17T01:08:07Z",
+                "updated_at": "2021-06-17T01:08:07Z",
+                "image_id": "bac708c9-8c3a-415e-9a82-55431f5c07ca",
+                "image": {
+                    "src": "//img.staticdj.com/e71f5c0c3a467a7e5e10136506a5737c.png",
+                    "width": 2732,
+                    "height": 1410,
+                    "path": "e71f5c0c3a467a7e5e10136506a5737c.png",
+                    "alt": ""
+                },
+                "weight": "1.00",
+                "compare_at_price": "100.00",
+                "price": "99.00"
+            },
+            {
+                "id": "88e3b0c1-8f79-4059-9c16-f44d8708d821",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "title": "XL",
+                "sku": "TT1-02",
+                "position": 2,
+                "option1": "XL",
+                "option2": "",
+                "option3": "",
+                "barcode": "222222",
+                "weight_unit": "kg",
+                "inventory_quantity": 80,
+                "note": "002",
+                "created_at": "2021-06-17T01:08:07Z",
+                "updated_at": "2021-06-17T01:08:07Z",
+                "image_id": "d21f0ff8-48c0-4718-b949-880a6980b853",
+                "image": {
+                    "src": "//img.staticdj.com/d4d1b466548f4ce86ff149a83bf5e588.png",
+                    "width": 1782,
+                    "height": 1432,
+                    "path": "d4d1b466548f4ce86ff149a83bf5e588.png",
+                    "alt": ""
+                },
+                "weight": "0.50",
+                "compare_at_price": "100.00",
+                "price": "88.00"
+            },
+            {
+                "id": "c7c4ba68-b220-4eef-b252-150be37210c3",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "title": "XXL",
+                "sku": "TT1-03",
+                "position": 3,
+                "option1": "XXL",
+                "option2": "",
+                "option3": "",
+                "barcode": "3333333",
+                "weight_unit": "kg",
+                "inventory_quantity": 60,
+                "note": "003",
+                "created_at": "2021-06-17T01:08:07Z",
+                "updated_at": "2021-06-17T01:08:07Z",
+                "image_id": "4fb04568-ad25-4b2d-96dc-64871e916de5",
+                "image": {
+                    "src": "//img.staticdj.com/4ac04857e068be47638681cb3cdbbcff.png",
+                    "width": 1852,
+                    "height": 1760,
+                    "path": "4ac04857e068be47638681cb3cdbbcff.png",
+                    "alt": ""
+                },
+                "weight": "0.30",
+                "compare_at_price": "100.00",
+                "price": "77.00"
+            },
+            {
+                "id": "ba0e4b1c-b754-4a06-8024-c189a7f680d1",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "title": "M",
+                "sku": "TT1-S-1",
+                "position": 4,
+                "option1": "M",
+                "option2": "",
+                "option3": "",
+                "barcode": "55555555",
+                "weight_unit": "kg",
+                "inventory_quantity": 50,
+                "note": "single-01",
+                "created_at": "2021-06-17T01:08:07Z",
+                "updated_at": "2021-06-17T01:08:07Z",
+                "image_id": "d21f0ff8-48c0-4718-b949-880a6980b853",
+                "image": {
+                    "src": "//img.staticdj.com/d4d1b466548f4ce86ff149a83bf5e588.png",
+                    "width": 1782,
+                    "height": 1432,
+                    "path": "d4d1b466548f4ce86ff149a83bf5e588.png",
+                    "alt": ""
+                },
+                "weight": "0.10",
+                "compare_at_price": "100.00",
+                "price": "66.00"
+            }
+        ],
+        "images": [
+            {
+                "id": "d21f0ff8-48c0-4718-b949-880a6980b853",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "position": 1,
+                "src": "//img.staticdj.com/d4d1b466548f4ce86ff149a83bf5e588.png",
+                "width": 1782,
+                "height": 1432,
+                "alt": "",
+                "created_at": "2021-06-17T01:08:07Z",
+                "updated_at": "2021-06-17T01:08:07Z"
+            },
+            {
+                "id": "bac708c9-8c3a-415e-9a82-55431f5c07ca",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "position": 2,
+                "src": "//img.staticdj.com/e71f5c0c3a467a7e5e10136506a5737c.png",
+                "width": 2732,
+                "height": 1410,
+                "alt": "",
+                "created_at": "2021-06-17T01:08:07Z",
+                "updated_at": "2021-06-17T01:08:07Z"
+            },
+            {
+                "id": "4fb04568-ad25-4b2d-96dc-64871e916de5",
+                "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+                "position": 3,
+                "src": "//img.staticdj.com/4ac04857e068be47638681cb3cdbbcff.png",
+                "width": 1852,
+                "height": 1760,
+                "alt": "",
+                "created_at": "2021-06-17T01:08:07Z",
+                "updated_at": "2021-06-17T01:08:07Z"
+            }
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "shop": {
+        "id": "131019",
+        "name": "yangyao",
+        "email": "y.yang@aftership.com",
+        "country_code": "",
+        "province_code": "ALL",
+        "address1": "",
+        "address2": "",
+        "zip": "",
+        "city": "",
+        "phone": "13265883816",
+        "primary_locale": "en-US",
+        "currency": "USD",
+        "customer_email": "y.yang@aftership.com",
+        "timezone": "+08004",
+        "domain": "yangyao.myshoplaza.com",
+        "shop_owner": "yangyao",
+        "account": "13265883816",
+        "icon": {
+            "src": "",
+            "alt": "",
+            "path": ""
+        },
+        "created_at": "2021-05-07T11:00:07Z",
+        "updated_at": "2021-05-07T11:21:00Z"
+    }
+}
