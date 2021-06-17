@@ -1,0 +1,20 @@
+{
+    "collects": [
+        {
+            "id": "d66a57ed-c979-41dd-8916-c1a442bdfa52",
+            "product_id": "648c98e5-8d7b-4a54-ae10-d50826c4ea37",
+            "collection_id": "25baa273-0f48-4d68-a2f2-14be1975129e",
+            "position": 0,
+            "created_at": "2021-06-17T01:08:08Z",
+            "updated_at": "2021-06-17T01:08:08Z"
+        },
+        {
+            "id": "8dbd3e64-d685-4c3b-85ae-c8af1f856e66",
+            "product_id": "fb072756-e0d2-46dc-8a39-31287720f386",
+            "collection_id": "3c51666c-1c2b-44f1-8867-bf283c9bfdb3",
+            "position": 0,
+            "created_at": "2021-05-07T03:12:28Z",
+            "updated_at": "2021-05-07T03:12:28Z"
+        }
+    ]
+}
