@@ -1,0 +1,429 @@
+{
+	"_v": "20.8",
+	"_type": "product_search_result",
+	"count": 1,
+	"expand": ["all"],
+	"hits": [{
+		"_type": "product",
+        "_resource_state": "24856c127069e4505c0e161a9f0680c031f156c91fadf809ba68304d0150d910",
+        // The catalog categories that the product is assigned to
+		"assigned_categories": [{
+			"_type": "catalog_category_id",
+			"catalog_id": "mcm_navigation_catalog_JP",
+			"category_id": "ss-19"
+		}],
+		"ats": 21, // The ATS(Available To Sell) inventory value of the product. This is a calculated value.
+		"brand": "MCM",
+		"creation_date": "2020-11-23T18:45:12.000Z",
+		"ean": "8809578656372",
+        "id": "MZZ9SRY01JA001", // The id (SKU) of the product.
+        // The image(s) assigned to the product.
+		"image": {
+			"_type": "media_file",
+			"abs_url": "https://images.mcmworldwide.com/i/mcmworldwide/MZZ9SRY01JA001_01?%24plp-small%24",
+			"alt": {
+				"default": "Raymonde Transparent Baggage Tag"
+			},
+			"path": "MZZ9SRY01JA001_01?$plp-small$",
+			"title": {
+				"default": "Raymonde Transparent Baggage Tag"
+			}
+        },
+        // The array of product image groups.
+		"image_groups": [{
+			"_type": "image_group",
+			"images": [{
+				"_type": "media_file",
+				"abs_url": "https://images.mcmworldwide.com/i/mcmworldwide/MZZ9SRY01JA001_01?%24plp-small%24",
+				"alt": {
+					"default": "Raymonde Transparent Baggage Tag"
+				},
+				"path": "MZZ9SRY01JA001_01?$plp-small$",
+				"title": {
+					"default": "Raymonde Transparent Baggage Tag"
+				}
+			}],
+			"variation_attributes": [{
+				"_type": "variation_attribute",
+				"id": "color",
+				"values": [{
+					"_type": "variation_attribute_value",
+					"value": "JA"
+				}]
+			}],
+			"view_type": "large"
+		}, {
+			"_type": "image_group",
+			"images": [{
+				"_type": "media_file",
+				"abs_url": "https://images.mcmworldwide.com/i/mcmworldwide/MZZ9SRY01MD001_01?%24plp-small%24",
+				"alt": {
+					"default": "Raymonde Transparent Baggage Tag"
+				},
+				"path": "MZZ9SRY01MD001_01?$plp-small$",
+				"title": {
+					"default": "Raymonde Transparent Baggage Tag"
+				}
+			}],
+			"variation_attributes": [{
+				"_type": "variation_attribute",
+				"id": "color",
+				"values": [{
+					"_type": "variation_attribute_value",
+					"value": "MD"
+				}]
+			}],
+			"view_type": "large"
+		}, {
+			"_type": "image_group",
+			"images": [{
+				"_type": "media_file",
+				"abs_url": "https://images.mcmworldwide.com/i/mcmworldwide/MZZ9SRY01JA001_01?%24plp-small%24",
+				"alt": {
+					"default": "Raymonde Transparent Baggage Tag"
+				},
+				"path": "MZZ9SRY01JA001_01?$plp-small$",
+				"title": {
+					"default": "Raymonde Transparent Baggage Tag"
+				}
+			}],
+			"variation_attributes": [{
+				"_type": "variation_attribute",
+				"id": "color",
+				"values": [{
+					"_type": "variation_attribute_value",
+					"value": "JA"
+				}]
+			}],
+			"view_type": "medium"
+		}, {
+			"_type": "image_group",
+			"images": [{
+				"_type": "media_file",
+				"abs_url": "https://images.mcmworldwide.com/i/mcmworldwide/MZZ9SRY01MD001_01?%24plp-small%24",
+				"alt": {
+					"default": "Raymonde Transparent Baggage Tag"
+				},
+				"path": "MZZ9SRY01MD001_01?$plp-small$",
+				"title": {
+					"default": "Raymonde Transparent Baggage Tag"
+				}
+			}],
+			"variation_attributes": [{
+				"_type": "variation_attribute",
+				"id": "color",
+				"values": [{
+					"_type": "variation_attribute_value",
+					"value": "MD"
+				}]
+			}],
+			"view_type": "medium"
+		}, {
+			"_type": "image_group",
+			"images": [{
+				"_type": "media_file",
+				"abs_url": "https://images.mcmworldwide.com/i/mcmworldwide/MZZ9SRY01JA001_01?%24plp-small%24",
+				"alt": {
+					"default": "Raymonde Transparent Baggage Tag"
+				},
+				"path": "MZZ9SRY01JA001_01?$plp-small$",
+				"title": {
+					"default": "Raymonde Transparent Baggage Tag"
+				}
+			}],
+			"variation_attributes": [{
+				"_type": "variation_attribute",
+				"id": "color",
+				"values": [{
+					"_type": "variation_attribute_value",
+					"value": "JA"
+				}]
+			}],
+			"view_type": "small"
+		}, {
+			"_type": "image_group",
+			"images": [{
+				"_type": "media_file",
+				"abs_url": "https://images.mcmworldwide.com/i/mcmworldwide/MZZ9SRY01MD001_01?%24plp-small%24",
+				"alt": {
+					"default": "Raymonde Transparent Baggage Tag"
+				},
+				"path": "MZZ9SRY01MD001_01?$plp-small$",
+				"title": {
+					"default": "Raymonde Transparent Baggage Tag"
+				}
+			}],
+			"variation_attributes": [{
+				"_type": "variation_attribute",
+				"id": "color",
+				"values": [{
+					"_type": "variation_attribute_value",
+					"value": "MD"
+				}]
+			}],
+			"view_type": "small"
+		}, {
+			"_type": "image_group",
+			"images": [{
+				"_type": "media_file",
+				"abs_url": "https://images.mcmworldwide.com/i/mcmworldwide/MZZ9SRY01JA001_01?%24plp-small%24",
+				"alt": {
+					"default": "Raymonde Transparent Baggage Tag"
+				},
+				"path": "MZZ9SRY01JA001_01?$plp-small$",
+				"title": {
+					"default": "Raymonde Transparent Baggage Tag"
+				}
+			}],
+			"variation_attributes": [{
+				"_type": "variation_attribute",
+				"id": "color",
+				"values": [{
+					"_type": "variation_attribute_value",
+					"value": "JA"
+				}]
+			}],
+			"view_type": "swatch"
+		}, {
+			"_type": "image_group",
+			"images": [{
+				"_type": "media_file",
+				"abs_url": "https://images.mcmworldwide.com/i/mcmworldwide/MZZ9SRY01MD001_01?%24plp-small%24",
+				"alt": {
+					"default": "Raymonde Transparent Baggage Tag"
+				},
+				"path": "MZZ9SRY01MD001_01?$plp-small$",
+				"title": {
+					"default": "Raymonde Transparent Baggage Tag"
+				}
+			}],
+			"variation_attributes": [{
+				"_type": "variation_attribute",
+				"id": "color",
+				"values": [{
+					"_type": "variation_attribute_value",
+					"value": "MD"
+				}]
+			}],
+			"view_type": "swatch"
+		}],
+		"in_stock": true,
+		"last_modified": "2021-01-21T12:43:01.000Z",
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MZZ9SRY01JA001",
+		"long_description": {
+			"default": {
+                "_type": "markup_text",
+                // The rendered HTML
+                "markup": "Get lifted with our new aeronautical inspired baggage tag crafted to mimic aviation hangtags in transparent PU with a paracord charm and sturdy carabiner clasp. Attach it to any bag or key ring for a modern, utilitarian look.",
+                // The raw markup text
+				"source": "Get lifted with our new aeronautical inspired baggage tag crafted to mimic aviation hangtags in transparent PU with a paracord charm and sturdy carabiner clasp. Attach it to any bag or key ring for a modern, utilitarian look."
+			},
+			"kr-KR": {
+				"_type": "markup_text",
+				"markup": "비행에서 영감을 얻어 항공기 행태그를 본따 투명 PU 소재로 제작한 배기지 태그, 파라코드 참과 견고한 카라비너 잠금쇠로 스타일을 한층 고양시키세요. . 백이나 키링에 달아 모던하고 실용적인 룩을 완성할 수 있습니다.",
+				"source": "비행에서 영감을 얻어 항공기 행태그를 본따 투명 PU 소재로 제작한 배기지 태그, 파라코드 참과 견고한 카라비너 잠금쇠로 스타일을 한층 고양시키세요. . 백이나 키링에 달아 모던하고 실용적인 룩을 완성할 수 있습니다."
+			},
+			"ko-KR": {
+				"_type": "markup_text",
+				"markup": "비행에서 영감을 얻어 항공기 행태그를 본따 투명 PU 소재로 제작한 배기지 태그, 파라코드 참과 견고한 카라비너 잠금쇠로 스타일을 한층 고양시키세요. . 백이나 키링에 달아 모던하고 실용적인 룩을 완성할 수 있습니다.",
+				"source": "비행에서 영감을 얻어 항공기 행태그를 본따 투명 PU 소재로 제작한 배기지 태그, 파라코드 참과 견고한 카라비너 잠금쇠로 스타일을 한층 고양시키세요. . 백이나 키링에 달아 모던하고 실용적인 룩을 완성할 수 있습니다."
+			},
+			"zh-CN": {
+				"_type": "markup_text",
+				"markup": "这款飞行灵感行李吊牌让人充满飞行的渴望，其设计模仿飞行吊牌，配上绳结吊饰及结实的扣环。可系在任何一款包或钥匙圈上，展现时尚与实用的风格。",
+				"source": "这款飞行灵感行李吊牌让人充满飞行的渴望，其设计模仿飞行吊牌，配上绳结吊饰及结实的扣环。可系在任何一款包或钥匙圈上，展现时尚与实用的风格。"
+			},
+			"ja-JP": {
+				"_type": "markup_text",
+				"markup": "空の旅に着想を得て作られた、航空用ハングタグを模ったMCMの新作バゲージタグ。透明なPU素材を使用し、パラコードのチャームと丈夫なカラビナ式のクラスプを備えて仕上げました。バッグはもちろん、キーリングに取り付けて、トラベラー風アレンジをお楽しみいただけます。",
+				"source": "空の旅に着想を得て作られた、航空用ハングタグを模ったMCMの新作バゲージタグ。透明なPU素材を使用し、パラコードのチャームと丈夫なカラビナ式のクラスプを備えて仕上げました。バッグはもちろん、キーリングに取り付けて、トラベラー風アレンジをお楽しみいただけます。"
+			}
+		},
+		"name": {
+			"default": "Raymonde Transparent Baggage Tag",
+			"kr-KR": "레이먼 투명 러기지 태그",
+			"ko-KR": "레이먼 투명 러기지 태그",
+			"zh-CN": "Raymonde透明行李吊牌",
+			"ja-JP": "〈レイモンド〉 クリア バゲージタグ"
+		},
+		"online": false,  // The flag that indicates if the product is online, or not. This is a calculated value.
+		"online_flag": {
+			"default": false,
+			"default@MCM-CN": false,
+			"default@MCM-JP": false,
+			"default@MCM-KR": false
+		},
+		"owning_catalog_id": "MCM_Master_Product_Catalog",  // The ID of the catalog that owns the product.
+		"price": 225,
+		"price_currency": "USD",
+        "price_per_unit": 225,
+        // The catalog categories that are primary for the product
+		"primary_categories": [{
+			"_type": "catalog_category_id",
+			"catalog_id": "mcm_navigation_catalog_JP",
+			"category_id": "ss-19"
+		}],
+		"searchable": {
+			"default": true
+		},
+		"short_description": {
+			"default": {
+				"_type": "markup_text",
+				"markup": "Get lifted with our new aeronautical inspired baggage tag.",
+				"source": "Get lifted with our new aeronautical inspired baggage tag."
+			},
+			"kr-KR": {
+				"_type": "markup_text",
+				"markup": "비행에 영감을 얻은 배기지 태그로 스타일을 한층 고양시키세요.",
+				"source": "비행에 영감을 얻은 배기지 태그로 스타일을 한층 고양시키세요."
+			},
+			"ko-KR": {
+				"_type": "markup_text",
+				"markup": "비행에 영감을 얻은 배기지 태그로 스타일을 한층 고양시키세요.",
+				"source": "비행에 영감을 얻은 배기지 태그로 스타일을 한층 고양시키세요."
+			},
+			"zh-CN": {
+				"_type": "markup_text",
+				"markup": "此新款飞行灵感行李吊牌让人充满飞行的渴望。",
+				"source": "此新款飞行灵感行李吊牌让人充满飞行的渴望。"
+			},
+			"ja-JP": {
+				"_type": "markup_text",
+				"markup": "空の旅をインスピレーションにしたMCMのバゲージタグで、もっと高くへ。",
+				"source": "空の旅をインスピレーションにしたMCMのバゲージタグで、もっと高くへ。"
+			}
+		},
+		"type": {
+			"_type": "product_type",
+			"variant": true
+		},
+		"unit_quantity": 0,
+		"c_bullet1": {
+			"default": "Carabiner clasp"
+		},
+		"c_bullet10": {
+			"default": "Made in Korea",
+			"kr-KR": "Made in Korea",
+			"ko-KR": "Made in Korea",
+			"zh-CN": "韩国制造",
+			"ja-JP": "韓国製"
+		},
+		"c_bullet11": {
+			"kr-KR": "소재 : PU",
+			"ko-KR": "소재 : PU"
+		},
+		"c_bullet2": {
+			"default": "Carabiner clasp",
+			"kr-KR": "카라비너 잠금쇠",
+			"ko-KR": "카라비너 잠금쇠",
+			"zh-CN": "扣环锚",
+			"ja-JP": "カラビナ式の留め具"
+		},
+		"c_bullet3": {
+			"default": "MCM Baggage tag",
+			"kr-KR": "MCM 배기지 태그",
+			"ko-KR": "MCM 배기지 태그",
+			"zh-CN": "MCM行李吊牌",
+			"ja-JP": "MCM バゲージタグ"
+		},
+		"c_bullet4": {
+			"default": "Paracord charm",
+			"kr-KR": "파라코드 참",
+			"ko-KR": "파라코드 참",
+			"zh-CN": "绳结吊饰",
+			"ja-JP": "パラコード チャーム"
+		},
+		"c_care": {
+			"default": "ca-pdp-care"
+		},
+		"c_color": "JA",
+		"c_colorHexCode": "568C40",
+		"c_commodityCode": "PC040200",
+		"c_countryOfOrigin": {
+			"default": "South Korea"
+		},
+		"c_descriptionComodityCode": {
+			"default": "Baggage Tag"
+		},
+		"c_gender": {
+			"default": "Male"
+		},
+		"c_googleProductTypeLevel1": "Accessories",
+		"c_googleProductTypeLevel2": "Travel",
+		"c_harmonizedTariffCode": "3926903000",
+		"c_isSale": false,
+		"c_itemHeightCms": {
+			"default": "0.3"
+		},
+		"c_itemHeightInches": {
+			"default": "0.1"
+		},
+		"c_itemLengthCms": {
+			"default": "6.0"
+		},
+		"c_itemLengthInches": {
+			"default": "2.4"
+		},
+		"c_itemWidthCms": {
+			"default": "54.0"
+		},
+		"c_itemWidthInches": {
+			"default": "21.3"
+		},
+		"c_localeURLs_APAC_CN": "[{\"locale\":\"zh-CN\",\"URL\":\"https://cn.mcmworldwide.com/zh_CN/%E5%B9%B4%E4%B8%AD%E6%96%B0%E6%83%A0/raymonde%E9%80%8F%E6%98%8E%E8%A1%8C%E6%9D%8E%E5%90%8A%E7%89%8C/MZZ9SRY01JA001.html\"},{\"locale\":\"en-CN\",\"URL\":\"https://cn.mcmworldwide.com/en_CN/mid-season-sale/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"}]",
+		"c_localeURLs_APAC_JP": "[{\"locale\":\"ja-JP\",\"URL\":\"https://jp.mcmworldwide.com/ja_JP/%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3/2019%E5%B9%B4%E6%98%A5%E5%A4%8F/%E3%80%88%E3%83%AC%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%80%89-%E3%82%AF%E3%83%AA%E3%82%A2-%E3%83%90%E3%82%B2%E3%83%BC%E3%82%B8%E3%82%BF%E3%82%B0/MZZ9SRY01JA001.html\"},{\"locale\":\"en-JP\",\"URL\":\"https://jp.mcmworldwide.com/en_JP/collections/spring-%2F-summer-19/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"}]",
+		"c_localeURLs_APAC_KR": "[{\"locale\":\"ko-KR\",\"URL\":\"https://kr.mcmworldwide.com/kr_KR/%ED%8A%B8%EB%9E%98%EB%B8%94/%EC%97%AC%ED%96%89-%EC%A0%9C%ED%92%88/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/%EB%A0%88%EC%9D%B4%EB%A8%BC-%ED%88%AC%EB%AA%85-%EB%9F%AC%EA%B8%B0%EC%A7%80-%ED%83%9C%EA%B7%B8/MZZ9SRY01JA001.html\"}]",
+		"c_localeURLs_EMEA_CH": "[{\"locale\":\"en-CH\",\"URL\":\"https://ch.mcmworldwide.com/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"de-CH\",\"URL\":\"https://ch.mcmworldwide.com/mode/raymonde-transparenter-gep%C3%A4ckanh%C3%A4nger/MZZ9SRY01JA001.html\"},{\"locale\":\"fr-CH\",\"URL\":\"https://ch.mcmworldwide.com/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"}]",
+		"c_localeURLs_EMEA_DE": "[{\"locale\":\"de-DE\",\"URL\":\"https://de.mcmworldwide.com/de_DE/summer-days/raymonde-transparenter-gep%C3%A4ckanh%C3%A4nger/MZZ9SRY01JA001.html\"},{\"locale\":\"en-DE\",\"URL\":\"https://de.mcmworldwide.com/en_DE/summer-days/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"}]",
+		"c_localeURLs_EMEA_EU": "[{\"locale\":\"en-AT\",\"URL\":\"https://at-deveu02.mcmworldwide.com/en_AT/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"fr-FR\",\"URL\":\"https://fr.mcmworldwide.com/fr_FR/mode/%C3%A9tiquette-de-bagage-transparente-raymonde/MZZ9SRY01JA001.html\"},{\"locale\":\"en-CZ\",\"URL\":\"https://cz-deveu02.mcmworldwide.com/en_CZ/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-NL\",\"URL\":\"https://nl-deveu02.mcmworldwide.com/en_NL/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-PL\",\"URL\":\"https://pl.mcmworldwide.com/en_PL/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-PT\",\"URL\":\"https://pt.mcmworldwide.com/en_PT/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-BE\",\"URL\":\"https://be-deveu02.mcmworldwide.com/en_BE/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-FI\",\"URL\":\"https://fi-deveu02.mcmworldwide.com/en_FI/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-LU\",\"URL\":\"https://lu-devEU02.mcmworldwide.com/en_LU/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-DK\",\"URL\":\"https://dk-deveu02.mcmworldwide.com/en_DK/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-ES\",\"URL\":\"https://es.mcmworldwide.com/en_ES/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"de-AT\",\"URL\":\"https://at-deveu02.mcmworldwide.com/de_AT/mode/raymonde-transparenter-gep%C3%A4ckanh%C3%A4nger/MZZ9SRY01JA001.html\"},{\"locale\":\"en-FR\",\"URL\":\"https://fr.mcmworldwide.com/en_FR/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-GR\",\"URL\":\"https:///en_GR/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-IT\",\"URL\":\"https://it-devEU02.mcmworldwide.com/en_IT/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"},{\"locale\":\"en-SE\",\"URL\":\"https://se.mcmworldwide.com/en_SE/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"}]",
+		"c_localeURLs_EMEA_UK": "[{\"locale\":\"en-GB\",\"URL\":\"https://uk.mcmworldwide.com/fashion/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"}]",
+		"c_localeURLs_NA_CA": "[{\"locale\":\"en-CA\",\"URL\":\"https://ca.mcmworldwide.com/en_CA/women/accessories/charms-keyrings/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"}]",
+		"c_localeURLs_NA_US": "[{\"locale\":\"en-US\",\"URL\":\"https://us.mcmworldwide.com/en_US/cabazon/raymonde-transparent-baggage-tag/MZZ9SRY01JA001.html\"}]",
+		"c_matEmb": "E195",
+		"c_presale": "notpresale",
+		"c_refinementColor": "green",
+		"c_seasonalInfo": "SS19",
+		"c_shape": "Luggage Tag",
+		"c_shipping": {
+			"default": "ca-pdp-shipping"
+		},
+		"c_shpHeightCms": "0",
+		"c_shpHeightInchess": "0.0",
+		"c_shpLengthCms": "0",
+		"c_shpLengthInches": "0.0",
+		"c_shpWidthCms": "0",
+		"c_shpWidthInches": "0.0",
+		"c_size": "FFF"
+	}],
+	"next": {
+		"_type": "result_page",
+		"count": 1,
+		"start": 1
+	},
+	"query": {
+		"filtered_query": {
+			"_type": "filtered_query",
+			"filter": {
+				"range_filter": {
+					"_type": "range_filter",
+					"field": "creation_date",
+					"from": "2020-06-01T00:00:00.000Z",
+					"to": "2021-06-02T00:00:00.000Z"
+				}
+			},
+			"query": {
+				"match_all_query": {
+					"_type": "match_all_query"
+				}
+			}
+		}
+	},
+	"select": "(**)",
+	"sorts": [{
+		"_type": "sort",
+		"field": "creation_date",
+		"sort_order": "desc"
+	}],
+	"start": 0,
+	"total": 20911
+}
