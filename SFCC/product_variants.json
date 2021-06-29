@@ -1,0 +1,169 @@
+{
+	"_v": "20.8",
+	"_type": "variants",
+	"count": 16,
+	"data": [{
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05BK036",
+		"product_id": "MES7S2K05BK036",
+		"variation_values": {
+			"size": "036",
+			"matEmb": "E01",
+			"color": "BK"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05BK037",
+		"product_id": "MES7S2K05BK037",
+		"variation_values": {
+			"size": "037",
+			"matEmb": "E01",
+			"color": "BK"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05BK038",
+		"product_id": "MES7S2K05BK038",
+		"variation_values": {
+			"size": "038",
+			"matEmb": "E01",
+			"color": "BK"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05BK039",
+		"product_id": "MES7S2K05BK039",
+		"variation_values": {
+			"size": "039",
+			"matEmb": "E01",
+			"color": "BK"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05BK040",
+		"product_id": "MES7S2K05BK040",
+		"variation_values": {
+			"size": "040",
+			"matEmb": "E01",
+			"color": "BK"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05CO035",
+		"product_id": "MES7S2K05CO035",
+		"variation_values": {
+			"size": "035",
+			"matEmb": "E01",
+			"color": "CO"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05CO036",
+		"product_id": "MES7S2K05CO036",
+		"variation_values": {
+			"size": "036",
+			"matEmb": "E01",
+			"color": "CO"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05CO037",
+		"product_id": "MES7S2K05CO037",
+		"variation_values": {
+			"size": "037",
+			"matEmb": "E01",
+			"color": "CO"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05CO038",
+		"product_id": "MES7S2K05CO038",
+		"variation_values": {
+			"size": "038",
+			"matEmb": "E01",
+			"color": "CO"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05CO039",
+		"product_id": "MES7S2K05CO039",
+		"variation_values": {
+			"size": "039",
+			"matEmb": "E01",
+			"color": "CO"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05CO040",
+		"product_id": "MES7S2K05CO040",
+		"variation_values": {
+			"size": "040",
+			"matEmb": "E01",
+			"color": "CO"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05RU036",
+		"product_id": "MES7S2K05RU036",
+		"variation_values": {
+			"size": "036",
+			"matEmb": "E01",
+			"color": "RU"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05RU037",
+		"product_id": "MES7S2K05RU037",
+		"variation_values": {
+			"size": "037",
+			"matEmb": "E01",
+			"color": "RU"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05RU038",
+		"product_id": "MES7S2K05RU038",
+		"variation_values": {
+			"size": "038",
+			"matEmb": "E01",
+			"color": "RU"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05RU039",
+		"product_id": "MES7S2K05RU039",
+		"variation_values": {
+			"size": "039",
+			"matEmb": "E01",
+			"color": "RU"
+		}
+	}, {
+		"_type": "variant",
+		"default_product_variation": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/products/MES7S2K05RU040",
+		"product_id": "MES7S2K05RU040",
+		"variation_values": {
+			"size": "040",
+			"matEmb": "E01",
+			"color": "RU"
+		}
+	}],
+	"select": "(**)",
+	"start": 0,
+	"total": 16
+}

@@ -1,0 +1,278 @@
+{
+	"_v": "20.8",
+	"_type": "site_search_result",
+	"count": 16,
+	"hits": [{
+		"_type": "site",
+		"_resource_state": "8db212d51a18aee59762e6ac6e78e0463de97fd1c7aac49a4c821bf26256e216",
+		"cartridges": "mcm_storefront_pdp_redesign:mcm_storefront_checkout_redesign:int_customerexporttool:int_amazonpayments:int_handlerframework:int_marketing_cloud:mcm_storefront_core:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:mcm_storefront_controllers:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:int_hreflang:mcm_jobs:int_marketingfeeds:int_adyen_overlay:int_adyen_controllers:bm_adyen:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-CN",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-CN"
+		},
+		"display_name": {
+			"default": "MCM-APAC"
+		},
+		"id": "MCM-APAC",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-APAC",
+		"storefront_status": "protected"
+	}, {
+		"_type": "site",
+		"_resource_state": "6f70704110ea7e171a4cea43112951e624df9a55fe65e4969faef8a44978487d",
+		"cartridges": "mcm_storefront_search_redesign:mcm_storefront_cart_redesign:mcm_storefront_checkout_redesign:int_avatax:int_customerexporttool:int_amazonpayments:int_handlerframework:int_marketing_cloud:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:mcm_storefront_controllers:mcm_storefront_core:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:int_usafe:int_marketingfeeds:bc_orderguard:int_hreflang:bc_job_components:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-CA",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-CA"
+		},
+		"display_name": {
+			"default": "MCM-CA"
+		},
+		"id": "MCM-CA",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-CA",
+		"storefront_status": "protected"
+	}, {
+		"_type": "site",
+		"_resource_state": "5b9afa0c742ca2c888014072514494446b1935089727659404741bcfca7238d2",
+		"cartridges": "mcm_storefront_pdp_redesign:int_customerexporttool:int_hreflang:int_amazonpayments:int_handlerframework:int_marketing_cloud:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:int_onepagecheckout:int_baidu:mcm_storefront_controllers:mcm_storefront_core:mcm_storefront_checkout:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-CN",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-CN"
+		},
+		"display_name": {
+			"default": "MCM-CN"
+		},
+		"id": "MCM-CN",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-CN",
+		"storefront_status": "protected"
+	}, {
+		"_type": "site",
+		"_resource_state": "ede6383134d97653bfaa368a558a4fd45bddc5ade8e570874d8c966a8284e7f8",
+		"cartridges": "mcm_storefront_cart_redesign:mcm_storefront_checkout_redesign:int_hreflang:int_customerexporttool:int_paypal_custom:int_amazonpayments:int_handlerframework:int_marketing_cloud:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:mcm_storefront_controllers:mcm_storefront_core:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:bc_orderguard:int_marketingfeeds:int_agileone:mcm_jobs:bc_job_components:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-EU",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-EU"
+		},
+		"display_name": {
+			"default": "MCM-DE"
+		},
+		"id": "MCM-DE",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-DE",
+		"storefront_status": "protected"
+	}, {
+		"_type": "site",
+		"_resource_state": "fe77e956ed88c1115cc3d2ea310450b922ce095a81a040e0c7a02024f377d1d5",
+		"cartridges": "mcm_storefront_checkout_redesign:int_hreflang:int_customerexporttool:int_paypal_custom:int_amazonpayments:int_handlerframework:int_marketing_cloud:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:mcm_storefront_controllers:mcm_storefront_core:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:bc_orderguard:int_marketingfeeds:int_agileone:mcm_jobs:int_gcc_translation:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-EU",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-EU"
+		},
+		"display_name": {
+			"default": "MCM-EU"
+		},
+		"id": "MCM-EU",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-EU",
+		"storefront_status": "protected"
+	}, {
+		"_type": "site",
+		"_resource_state": "46f6e53ea3d76032175954a0e005b9434f9f3302da527d9d90085eb67010dfa2",
+		"cartridges": "mcm_storefront_pdp_redesign:mcm_storefront_search_redesign:mcm_storefront_cart_redesign:mcm_storefront_checkout_redesign:mcm_storefront_core:int_agileone:int_customerexporttool:int_amazonpayments:int_handlerframework:int_marketing_cloud:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:mcm_storefront_controllers:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:int_onepagecheckout:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:int_hreflang:int_cashondelivery:int_marketingfeeds:bc_monitoring:bc_job_components:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-JP",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-JP"
+		},
+		"display_name": {
+			"default": "MCM-JP"
+		},
+		"id": "MCM-JP",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-JP",
+		"storefront_status": "protected"
+	}, {
+		"_type": "site",
+		"_resource_state": "5d7a5068e6be81c30cd799f111d811bd5039b28aff21ea0d75f05d286429c11e",
+		"cartridges": "mcm_storefront_pdp_redesign:mcm_storefront_cart_redesign:int_agileone:mcm_storefront_core:int_customerexporttool:int_amazonpayments:int_handlerframework:int_marketing_cloud:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:int_onepagecheckout:mcm_storefront_controllers:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:bc_orderguard:mcm_jobs:int_hreflang:bc_job_components:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-KR",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-KR"
+		},
+		"display_name": {
+			"default": "MCM-KR"
+		},
+		"id": "MCM-KR",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-KR",
+		"storefront_status": "online"
+	}, {
+		"_type": "site",
+		"_resource_state": "004f143d78733b6ec12d6371edaf91fc0253b93f50e0705bef91c5de5e70d299",
+		"cartridges": "mcm_storefront_pdp_redesign:mcm_storefront_search_redesign:mcm_storefront_cart_redesign:int_agileone:mcm_storefront_core:int_customerexporttool:int_amazonpayments:int_handlerframework:int_marketing_cloud:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:int_onepagecheckout:mcm_storefront_controllers:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:bc_orderguard:mcm_jobs:int_hreflang:int_marketingfeeds:bc_job_components:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-KR",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-KR"
+		},
+		"display_name": {
+			"default": "MCM-KRF"
+		},
+		"id": "MCM-KRF",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-KRF",
+		"storefront_status": "protected"
+	}, {
+		"_type": "site",
+		"_resource_state": "a02eea4f0486542978f8ea4f121179d380e66869f10daeb85700db81c680fc4a",
+		"cartridges": "mcm_storefront_pdp_redesign:mcm_storefront_search_redesign:mcm_storefront_cart_redesign:mcm_storefront_checkout_redesign:int_applepay:int_customerexporttool:int_amazonpayments:int_handlerframework:int_marketing_cloud:mcm_storefront_core:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:mcm_storefront_controllers:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:int_hreflang:mcm_jobs:int_marketingfeeds:int_adyen_overlay:int_adyen_controllers:bm_adyen:bc_job_components:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-CN",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-CN"
+		},
+		"display_name": {
+			"default": "MCM-SG"
+		},
+		"id": "MCM-SG",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-SG",
+		"storefront_status": "protected"
+	}, {
+		"_type": "site",
+		"_resource_state": "f0f6579b11b88d96dcffcb5da8d102fe4913b605c726852d454d6b5e0cda2269",
+		"cartridges": "mcm_storefront_search_redesign:mcm_storefront_cart_redesign:mcm_storefront_pdp_redesign:int_aftership:int_applepay:int_avatax:bm_avatax:mcm_storefront_checkout_redesign:int_customerexporttool:int_amazonpayments:int_handlerframework:int_marketing_cloud:int_paypal:abstract_framework:int_tgcommerce_controllers:int_tgcommerce:mcm_storefront_controllers:mcm_storefront_core:int_cybersource_controllers:int_cybersource:int_alipay:bc_library:bc_integrationframework:bm_tools:int_lguplus:bm_amplience:bm_integrationframework:bm_paypal:mcm_storefront_pipelines:int_amplience:bc_amplience:bm_amazonpayments:int_translation:int_wechatpay:int_wechatSSO:int_usafe:int_marketingfeeds:bc_orderguard:int_hreflang:bc_monitoring:bc_job_components:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "MCM-US",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/MCM-US"
+		},
+		"display_name": {
+			"default": "MCM-US"
+		},
+		"id": "MCM-US",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/MCM-US",
+		"storefront_status": "protected"
+	}, {
+		"_type": "site",
+		"_resource_state": "d4f70c3246e62f4787a11aaa2708ad6be2a7650b263021368b352e179d76a62a",
+		"cartridges": "app_storefront_base:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "RefArch",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/RefArch"
+		},
+		"display_name": {
+			"default": "RefArch"
+		},
+		"id": "RefArch",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/RefArch",
+		"storefront_status": "online"
+	}, {
+		"_type": "site",
+		"_resource_state": "82ace1be032030fb67262b49e7a70ed6d8e876743216a40b4b131e32839845e9",
+		"cartridges": "app_storefront_base:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "RefArch",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/RefArch"
+		},
+		"display_name": {
+			"default": "RefArchGlobal"
+		},
+		"id": "RefArchGlobal",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/RefArchGlobal",
+		"storefront_status": "online"
+	}, {
+		"_type": "site",
+		"_resource_state": "dd74a1844358fcf18c118641380cc5cd8bfa3ff6d8a61bf10e40a18d6c5b61cb",
+		"cartridges": "training:training_controllers:training_core:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "SiteGenesis",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/SiteGenesis"
+		},
+		"display_name": {
+			"default": "SiteGenesis"
+		},
+		"id": "SiteGenesis",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/SiteGenesis",
+		"storefront_status": "online"
+	}, {
+		"_type": "site",
+		"_resource_state": "e6b84dccb0e44b69f55f6ad344ddc534731838ce6fa5b9932c296f6942c5315f",
+		"cartridges": "sitegenesis_storefront_controllers:sitegenesis_storefront_core:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "SiteGenesis",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/SiteGenesis"
+		},
+		"display_name": {
+			"default": "SiteGenesisGlobal"
+		},
+		"id": "SiteGenesisGlobal",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/SiteGenesisGlobal",
+		"storefront_status": "online"
+	}, {
+		"_type": "site",
+		"_resource_state": "89d9579b05aadc5a289ba132d43b46f13d7bee363e78c7ce9d94dabb1dd59133",
+		"cartridges": "storefront:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "Storefront",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/Storefront"
+		},
+		"display_name": {
+			"default": "Storefront"
+		},
+		"id": "Storefront",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/Storefront",
+		"storefront_status": "online"
+	}, {
+		"_type": "site",
+		"_resource_state": "a3225419d4c221cc1fa82c84ad30cb4f9348d7150737980424c4450d14047cf6",
+		"cartridges": "training:training_controllers:training_core:plugin_apple_pay:plugin_facebook:plugin_payments:plugin_pinterest_commerce:plugin_web_payments:bc_content:core",
+		"customer_list_link": {
+			"_type": "customer_list_link",
+			"customer_list_id": "Training",
+			"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/customer_lists/Training"
+		},
+		"display_name": {
+			"default": "Training"
+		},
+		"id": "Training",
+		"in_deletion": false,
+		"link": "https://dev01-ap02-mcm.demandware.net/s/-/dw/data/v20_8/sites/Training",
+		"storefront_status": "online"
+	}],
+	"query": {
+		"bool_query": {
+			"_type": "bool_query",
+			"must": [{
+				"term_query": {
+					"_type": "term_query",
+					"fields": ["in_deletion"],
+					"operator": "is",
+					"values": [false]
+				}
+			}]
+		}
+	},
+	"select": "(**)",
+	"start": 0,
+	"total": 16
+}
