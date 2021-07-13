@@ -1,0 +1,60 @@
+{
+  "payload": {
+    "AmazonOrderId": "903-1671087-0812628",
+    "NextToken": "2YgYW55IGNhcm5hbCBwbGVhc3VyZS4",
+    "OrderItems": [
+      {
+        "ASIN": "BT0093TELA",
+        "OrderItemId": "68828574383266",
+        "SellerSKU": "CBA_OTF_1",
+        "Title": "Example item name",
+        "QuantityOrdered": 1,
+        "QuantityShipped": 1,
+        "PointsGranted": {
+          "PointsNumber": 10,
+          "PointsMonetaryValue": {
+            "CurrencyCode": "JPY",
+            "Amount": "10.00"
+          }
+        },
+        "ItemPrice": {
+          "CurrencyCode": "JPY",
+          "Amount": "25.99"
+        },
+        "ShippingPrice": {
+          "CurrencyCode": "JPY",
+          "Amount": "1.26"
+        },
+        "ScheduledDeliveryEndDate": "2013-09-09T01:30:00Z",
+        "ScheduledDeliveryStartDate": "2013-09-07T02:00:00Z",
+        "CODFee": {
+          "CurrencyCode": "JPY",
+          "Amount": "10.00"
+        },
+        "CODFeeDiscount": {
+          "CurrencyCode": "JPY",
+          "Amount": "1.00"
+        },
+        "priceDesignation": "BusinessPrice"
+      },
+      {
+        "ASIN": "BCTU1104UEFB",
+        "OrderItemId": "79039765272157",
+        "SellerSKU": "CBA_OTF_5",
+        "Title": "Example item name",
+        "QuantityOrdered": 2,
+        "ItemPrice": {
+          "CurrencyCode": "JPY",
+          "Amount": "17.95"
+        },
+        "PromotionIds": [
+          "FREESHIP"
+        ],
+        "ConditionId": "Used",
+        "ConditionSubtypeId": "Mint",
+        "ConditionNote": "Example ConditionNote",
+        "PriceDesignation": "BusinessPrice"
+      }
+    ]
+  }
+}
