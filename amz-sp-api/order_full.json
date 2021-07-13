@@ -1,0 +1,111 @@
+{
+	"AmazonOrderId": "902-3159896-1390916",
+	"buyer": {
+		"AmazonOrderId": "902-3159896-1390916",
+		"BuyerEmail": "user@amz.com",
+		"BuyerName": "John Smith",
+		"BuyerTaxInfo": {
+			"CompanyLegalName": "Company Name"
+		},
+		"PurchaseOrderNumber": "2234345435345"
+	},
+	"items": [{
+			"ASIN": "BT0093TELA",
+			"OrderItemId": "68828574383266",
+			"SellerSKU": "CBA_OTF_1",
+			"Title": "Example item name",
+			"QuantityOrdered": 1,
+			"QuantityShipped": 1,
+			"PointsGranted": {
+				"PointsNumber": 10,
+				"PointsMonetaryValue": {
+					"CurrencyCode": "JPY",
+					"Amount": "10.00"
+				}
+			},
+			"ItemPrice": {
+				"CurrencyCode": "JPY",
+				"Amount": "25.99"
+			},
+			"ShippingPrice": {
+				"CurrencyCode": "JPY",
+				"Amount": "1.26"
+			},
+			"ScheduledDeliveryEndDate": "2013-09-09T01:30:00Z",
+			"ScheduledDeliveryStartDate": "2013-09-07T02:00:00Z",
+			"CODFee": {
+				"CurrencyCode": "JPY",
+				"Amount": "10.00"
+			},
+			"CODFeeDiscount": {
+				"CurrencyCode": "JPY",
+				"Amount": "1.00"
+			},
+			"priceDesignation": "BusinessPrice"
+		},
+		{
+			"ASIN": "BCTU1104UEFB",
+			"OrderItemId": "79039765272157",
+			"SellerSKU": "CBA_OTF_5",
+			"Title": "Example item name",
+			"QuantityOrdered": 2,
+			"ItemPrice": {
+				"CurrencyCode": "JPY",
+				"Amount": "17.95"
+			},
+			"PromotionIds": [
+				"FREESHIP"
+			],
+			"ConditionId": "Used",
+			"ConditionSubtypeId": "Mint",
+			"ConditionNote": "Example ConditionNote",
+			"PriceDesignation": "BusinessPrice"
+		}
+	],
+	"address": {
+		"AmazonOrderId": "902-3159896-1390916",
+		"ShippingAddress": {
+			"Name": "Michigan address",
+			"AddressLine1": "1 cross st",
+			"City": "Canton",
+			"StateOrRegion": "MI",
+			"PostalCode": "48817",
+			"CountryCode": "US"
+		}
+	},
+	"PurchaseDate": "2017-01-20T19:49:35Z",
+	"LastUpdateDate": "2017-01-20T19:49:35Z",
+	"OrderStatus": "Pending",
+	"FulfillmentChannel": "SellerFulfilled",
+	"NumberOfItemsShipped": 0,
+	"NumberOfItemsUnshipped": 0,
+	"PaymentMethod": "Other",
+	"PaymentMethodDetails": [
+		"CreditCard",
+		"GiftCerificate"
+	],
+	"MarketplaceId": "ATVPDKIKX0DER",
+	"ShipmentServiceLevelCategory": "Standard",
+	"OrderType": "StandardOrder",
+	"EarliestShipDate": "2017-01-20T19:51:16Z",
+	"LatestShipDate": "2017-01-25T19:49:35Z",
+	"IsBusinessOrder": false,
+	"IsPrime": false,
+	"IsGlobalExpressEnabled": false,
+	"IsPremiumOrder": false,
+	"IsSoldByAB": false,
+	"DefaultShipFromLocationAddress": {
+		"Name": "MFNIntegrationTestMerchant",
+		"AddressLine1": "2201 WESTLAKE AVE",
+		"City": "SEATTLE",
+		"StateOrRegion": "WA",
+		"PostalCode": "98121-2778",
+		"CountryCode": "US",
+		"Phone": "+1 480-386-0930 ext. 73824",
+		"AddressType": "Commercial"
+	},
+	"FulfillmentInstruction": {
+		"FulfillmentSupplySourceId": "sampleSupplySourceId"
+	},
+	"IsISPU": false
+}
