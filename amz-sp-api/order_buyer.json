@@ -1,0 +1,11 @@
+{
+  "payload": {
+    "AmazonOrderId": "902-3159896-1390916",
+    "BuyerEmail": "user@amz.com",
+    "BuyerName": "John Smith",
+    "BuyerTaxInfo": {
+      "CompanyLegalName": "Company Name"
+    },
+    "PurchaseOrderNumber": "2234345435345"
+  }
+}
