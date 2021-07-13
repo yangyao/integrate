@@ -1,0 +1,71 @@
+{
+  "payload": {
+    "nextToken": "string",
+    "fulfillmentOrders": [
+      {
+        "sellerFulfillmentOrderId": "string",
+        "marketplaceId": "string",
+        "displayableOrderId": "string",
+        "displayableOrderDate": "2021-07-13T07:21:44.753Z",
+        "displayableOrderComment": "string",
+        "shippingSpeedCategory": "Standard",
+        "deliveryWindow": {
+          "startDate": "2021-07-13T07:21:44.753Z",
+          "endDate": "2021-07-13T07:21:44.753Z"
+        },
+        "destinationAddress": {
+          "name": "string",
+          "addressLine1": "string",
+          "addressLine2": "string",
+          "addressLine3": "string",
+          "city": "string",
+          "districtOrCounty": "string",
+          "stateOrRegion": "string",
+          "postalCode": "string",
+          "countryCode": "string",
+          "phone": "string"
+        },
+        "fulfillmentAction": "Ship",
+        "fulfillmentPolicy": "FillOrKill",
+        "codSettings": {
+          "isCodRequired": true,
+          "codCharge": {
+            "currencyCode": "string",
+            "value": "string"
+          },
+          "codChargeTax": {
+            "currencyCode": "string",
+            "value": "string"
+          },
+          "shippingCharge": {
+            "currencyCode": "string",
+            "value": "string"
+          },
+          "shippingChargeTax": {
+            "currencyCode": "string",
+            "value": "string"
+          }
+        },
+        "receivedDate": "2021-07-13T07:21:44.753Z",
+        "fulfillmentOrderStatus": "New",
+        "statusUpdatedDate": "2021-07-13T07:21:44.753Z",
+        "notificationEmails": [
+          "string"
+        ],
+        "featureConstraints": [
+          {
+            "featureName": "string",
+            "featureFulfillmentPolicy": "Required"
+          }
+        ]
+      }
+    ]
+  },
+  "errors": [
+    {
+      "code": "string",
+      "message": "string",
+      "details": "string"
+    }
+  ]
+}
