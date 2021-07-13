@@ -1,0 +1,13 @@
+{
+  "payload": {
+    "AmazonOrderId": "902-3159896-1390916",
+    "ShippingAddress": {
+      "Name": "Michigan address",
+      "AddressLine1": "1 cross st",
+      "City": "Canton",
+      "StateOrRegion": "MI",
+      "PostalCode": "48817",
+      "CountryCode": "US"
+    }
+  }
+}
