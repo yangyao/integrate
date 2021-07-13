@@ -1,0 +1,40 @@
+{
+  "payload": {
+    "packageNumber": 0,
+    "trackingNumber": "string",
+    "customerTrackingLink": "string",
+    "carrierCode": "string",
+    "carrierPhoneNumber": "string",
+    "carrierURL": "string",
+    "shipDate": "2021-07-13T08:41:52.862Z",
+    "estimatedArrivalDate": "2021-07-13T08:41:52.862Z",
+    "shipToAddress": {
+      "city": "string",
+      "state": "string",
+      "country": "string"
+    },
+    "currentStatus": "IN_TRANSIT",
+    "currentStatusDescription": "string",
+    "signedForBy": "string",
+    "additionalLocationInfo": "AS_INSTRUCTED",
+    "trackingEvents": [
+      {
+        "eventDate": "2021-07-13T08:41:52.862Z",
+        "eventAddress": {
+          "city": "string",
+          "state": "string",
+          "country": "string"
+        },
+        "eventCode": "EVENT_101",
+        "eventDescription": "string"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "code": "string",
+      "message": "string",
+      "details": "string"
+    }
+  ]
+}
