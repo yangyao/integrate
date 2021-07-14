@@ -1,0 +1,159 @@
+{
+  "payload": {
+    "fulfillmentOrder": {
+      "sellerFulfillmentOrderId": "string",
+      "marketplaceId": "string",
+      "displayableOrderId": "string",
+      "displayableOrderDate": "2021-07-14T08:37:22.636Z",
+      "displayableOrderComment": "string",
+      "shippingSpeedCategory": "Standard",
+      "deliveryWindow": {
+        "startDate": "2021-07-14T08:37:22.636Z",
+        "endDate": "2021-07-14T08:37:22.636Z"
+      },
+      "destinationAddress": {
+        "name": "string",
+        "addressLine1": "string",
+        "addressLine2": "string",
+        "addressLine3": "string",
+        "city": "string",
+        "districtOrCounty": "string",
+        "stateOrRegion": "string",
+        "postalCode": "string",
+        "countryCode": "string",
+        "phone": "string"
+      },
+      "fulfillmentAction": "Ship",
+      "fulfillmentPolicy": "FillOrKill",
+      "codSettings": {
+        "isCodRequired": true,
+        "codCharge": {
+          "currencyCode": "string",
+          "value": "string"
+        },
+        "codChargeTax": {
+          "currencyCode": "string",
+          "value": "string"
+        },
+        "shippingCharge": {
+          "currencyCode": "string",
+          "value": "string"
+        },
+        "shippingChargeTax": {
+          "currencyCode": "string",
+          "value": "string"
+        }
+      },
+      "receivedDate": "2021-07-14T08:37:22.638Z",
+      "fulfillmentOrderStatus": "New",
+      "statusUpdatedDate": "2021-07-14T08:37:22.638Z",
+      "notificationEmails": [
+        "string"
+      ],
+      "featureConstraints": [
+        {
+          "featureName": "string",
+          "featureFulfillmentPolicy": "Required"
+        }
+      ]
+    },
+    "fulfillmentOrderItems": [
+      {
+        "sellerSku": "string",
+        "sellerFulfillmentOrderItemId": "string",
+        "quantity": 0,
+        "giftMessage": "string",
+        "displayableComment": "string",
+        "fulfillmentNetworkSku": "string",
+        "orderItemDisposition": "string",
+        "cancelledQuantity": 0,
+        "unfulfillableQuantity": 0,
+        "estimatedShipDate": "2021-07-14T08:37:22.638Z",
+        "estimatedArrivalDate": "2021-07-14T08:37:22.638Z",
+        "perUnitPrice": {
+          "currencyCode": "string",
+          "value": "string"
+        },
+        "perUnitTax": {
+          "currencyCode": "string",
+          "value": "string"
+        },
+        "perUnitDeclaredValue": {
+          "currencyCode": "string",
+          "value": "string"
+        }
+      }
+    ],
+    "fulfillmentShipments": [
+      {
+        "amazonShipmentId": "string",
+        "fulfillmentCenterId": "string",
+        "fulfillmentShipmentStatus": "PENDING",
+        "shippingDate": "2021-07-14T08:37:22.638Z",
+        "estimatedArrivalDate": "2021-07-14T08:37:22.638Z",
+        "shippingNotes": [
+          "string"
+        ],
+        "fulfillmentShipmentItem": [
+          {
+            "sellerSku": "string",
+            "sellerFulfillmentOrderItemId": "string",
+            "quantity": 0,
+            "packageNumber": 0,
+            "serialNumber": "string"
+          }
+        ],
+        "fulfillmentShipmentPackage": [
+          {
+            "packageNumber": 0,
+            "carrierCode": "string",
+            "trackingNumber": "string",
+            "estimatedArrivalDate": "2021-07-14T08:37:22.638Z"
+          }
+        ]
+      }
+    ],
+    "returnItems": [
+      {
+        "sellerReturnItemId": "string",
+        "sellerFulfillmentOrderItemId": "string",
+        "amazonShipmentId": "string",
+        "sellerReturnReasonCode": "string",
+        "returnComment": "string",
+        "amazonReturnReasonCode": "string",
+        "status": "New",
+        "statusChangedDate": "2021-07-14T08:37:22.638Z",
+        "returnAuthorizationId": "string",
+        "returnReceivedCondition": "Sellable",
+        "fulfillmentCenterId": "string"
+      }
+    ],
+    "returnAuthorizations": [
+      {
+        "returnAuthorizationId": "string",
+        "fulfillmentCenterId": "string",
+        "returnToAddress": {
+          "name": "string",
+          "addressLine1": "string",
+          "addressLine2": "string",
+          "addressLine3": "string",
+          "city": "string",
+          "districtOrCounty": "string",
+          "stateOrRegion": "string",
+          "postalCode": "string",
+          "countryCode": "string",
+          "phone": "string"
+        },
+        "amazonRmaId": "string",
+        "rmaPageURL": "string"
+      }
+    ]
+  },
+  "errors": [
+    {
+      "code": "string",
+      "message": "string",
+      "details": "string"
+    }
+  ]
+}
